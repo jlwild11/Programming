@@ -1,0 +1,1 @@
+WORK_TYPE <> 'Blackout' And (PARCEL_STATUS <> 'ROE Approved' Or PARCEL_STATUS IS NULL)

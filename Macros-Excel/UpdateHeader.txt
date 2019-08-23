@@ -1,0 +1,129 @@
+Sub UpdateHeader()
+'
+' UpdateHeader Macro
+'
+
+Application.ScreenUpdating = False
+
+
+    Sheets("2nd Page Header").Select
+    
+' APN variable
+    Range("C3").Select
+    APN_Text = ActiveCell.Value
+    Range("D3").Select
+    APN_Text2 = ActiveCell.Value
+    APN = APN_Text + APN_Text2
+    
+' Project variable
+    Range("F3").Select
+    Project_Text = ActiveCell.Value
+    Range("G3").Select
+    Project_Text2 = ActiveCell.Value
+    Project = Project_Text + Project_Text2
+
+' Region variable
+    Range("I3").Select
+    Region_Text = ActiveCell.Value
+    Range("J3").Select
+    Region_Text2 = ActiveCell.Value
+    Region = Region_Text + Region_Text2
+    
+' Circuit variable
+    Range("L3").Select
+    Circuit_Text = ActiveCell.Value
+    Range("M3").Select
+    Circuit_Text2 = ActiveCell.Value
+    Circuit = Circuit_Text + Circuit_Text2
+    
+
+Sheets("WO").Select
+
+' Work Packet variable
+    WP = "WP: "
+    DateNow = Format(Now, "MMddyyyy")
+    WPnum = InputBox("Enter your work packet number." & vbNewLine & vbNewLine & "ex: ED2101_07172019_1" & vbNewLine & vbNewLine & "For El Dorado 2101 circuit, todays date, and the first package number sent for today", "Work Packet Number", "_" & DateNow & "_")
+    WorkPackNum = WP & WPnum
+    
+ 
+'''Delete what is currently in the headers
+    With ActiveSheet.PageSetup
+        .LeftHeader = ""
+        .CenterHeader = ""
+        .RightHeader = ""
+        .LeftFooter = ""
+        .CenterFooter = ""
+        .RightFooter = ""
+        .LeftMargin = Application.InchesToPoints(0.25)
+        .RightMargin = Application.InchesToPoints(0.25)
+        .TopMargin = Application.InchesToPoints(0.767916666666667)
+        .BottomMargin = Application.InchesToPoints(1.0609375)
+        .HeaderMargin = Application.InchesToPoints(0)
+        .FooterMargin = Application.InchesToPoints(0)
+        .Zoom = 97
+        .PrintErrors = xlPrintErrorsDisplayed
+        .OddAndEvenPagesHeaderFooter = False
+        .DifferentFirstPageHeaderFooter = True
+        .ScaleWithDocHeaderFooter = True
+        .AlignMarginsHeaderFooter = True
+        .EvenPage.LeftHeader.Text = ""
+        .EvenPage.CenterHeader.Text = ""
+        .EvenPage.RightHeader.Text = ""
+        .EvenPage.LeftFooter.Text = ""
+        .EvenPage.CenterFooter.Text = ""
+        .EvenPage.RightFooter.Text = ""
+        .FirstPage.LeftHeader.Text = ""
+        .FirstPage.CenterHeader.Text = ""
+        .FirstPage.RightHeader.Text = ""
+        .FirstPage.LeftFooter.Text = ""
+        .FirstPage.CenterFooter.Text = "&G"
+        .FirstPage.RightFooter.Text = ""
+    End With
+
+Application.PrintCommunication = False
+
+
+
+'''Add new header info
+    With ActiveSheet.PageSetup
+        .LeftHeader = ""
+        .CenterHeader = "&""-,Bold""&12" & Chr(10) & APN & "               " & Project & "               " & Region & "               " & Circuit & "               " & WorkPackNum
+        .RightHeader = ""
+        .LeftFooter = ""
+        .CenterFooter = ""
+        .RightFooter = ""
+        .LeftMargin = Application.InchesToPoints(0.25)
+        .RightMargin = Application.InchesToPoints(0.25)
+        .TopMargin = Application.InchesToPoints(0.767916666666667)
+        .BottomMargin = Application.InchesToPoints(1.0609375)
+        .HeaderMargin = Application.InchesToPoints(0)
+        .FooterMargin = Application.InchesToPoints(0)
+        .Zoom = 97
+        .PrintErrors = xlPrintErrorsDisplayed
+        .OddAndEvenPagesHeaderFooter = False
+        .DifferentFirstPageHeaderFooter = True
+        .ScaleWithDocHeaderFooter = True
+        .AlignMarginsHeaderFooter = True
+        .EvenPage.LeftHeader.Text = ""
+        .EvenPage.CenterHeader.Text = ""
+        .EvenPage.RightHeader.Text = ""
+        .EvenPage.LeftFooter.Text = ""
+        .EvenPage.CenterFooter.Text = ""
+        .EvenPage.RightFooter.Text = ""
+        .FirstPage.LeftHeader.Text = ""
+        .FirstPage.CenterHeader.Text = "&""-,Bold""&12" & Chr(10) & WorkPackNum
+        .FirstPage.RightHeader.Text = ""
+        .FirstPage.LeftFooter.Text = ""
+        .FirstPage.CenterFooter.Text = "&G"
+        .FirstPage.RightFooter.Text = ""
+    End With
+    
+    
+    
+    Application.PrintCommunication = True
+    
+    Range("E3").Select
+
+
+Application.ScreenUpdating = True
+End Sub
