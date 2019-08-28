@@ -1,0 +1,39 @@
+Sub ResizeRows()
+'
+' ResizeRows Macro
+'
+
+'Unhide rows and then auto adjust the height
+    Rows("10:500").Select
+    Selection.EntireRow.Hidden = False
+    Selection.Rows.AutoFit
+
+
+
+Dim lastRow As Long
+Dim HideToRow As Long
+    
+''Find last row used with a value
+    lastRow = Cells.Find(What:="*", _
+                    After:=Range("A1"), _
+                    LookAt:=xlPart, _
+                    LookIn:=xlValues, _
+                    SearchOrder:=xlByRows, _
+                    SearchDirection:=xlPrevious, _
+                    MatchCase:=False).Row
+    
+'' MsgBox "Last Row: " & lastRow
+
+'Assign rows to hide from view
+lastRow = lastRow + 1
+HideToRow = 200
+
+'Select the rows and hide them
+Let Copyrange = "A" & lastRow & ":" & "A" & HideToRow
+Range(Copyrange).Select
+Selection.EntireRow.Hidden = True
+Range("B7").Select
+
+
+
+End Sub

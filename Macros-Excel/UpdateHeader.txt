@@ -35,6 +35,14 @@ Application.ScreenUpdating = False
     Range("M3").Select
     Circuit_Text2 = ActiveCell.Value
     Circuit = Circuit_Text + Circuit_Text2
+
+' CircuitShort variable
+    Range("E8").Select
+    CircuitShort = ActiveCell.Value
+    
+' Work Packet iteration variable
+    Range("E7").Select
+    WPnumIteration = ActiveCell.Value
     
 
 Sheets("WO").Select
@@ -42,7 +50,7 @@ Sheets("WO").Select
 ' Work Packet variable
     WP = "WP: "
     DateNow = Format(Now, "MMddyyyy")
-    WPnum = InputBox("Enter your work packet number." & vbNewLine & vbNewLine & "ex: ED2101_07172019_1" & vbNewLine & vbNewLine & "For El Dorado 2101 circuit, todays date, and the first package number sent for today", "Work Packet Number", "_" & DateNow & "_")
+    WPnum = InputBox("Enter/Confirm your work packet number." & vbNewLine & vbNewLine & "ex: ED2101_07172019_1" & vbNewLine & vbNewLine & "For El Dorado 2101 circuit, todays date, and the first package number sent for today", "Work Packet Number", CircuitShort & "_" & DateNow & "_" & WPnumIteration)
     WorkPackNum = WP & WPnum
     
  

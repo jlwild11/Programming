@@ -1,0 +1,28 @@
+Sub FindLastRow()
+'Finds the last non-blank cell on a sheet/range.
+
+Dim lastRow As Long
+Dim HideToRow As Long
+    
+    lastRow = Cells.Find(What:="*", _
+                    After:=Range("A1"), _
+                    LookAt:=xlPart, _
+                    LookIn:=xlValues, _
+                    SearchOrder:=xlByRows, _
+                    SearchDirection:=xlPrevious, _
+                    MatchCase:=False).Row
+    
+   '' MsgBox "Last Row: " & lastRow
+
+lastRow = lastRow + 1
+HideToRow = 200
+
+
+
+Let Copyrange = "A" & lastRow & ":" & "A" & HideToRow
+Range(Copyrange).Select
+Selection.EntireRow.Hidden = True
+Range("B7").Select
+
+
+End Sub
