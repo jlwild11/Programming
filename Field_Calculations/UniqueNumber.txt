@@ -1,0 +1,44 @@
+uniqueList10 = []
+uniqueList09 = []
+uniqueList08 = []
+uniqueList07 = []
+uniqueList06 = []
+uniqueList05 = []
+uniqueList04 = []
+uniqueList03 = []
+uniqueList02 = []
+uniqueList01 = []
+
+def isDuplicate(inValue):
+    if inValue in uniqueList10: 
+	    return "K"
+    elif inValue in uniqueList09: 
+	    uniqueList10.append(inValue)
+        return "J"
+    elif inValue in uniqueList08: 
+	    uniqueList09.append(inValue)
+        return "I"
+    elif inValue in uniqueList07: 
+	    uniqueList08.append(inValue)
+        return "H"    
+    elif inValue in uniqueList06: 
+	    uniqueList07.append(inValue)
+        return "G"    
+    elif inValue in uniqueList05: 
+	    uniqueList06.append(inValue)
+        return "F"
+    elif inValue in uniqueList04: 
+	    uniqueList05.append(inValue)
+        return "E"
+    elif inValue in uniqueList03: 
+	    uniqueList04.append(inValue)
+        return "D"
+    elif inValue in uniqueList02: 
+	    uniqueList03.append(inValue)
+        return "C"
+    elif inValue in uniqueList01: 
+	    uniqueList02.append(inValue)
+        return "B"
+    else:
+        uniqueList01.append(inValue)
+        return "A"
