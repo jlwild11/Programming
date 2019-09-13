@@ -1,0 +1,10 @@
+https://exceljet.net/formula/split-text-string-at-specific-character
+
+
+=LEFT(A1,FIND("_",A1)-1)
+
+=RIGHT(A1,LEN(A1)-FIND("_",A1))
+
+
+https://www.excelfunctions.net/split-string-in-excel.html
+=LEFT( A1, FIND( "|", SUBSTITUTE( A1, "_", "|", 3 ) ) - 1 )
