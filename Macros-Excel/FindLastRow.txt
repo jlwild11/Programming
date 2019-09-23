@@ -26,3 +26,28 @@ Range("B7").Select
 
 
 End Sub
+
+
+
+Sub LastRowToHide()
+
+Range("B10").End(xlDown).Select
+
+End Sub
+
+
+
+Sub FirstRowToHide()
+'Locate the next data entry cell in data entry column A
+Dim FirstCell As String
+Dim i As Integer
+FirstCell = "B10"
+Range(FirstCell).Select
+Do Until ActiveCell.Value = ""
+If ActiveCell.Value = "" Then
+Exit Do
+Else
+ActiveCell.Offset(1, 0).Select
+End If
+Loop
+End Sub
