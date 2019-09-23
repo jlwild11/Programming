@@ -1,0 +1,75 @@
+      Sub WorksheetLoop2()
+
+         ' Declare Current as a worksheet object variable.
+         Dim WS_Count As Integer
+         Dim I As Integer
+
+        ' Set WS_Count equal to the number of worksheets in the active
+         ' workbook.
+         WS_Count = ActiveWorkbook.Worksheets.Count
+
+         ' Begin the loop.
+         For I = 1 To WS_Count
+            ActiveWorkbook.Worksheets(I).Activate
+                Range("D5:L5").Select
+            ActiveCell.FormulaR1C1 = "TNF Provision"
+            Range("D6:L6").Select
+            Application.PrintCommunication = False
+            With ActiveSheet.PageSetup
+                .PrintTitleRows = "$8:$9"
+                .PrintTitleColumns = ""
+            End With
+            Application.PrintCommunication = True
+            ActiveSheet.PageSetup.PrintArea = "$A$1:$L$392"
+            Application.PrintCommunication = False
+            With ActiveSheet.PageSetup
+                .LeftHeader = "&G"
+                .CenterHeader = _
+                "&""Calibri,Bold""&20&K03+000Tree Mortality Bid Work Order" & Chr(10) & "&""Calibri,Regular""&16" & Chr(10) & "&8&K01+000Created: &K03+000&D &T" & Chr(10) & ""
+                .RightHeader = "&G"
+                .LeftFooter = _
+                "Date Started:_______________________" & Chr(10) & "Date Completed:____________________"
+                .CenterFooter = "&""Calibri,Bold""Page: &P"
+                .RightFooter = _
+                "Supervisor:___________________" & Chr(10) & "Signature:___________________"
+                .LeftMargin = Application.InchesToPoints(0.25)
+                .RightMargin = Application.InchesToPoints(0.25)
+                .TopMargin = Application.InchesToPoints(1.16176470588235)
+                .BottomMargin = Application.InchesToPoints(0.867647058823529)
+                .HeaderMargin = Application.InchesToPoints(0)
+                .FooterMargin = Application.InchesToPoints(0.117647058823529)
+                .PrintHeadings = False
+                .PrintGridlines = False
+                .PrintComments = xlPrintNoComments
+                .PrintQuality = 600
+                .CenterHorizontally = True
+                .CenterVertically = False
+                .Orientation = xlLandscape
+                .Draft = False
+                .PaperSize = xlPaperTabloid
+                .FirstPageNumber = xlAutomatic
+                .Order = xlDownThenOver
+                .BlackAndWhite = False
+                .Zoom = 120
+                .PrintErrors = xlPrintErrorsDisplayed
+                .OddAndEvenPagesHeaderFooter = False
+                .DifferentFirstPageHeaderFooter = False
+                .ScaleWithDocHeaderFooter = True
+                .AlignMarginsHeaderFooter = True
+                .EvenPage.LeftHeader.Text = ""
+                .EvenPage.CenterHeader.Text = ""
+                .EvenPage.RightHeader.Text = ""
+                .EvenPage.LeftFooter.Text = ""
+                .EvenPage.CenterFooter.Text = ""
+                .EvenPage.RightFooter.Text = ""
+                .FirstPage.LeftHeader.Text = ""
+                .FirstPage.CenterHeader.Text = ""
+                .FirstPage.RightHeader.Text = ""
+                .FirstPage.LeftFooter.Text = ""
+                .FirstPage.CenterFooter.Text = ""
+                .FirstPage.RightFooter.Text = ""
+            End With
+            Application.PrintCommunication = True
+         Next I
+
+      End Sub

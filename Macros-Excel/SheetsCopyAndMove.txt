@@ -1,0 +1,41 @@
+Sub CopyAndMoveSheets()
+'
+' Macro1 Macro
+'
+
+'
+RowNum = InputBox("Start Row Number")
+EndRow = InputBox("Last Row Number")
+
+
+
+For i = RowNum To EndRow
+
+Cell = "A" & i
+APN = Range(Cell).Value
+
+    Range(Cell).Select
+    Selection.Copy
+    Sheets("Bid_Item").Select
+    Range("N1").Select
+    ActiveSheet.Paste
+    Sheets("Bid_Item").Select
+    Application.CutCopyMode = False
+    Sheets("Bid_Item").Copy After:=Workbooks("TNF_WORKSHEETS.xlsx").Sheets(Sheets.Count)
+    Windows("TNF_WORKSHEETS.xlsx").Activate
+    Sheets("Bid_Item").Select
+    Sheets("Bid_Item").Name = APN
+    Sheets(APN).Move After:=Sheets(Sheets.Count)
+    Cells.Select
+    Application.CutCopyMode = False
+    Selection.Copy
+    Selection.PasteSpecial Paste:=xlPasteValues, Operation:=xlNone, SkipBlanks _
+        :=False, Transpose:=False
+    Range("A1").Select
+    Application.CutCopyMode = False
+    ActiveWorkbook.Save
+    Windows("TNF_WORKSHEET_20190920.xlsm").Activate
+    Sheets("Parcel_Template").Select
+Next i
+
+End Sub
