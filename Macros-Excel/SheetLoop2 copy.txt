@@ -1,4 +1,4 @@
-Sub WorksheetLoop2()
+Sub WorksheetLoopSimple()
 
 ' Declare Current as a worksheet object variable.
 Dim WS_Count As Integer

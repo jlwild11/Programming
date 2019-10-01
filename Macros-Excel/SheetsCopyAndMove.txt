@@ -1,31 +1,70 @@
-Sub CopyAndMoveSheets()
+Sub SheetsCopyAndMove()
 '
-' Macro1 Macro
 '
+sourceFileName = ThisWorkbook.Name
 
-'
+'Select which rows in Parcel sheet to create sheets from
 RowNum = InputBox("Start Row Number")
 EndRow = InputBox("Last Row Number")
 
+'Open the workbook to copy pages to
+Dim wbCopyTo As Variant
 
+wbCopyTo = Application.GetOpenFilename(FileFilter:="Excel Files,*.xl*;*.xm*")
 
+If wbCopyTo <> False Then
+
+Workbooks.Open Filename:=wbCopyTo
+
+wbCopyToFileName = ActiveWorkbook.Name
+
+End If
+
+'Start our loop to run through
 For i = RowNum To EndRow
 
+Windows(sourceFileName).Activate
+
+Sheets("Parcel_Template").Select
 Cell = "A" & i
 APN = Range(Cell).Value
 
+'Copy and Paste APN
     Range(Cell).Select
     Selection.Copy
     Sheets("Bid_Item").Select
     Range("N1").Select
     ActiveSheet.Paste
+    
+'Update Footer Bid Item Number
+    BidItemNum = Range("O4").Value
+    ActiveSheet.PageSetup.CenterFooter = "&12&B&K538DD5" & BidItemNum & Chr(10) & "&B&K000000&10Page &P of &N"
+
+'Wrap text
+    Columns("K:K").Select
+    With Selection
+        .WrapText = True
+        .Orientation = 0
+        .AddIndent = False
+        .IndentLevel = 0
+        .ShrinkToFit = False
+        .ReadingOrder = xlContext
+    End With
+    Range("A1").Select
+
+
+'Copy Sheet to other Workbook
     Sheets("Bid_Item").Select
     Application.CutCopyMode = False
-    Sheets("Bid_Item").Copy After:=Workbooks("TNF_WORKSHEETS.xlsx").Sheets(Sheets.Count)
-    Windows("TNF_WORKSHEETS.xlsx").Activate
+    Sheets("Bid_Item").Copy After:=Workbooks(wbCopyToFileName).Sheets(1)
+
+'Rename Sheet and move to end
+    Windows(wbCopyToFileName).Activate
     Sheets("Bid_Item").Select
     Sheets("Bid_Item").Name = APN
     Sheets(APN).Move After:=Sheets(Sheets.Count)
+
+'Copy sheet and paste as values only
     Cells.Select
     Application.CutCopyMode = False
     Selection.Copy
@@ -33,8 +72,24 @@ APN = Range(Cell).Value
         :=False, Transpose:=False
     Range("A1").Select
     Application.CutCopyMode = False
+    
+'Delete Columns
+    Columns("M:M").Select
+    Range(Selection, Selection.End(xlToRight)).Select
+    Range(Selection, Selection.End(xlToRight)).Select
+    Selection.Clear
+    Range("A1").Select
+    
+'Delete Rows
+    Rows("391:391").Select
+    Range(Selection, Selection.End(xlDown)).Select
+    Selection.Clear
+    Range("A1").Select
+
+'Save Workbook
     ActiveWorkbook.Save
-    Windows("TNF_WORKSHEET_20190920.xlsm").Activate
+'Select source worbook and continue loop
+    Windows(sourceFileName).Activate
     Sheets("Parcel_Template").Select
 Next i
 
