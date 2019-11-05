@@ -51,3 +51,7 @@ ActiveCell.Offset(1, 0).Select
 End If
 Loop
 End Sub
+
+
+
+LastRow = sht.Range("A1").CurrentRegion.Rows.Count
