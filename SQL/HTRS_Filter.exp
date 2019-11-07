@@ -1,0 +1,19 @@
+(
+    (
+        ("STATUS" = 'Work Identified' ) 
+        OR 
+        ( "STATUS" = 'In-Progress' )
+    ) 
+    AND 
+    (
+        ("Tree_Matrix_Score" = NULL) 
+        OR 
+        ("Tree_Matrix_Score" = '') 
+        OR
+        ( "Impact_Matrix_Score" = NULL ) 
+        OR 
+        ( "Impact_Matrix_Score" = '' )
+    ) 
+    AND 
+    ("INS_DATE" > date '2019-09-30 23:52:29' )
+)
