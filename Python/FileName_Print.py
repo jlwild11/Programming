@@ -1,5 +1,9 @@
 import os
 
-for root, dirs, files in os.walk(r"S:\ArcGIS\Python"):
+FolderPath = r"C:\Users\jaw\Desktop\Brunswick_1106_Attachments"
+fileList = []
+for root, dirs, files in os.walk(FolderPath):
     for filename in files:
-        print(filename)
+        fileList.append(filename)
+
+print(fileList)

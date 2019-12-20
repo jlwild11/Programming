@@ -16,7 +16,7 @@ print ("Script completed")
 import arcpy
 import os
 
-workspace = r"N:\PROJECTS\PLACER_COUNTY\500_GIS_DATA\GDB\Master_Buckets"
+workspace = r"N:\PROJECTS\USFS\IDIQ_2019\South_Fork_SMMU\South_Fork.gdb"
 
 walk = arcpy.da.Walk(workspace, datatype="FeatureClass")
 
