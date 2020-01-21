@@ -1,0 +1,2 @@
+Application.StatusBar = "PROGRESS: " & I & " of " & WS_Count - 3
+Application.StatusBar = False
