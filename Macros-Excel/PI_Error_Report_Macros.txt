@@ -1,0 +1,664 @@
+Option Explicit
+Dim Company As Variant
+Dim CompanyPivot As Variant
+Dim BookNameTimeFrame As String
+Dim ZZZ As String
+Dim Email_To As String
+Dim Email_CC As String
+Dim Email_Subject As String
+Dim Email_String_Body As String
+
+Sub Email_Variables()
+Dim Line1 As String
+Dim Line2 As String
+Dim Line3 As String
+
+ActiveWorkbook.Worksheets("Roster and Circuits").Activate
+
+Email_CC = ActiveWorkbook.Worksheets("Roster and Circuits").ListObjects("Email_Table").DataBodyRange(1, 4).Value
+
+Email_Subject = ActiveWorkbook.Worksheets("Roster and Circuits").ListObjects("Email_Table").DataBodyRange(1, 3).Value & " - " & ZZZ
+
+Line1 = ActiveWorkbook.Worksheets("Roster and Circuits").ListObjects("Email_Table").DataBodyRange(1, 5).Value
+Line2 = ActiveWorkbook.Worksheets("Roster and Circuits").ListObjects("Email_Table").DataBodyRange(1, 6).Value
+Line3 = ActiveWorkbook.Worksheets("Roster and Circuits").ListObjects("Email_Table").DataBodyRange(1, 7).Value
+
+Email_String_Body = Line1 & "<br>" & _
+                    Line2 & "<br>" & _
+                    Line3 & "<br>" & _
+                    "" & "<br>"
+
+End Sub
+Sub LookupCompanyEmail_To()
+
+Dim tbl As ListObject
+Dim FoundCell As Range
+Dim LookupValue As String
+Dim Row As Long
+
+ActiveWorkbook.Worksheets("Roster and Circuits").Activate
+'Lookup Value
+  LookupValue = ZZZ
+
+'Store Table Object to a variable
+  Set tbl = ActiveWorkbook.Worksheets("Roster and Circuits").ListObjects("Veg_Table_Unique_PI_Company")
+
+'Attempt to find value in Table's first Column
+  On Error Resume Next
+  Set FoundCell = tbl.DataBodyRange.Columns(1).Find(LookupValue, LookAt:=xlWhole)
+  On Error GoTo 0
+
+'Return Table Row number if value is found
+  If Not FoundCell Is Nothing Then
+    'MsgBox "Found in table row: " & _
+      tbl.ListRows(FoundCell.Row - tbl.HeaderRowRange.Row).Index
+  Else
+    'MsgBox "Value not found"
+  End If
+Row = FoundCell.Row - tbl.HeaderRowRange.Row
+
+Email_To = ActiveWorkbook.Worksheets("Roster and Circuits").ListObjects("Veg_Table_Unique_PI_Company").DataBodyRange(Row, 3).Value
+
+'MsgBox (Email_To)
+End Sub
+Sub CompanyList()
+  Dim myTable1 As ListObject
+  Dim TempArray1 As Variant
+  Dim myTable2 As ListObject
+  Dim TempArray2 As Variant
+  Dim x As Long
+  
+If ActiveWorkbook.Worksheets("Roster and Circuits").ListObjects("Veg_Table_Unique_PI_Company").DataBodyRange.Rows.Count = 1 Then
+Company = ActiveWorkbook.Worksheets("Roster and Circuits").ListObjects("Veg_Table_Unique_PI_Company").DataBodyRange(1, 1).Value
+Else
+'''Create Company Variable to send emails to based on if a company is in the Veg Table Data
+  'Set path for Table variable
+  Set myTable1 = ActiveWorkbook.Worksheets("Roster and Circuits").ListObjects("Veg_Table_Unique_PI_Company")
+'Create Array List from Table
+  TempArray1 = myTable1.DataBodyRange.Columns(1)
+'Convert from vertical to horizontal array list
+  Company = Application.Transpose(TempArray1)
+End If
+
+'''Create CompanyPivot Variable to update all Pivot Tables in Workbook even if the company has no Veg Table Data
+  'Set path for Table variable
+ ' Set myTable2 = ActiveWorkbook.Worksheets("Roster and Circuits").ListObjects("Company_Table")
+'Create Array List from Table
+ ' TempArray2 = myTable2.DataBodyRange.Columns(1)
+'Convert from vertical to horizontal array list
+ ' CompanyPivot = Application.Transpose(TempArray2)
+
+  End Sub
+Sub WorkBookName()
+Dim BookName() As String
+Dim with_ext As String
+Dim remove_ext() As String
+
+BookName = Split(ActiveWorkbook.Name, "_")
+
+with_ext = BookName(6)
+remove_ext = Split(with_ext, ".")
+BookNameTimeFrame = BookName(4) & " " & BookName(5) & " " & remove_ext(0)
+
+End Sub
+Function WorkBookNameEnd()
+Dim BookName() As String
+Dim with_ext As String
+Dim remove_ext() As String
+
+BookName = Split(ActiveWorkbook.Name, "_")
+
+with_ext = BookName(6)
+remove_ext = Split(with_ext, ".")
+WorkBookNameEnd = BookName(4) & " " & BookName(5) & " " & remove_ext(0)
+
+End Function
+  
+
+  
+Function OnlyNums(sWordOrg As String)
+'''Info for splitting text and the basis for this function found here:
+'''https://excelribbon.tips.net/T011750_Getting_Rid_of_Everything_Except_Numbers
+'''https://stackoverflow.com/questions/7680490/how-to-split-a-string-with-multiple-delimiters-in-vba-excel
+'''https://www.techonthenet.com/excel/formulas/split.php
+
+    Dim sChar As String
+    Dim x As Integer
+    Dim sTemp As String
+    Dim SplitWord() As String
+    Dim sWord As String
+    
+    SplitWord = Split(sWordOrg, " ")
+    
+    sWord = SplitWord(0)
+    
+    sTemp = ""
+    
+    For x = 1 To Len(sWord)
+        sChar = Mid(sWord, x, 1)
+        If Asc(sChar) >= 48 And _
+          Asc(sChar) <= 57 Then
+            sTemp = sTemp & sChar
+        End If
+    Next
+    OnlyNums = Val(sTemp)
+End Function
+
+Function StripChar(aText As String)
+'''Info for splitting text and the basis for this function found here:
+'''https://excelribbon.tips.net/T011750_Getting_Rid_of_Everything_Except_Numbers
+
+    Dim I As Integer
+
+    StripChar = ""
+    For I = 1 To Len(aText)
+        aChar = Mid(aText, I, 1)
+        Select Case aChar
+            Case "0" To "9"
+                StripChar = StripChar & aChar
+        End Select
+    Next
+End Function
+
+
+
+Sub WorksheetLoopRowOneHeight()
+
+' Declare Current as a worksheet object variable.
+Dim WS_Count As Integer
+Dim I As Integer
+
+' Set WS_Count equal to the number of worksheets in the active
+' workbook.
+WS_Count = ActiveWorkbook.Worksheets.Count
+
+' Begin the loop.
+For I = 1 To WS_Count
+    
+    ActiveWorkbook.Worksheets(I).Activate
+
+
+    Rows("1:1").Select
+    Selection.RowHeight = 45
+    Range("BS1").Select
+        
+                
+Next I
+
+End Sub
+Sub a1_RefreshDataConnections()
+
+    ActiveWorkbook.Connections("Query - Bangor1101_Last24Hours").Refresh
+    ActiveWorkbook.Connections("Query - Bangor1101_TwoDaysAgo").Refresh
+    ActiveWorkbook.Connections("Query - Bangor1101_ThreeDaysAgo").Refresh
+    ActiveWorkbook.Connections("Query - Bangor1101_FourDaysAgo").Refresh
+    ActiveWorkbook.Connections("Query - Bangor1101_Count_Last4Days").Refresh
+    
+
+    ActiveWorkbook.Connections("Query - Brunswick1106_Last24Hours").Refresh
+    ActiveWorkbook.Connections("Query - Brunswick1106_TwoDaysAgo").Refresh
+    ActiveWorkbook.Connections("Query - Brunswick1106_ThreeDaysAgo").Refresh
+    ActiveWorkbook.Connections("Query - Brunswick1106_FourDaysAgo").Refresh
+    ActiveWorkbook.Connections("Query - Brunswick1106_Count_Last4Days").Refresh
+
+    
+    ActiveWorkbook.Connections("Query - Narrows2102_Last24Hours").Refresh
+    ActiveWorkbook.Connections("Query - Narrows2102_TwoDaysAgo").Refresh
+    ActiveWorkbook.Connections("Query - Narrows2102_ThreeDaysAgo").Refresh
+    ActiveWorkbook.Connections("Query - Narrows2102_FourDaysAgo").Refresh
+    ActiveWorkbook.Connections("Query - Narrows2102_Count_Last4Days").Refresh
+
+    
+ActiveWorkbook.Worksheets("Roster and Circuits").Activate
+Range("AO10").Select
+End Sub
+Sub a2_RefreshVegTableData()
+
+ActiveWorkbook.Worksheets("Veg_Table_Data").Activate
+    Range("BL1").Select
+    ActiveWorkbook.Connections("Query - Veg_Table(1)").Refresh
+    Range("BJ1").Select
+ActiveWorkbook.Worksheets("Roster and Circuits").Activate
+ActiveWorkbook.RefreshAll
+Range("AO10").Select
+End Sub
+Sub a3_RefreshVegTableData_PivotTableandUniquePICompanyTable()
+
+ActiveWorkbook.Worksheets("Veg_Table_Data").Activate
+    Range("BL1").Select
+    ActiveSheet.PivotTables("Pivot_Error_Veg_Table").PivotCache.Refresh
+    Range("BJ1").Select
+    
+Dim colNum As Long
+Rows("1:1").Select
+    Selection.Find(What:="EVM_LAST_EDITED_Day", After:=ActiveCell, LookIn:= _
+        xlValues, LookAt:=xlWhole, SearchOrder:=xlByRows, SearchDirection:=xlNext _
+        , MatchCase:=True, SearchFormat:=False).Activate
+    'MsgBox (ActiveCell.Column)
+    colNum = ActiveCell.Column
+    Columns(colNum).Select
+    With Selection
+        .HorizontalAlignment = xlLeft
+    End With
+Range("BJ1").Select
+
+ActiveWorkbook.Worksheets("Roster and Circuits").Activate
+    Range("BL1").Select
+    ActiveWorkbook.Connections("Query - Veg_Table_Unique_PI_Company").Refresh
+Range("AO10").Select
+
+ActiveWorkbook.Worksheets("Parcels_and_Units").Activate
+    Range("A1").Select
+    ActiveSheet.PivotTables("Parcels_Units_Pivot").PivotCache.Refresh
+    Range("A1").Select
+    
+ActiveWorkbook.Worksheets("Roster and Circuits").Activate
+ActiveWorkbook.RefreshAll
+Range("AO10").Select
+End Sub
+Sub a4_RefreshCompanyVegError_DataTables()
+
+' Declare Current as a worksheet object variable.
+'Dim WS_Count As Integer
+Dim I As Integer
+'Dim Company As Variant
+Dim ZZZ As String
+Call CompanyList
+
+
+ 
+  
+'Company = Array("FSE", "JEF", "MBG", "MGE", "NCR", "SDR", "SFC")
+'Company has been set in another macro
+
+
+    
+' Set WS_Count equal to the number of worksheets in the active
+' workbook.
+'WS_Count = ActiveWorkbook.Worksheets.Count
+If ActiveWorkbook.Worksheets("Roster and Circuits").ListObjects("Veg_Table_Unique_PI_Company").DataBodyRange.Rows.Count = 1 Then
+ZZZ = Company
+ActiveWorkbook.Worksheets("Veg_Errors_" & ZZZ).Activate
+
+    Range("BL1").Select
+    ActiveWorkbook.Connections("Query - Veg_Table_" & ZZZ).Refresh
+    Range("BJ1").Select
+Else
+    ' Begin the loop.
+    For I = 1 To UBound(Company) + 1
+        On Error GoTo NextCompany:
+        Application.StatusBar = "PROGRESS: " & I & " of " & UBound(Company)
+        
+        ZZZ = Company(I - 1)
+        
+        'MsgBox (ZZZ)
+        'MsgBox (UBound(Company))
+        ActiveWorkbook.Worksheets("Veg_Errors_" & ZZZ).Activate
+    
+        Range("BL1").Select
+        ActiveWorkbook.Connections("Query - Veg_Table_" & ZZZ).Refresh
+        Range("BJ1").Select
+    
+            
+NextCompany:
+        Resume NextCompany2
+NextCompany2:
+    Next I
+End If
+
+Application.StatusBar = False
+
+
+ActiveWorkbook.Worksheets("Roster and Circuits").Activate
+ActiveWorkbook.RefreshAll
+Range("AO10").Select
+End Sub
+Sub a5_RefreshCompanyVegError_PivotTables()
+
+' Declare Current as a worksheet object variable.
+'Dim WS_Count As Integer
+Dim I As Integer
+'Dim Company As Variant
+Dim ZZZ As String
+Call CompanyList
+
+
+ 
+  
+'Company = Array("FSE", "JEF", "MBG", "MGE", "NCR", "SDR", "SFC")
+'Company has been set in another macro
+
+
+    
+' Set WS_Count equal to the number of worksheets in the active
+' workbook.
+'WS_Count = ActiveWorkbook.Worksheets.Count
+If ActiveWorkbook.Worksheets("Roster and Circuits").ListObjects("Veg_Table_Unique_PI_Company").DataBodyRange.Rows.Count = 1 Then
+ZZZ = Company
+ActiveWorkbook.Worksheets("Veg_Errors_" & ZZZ).Activate
+
+    Range("BL1").Select
+    ActiveWorkbook.Connections("Query - Veg_Table_" & ZZZ).Refresh
+    Range("BJ1").Select
+Else
+
+' Begin the loop.
+For I = 1 To UBound(Company) + 1
+    On Error GoTo NextCompany:
+    Application.StatusBar = "PROGRESS: " & I & " of " & UBound(Company)
+    
+    ZZZ = Company(I - 1)
+    
+    'MsgBox (ZZZ)
+    
+    ActiveWorkbook.Worksheets("Veg_Errors_" & ZZZ).Activate
+
+    Range("BL1").Select
+    ActiveSheet.PivotTables("Pivot_Error_" & ZZZ).PivotCache.Refresh
+    Range("BJ1").Select
+    
+    Dim colNum As Long
+    Rows("1:1").Select
+    Selection.Find(What:="EVM_LAST_EDITED_Day", After:=ActiveCell, LookIn:= _
+        xlValues, LookAt:=xlWhole, SearchOrder:=xlByRows, SearchDirection:=xlNext _
+        , MatchCase:=True, SearchFormat:=False).Activate
+    'MsgBox (ActiveCell.Column)
+    colNum = ActiveCell.Column
+    Columns(colNum).Select
+    With Selection
+        .HorizontalAlignment = xlLeft
+    End With
+    
+Range("BJ1").Select
+
+NextCompany:
+    Resume NextCompany2
+NextCompany2:
+Next I
+End If
+Application.StatusBar = False
+
+ActiveWorkbook.Worksheets("Roster and Circuits").Activate
+ActiveWorkbook.RefreshAll
+Range("AO10").Select
+End Sub
+
+Sub a6_Email_Company_Error_Pivot_Tables()
+Dim I As Integer
+
+    
+Call CompanyList
+Call WorkBookName
+
+
+'''START LOOP
+For I = 1 To UBound(Company) + 1
+    On Error GoTo NextCompany:
+    Application.StatusBar = "PROGRESS: " & I & " of " & UBound(Company)
+    
+    ZZZ = Company(I - 1)
+    'MsgBox (ZZZ)
+    
+    Call Email_Variables
+    
+    Call LookupCompanyEmail_To
+
+    ActiveWorkbook.Worksheets("Veg_Errors_" & ZZZ).Activate
+    
+    ActiveSheet.PivotTables("Pivot_Error_" & ZZZ).PivotSelect "", xlDataAndLabel _
+        , True
+    
+    Call Mail_Selection_Range_Outlook_Body
+    
+NextCompany:
+    Resume NextCompany2
+NextCompany2:
+Next I
+Application.StatusBar = False
+
+ActiveWorkbook.Worksheets("Roster and Circuits").Activate
+Range("AO10").Select
+End Sub
+Sub a7_Email_All_Company_Error_Pivot_Table_on_Veg_Table_Data_Sheet()
+Dim I As Integer
+
+    
+
+Call WorkBookName
+Call Email_Variables
+
+
+Email_To = ActiveWorkbook.Worksheets("Roster and Circuits").ListObjects("Email_Table").DataBodyRange(1, 8).Value
+
+Email_CC = ""
+
+Email_Subject = ActiveWorkbook.Worksheets("Roster and Circuits").ListObjects("Email_Table").DataBodyRange(1, 3).Value
+
+
+    ActiveWorkbook.Worksheets("Veg_Table_Data").Activate
+    
+    ActiveSheet.PivotTables("Pivot_Error_Veg_Table").PivotSelect "", xlDataAndLabel _
+        , True
+        
+    
+Call Mail_Selection_Range_Outlook_Body
+    
+
+
+ActiveWorkbook.Worksheets("Roster and Circuits").Activate
+Range("AO10").Select
+End Sub
+
+Sub Mail_Selection_Range_Outlook_Body()
+'For Tips see: http://www.rondebruin.nl/win/winmail/Outlook/tips.htm
+'Source: http://www.rondebruin.nl/win/s1/outlook/bmail2.htm
+'Don't forget to copy the function RangetoHTML in the module.
+'Working in Excel 2000-2016
+    Dim rng As Range
+    Dim OutApp As Object
+    Dim OutMail As Object
+    Dim StrBody As String
+
+    Set rng = Nothing
+    On Error Resume Next
+              
+              
+
+    
+    'Select Pivot Table in ActiveSheet
+    'ActiveSheet.PivotTables("Pivot_Error_" & ZZZ).PivotSelect "", xlDataAndLabel _
+    '    , True
+    
+    'Only the visible cells in the selection
+    Set rng = Selection.SpecialCells(xlCellTypeVisible)
+    'You can also use a fixed range if you want
+    'Set rng = Sheets("YourSheet").Range("D4:D12").SpecialCells(xlCellTypeVisible)
+    On Error GoTo 0
+
+    If rng Is Nothing Then
+        MsgBox "The selection is not a range or the sheet is protected" & _
+               vbNewLine & "please correct and try again.", vbOKOnly
+        Exit Sub
+    End If
+
+    With Application
+        .EnableEvents = False
+        .ScreenUpdating = False
+    End With
+
+    Set OutApp = CreateObject("Outlook.Application")
+    Set OutMail = OutApp.CreateItem(0)
+
+    On Error Resume Next
+    With OutMail
+        .To = Email_To
+        .CC = Email_CC
+        .BCC = ""
+        .Subject = Email_Subject
+        '.HTMLBody = RangetoHTML(rng)
+        .HTMLBody = Email_String_Body & RangetoHTML(rng)
+        '.Send   'or use .Display
+        .Display
+    End With
+    On Error GoTo 0
+
+    With Application
+        .EnableEvents = True
+        .ScreenUpdating = True
+    End With
+
+    Set OutMail = Nothing
+    Set OutApp = Nothing
+
+End Sub
+
+
+Function RangetoHTML(rng As Range)
+' Changed by Ron de Bruin 28-Oct-2006
+'Source: http://www.rondebruin.nl/win/s1/outlook/bmail2.htm
+' Working in Office 2000-2016
+    Dim fso As Object
+    Dim ts As Object
+    Dim TempFile As String
+    Dim TempWB As Workbook
+
+    TempFile = Environ$("temp") & "\" & Format(Now, "dd-mm-yy h-mm-ss") & ".htm"
+
+    'Copy the range and create a new workbook to past the data in
+    rng.Copy
+    Set TempWB = Workbooks.Add(1)
+    With TempWB.Sheets(1)
+        .Cells(1).PasteSpecial Paste:=8
+        .Cells(1).PasteSpecial xlPasteValues, , False, False
+        .Cells(1).PasteSpecial xlPasteFormats, , False, False
+        .Cells(1).Select
+        Application.CutCopyMode = False
+        On Error Resume Next
+        .DrawingObjects.Visible = True
+        .DrawingObjects.Delete
+        On Error GoTo 0
+    End With
+
+    'Publish the sheet to a htm file
+    With TempWB.PublishObjects.Add( _
+         SourceType:=xlSourceRange, _
+         Filename:=TempFile, _
+         Sheet:=TempWB.Sheets(1).Name, _
+         Source:=TempWB.Sheets(1).UsedRange.Address, _
+         HtmlType:=xlHtmlStatic)
+        .Publish (True)
+    End With
+
+    'Read all data from the htm file into RangetoHTML
+    Set fso = CreateObject("Scripting.FileSystemObject")
+    Set ts = fso.GetFile(TempFile).OpenAsTextStream(1, -2)
+    RangetoHTML = ts.readall
+    ts.Close
+    RangetoHTML = Replace(RangetoHTML, "align=center x:publishsource=", _
+                          "align=left x:publishsource=")
+
+    'Close TempWB
+    TempWB.Close savechanges:=False
+
+    'Delete the htm file we used in this function
+    Kill TempFile
+
+    Set ts = Nothing
+    Set fso = Nothing
+    Set TempWB = Nothing
+End Function
+
+
+
+Sub Create_New_Company_Veg_Errors_Sheet()
+'
+Dim NewZZZ As String
+Dim PI_Company As String
+Dim mFormula As String
+Dim mFormulaStart As String
+Dim mFormulaEnd As String
+Dim mFormulaCompany As String
+
+Dim VegTableZZZ As String
+
+
+NewZZZ = Application.InputBox( _
+      Title:="ZZZ Company Abreviation.", _
+      Prompt:="Select a cell in the ZZZ Company column that needs a new sheet created.", _
+      Type:=2)
+      
+PI_Company = Application.InputBox( _
+      Title:="PI_Company Full Name", _
+      Prompt:="Select a cell in the PI_Company column that corresponds to the ZZZ Company you selected previously.", _
+      Type:=2)
+      
+
+mFormulaStart = _
+        "let" & Chr(10) & "    Source = Excel.CurrentWorkbook(){[Name=""Veg_Table""]}[Content]," & Chr(10) & "    #""Filtered Rows"" = Table.SelectRows(Source, each ([COMPANY_EVM_LAST_EDITOR] = "
+
+mFormulaCompany = Chr(34) & PI_Company & Chr(34)
+
+
+mFormulaEnd = ") and ([Veg Point has Errors] = 1) and ([Comments_Contain_Delete] = 0))," & Chr(10) & "    #""Sorted Rows"" = Table.Sort(#""Filtered Rows"",{{""EVM_LAST_EDITOR"", Order.Ascending}, {""E" & _
+        "VM_LAST_EDITED"", Order.Ascending}})" & Chr(10) & "in" & Chr(10) & "    #""Sorted Rows"""
+
+mFormula = mFormulaStart & mFormulaCompany & mFormulaEnd
+
+VegTableZZZ = "Veg_Table_" & NewZZZ
+
+    ActiveWorkbook.Queries.Add Name:="Veg_Table_" & NewZZZ, Formula:=mFormula
+    
+    ActiveWorkbook.Worksheets.Add.Name = "Veg_Errors_" & NewZZZ
+    With ActiveSheet.ListObjects.Add(SourceType:=0, Source:="OLEDB;Provider=Microsoft.Mashup.OleDb.1;Data Source=$Workbook$;Location=" & VegTableZZZ _
+        , Destination:=Range("$A$1")).QueryTable
+        .CommandType = xlCmdSql
+        .CommandText = Array("SELECT * FROM [" & VegTableZZZ & "]")
+        .RowNumbers = False
+        .FillAdjacentFormulas = False
+        .PreserveFormatting = True
+        .RefreshOnFileOpen = False
+        .BackgroundQuery = True
+        .RefreshStyle = xlInsertDeleteCells
+        .SavePassword = False
+        .SaveData = True
+        .AdjustColumnWidth = True
+        .RefreshPeriod = 0
+        .PreserveColumnInfo = True
+        .ListObject.DisplayName = "Veg_Table_" & NewZZZ
+        .Refresh BackgroundQuery:=False
+    End With
+    
+    Sheets("Veg_Errors_MGE").Select
+    
+     ActiveSheet.PivotTables("Pivot_Error_MGE").PivotSelect "", xlDataAndLabel _
+        , True
+    Selection.Copy
+    
+    
+    Sheets("Veg_Errors_" & NewZZZ).Select
+    
+    
+    
+    Range("BL1").Select
+    ActiveSheet.Paste
+    Selection.PasteSpecial Paste:=xlPasteColumnWidths, Operation:=xlNone, _
+        SkipBlanks:=False, Transpose:=False
+    Application.CutCopyMode = False
+    
+    ActiveCell.PivotTable.Name = "Pivot_Error_" & NewZZZ
+    
+    ActiveCell.PivotTable.ChangePivotCache ActiveWorkbook. _
+        PivotCaches.Create(SourceType:=xlDatabase, SourceData:="Veg_Table_" & NewZZZ, _
+        Version:=6)
+    'ActiveSheet.PivotTables("PivotTable1").Name = "Pivot_Error_" & NewZZZ
+    Sheets("Veg_Errors_" & NewZZZ).Select
+    
+    Sheets("Veg_Errors_" & NewZZZ).Move After:=Sheets(Sheets.Count)
+    
+    Columns("A:BK").Select
+    Selection.Columns.Group
+    Range("F11").Select
+    Range("BL1").Select
+
+End Sub
+
