@@ -1,0 +1,42 @@
+Sub List_From_Selected_Cells()
+
+    Dim cel As Range
+    Dim selectedRange As Range
+
+    Set selectedRange = Application.Selection
+    
+    Dim cell_list As String
+    
+    For Each cel In selectedRange.Cells
+        cell_list = cell_list & "'" & cel.Value & "'"
+        cell_list = Replace(cell_list, "''", "','")
+        'Debug.Print cel.Address, cel.Value
+        'Debug.Print cell_list
+    Next cel
+    InputBox "Copy the below text", "Copy Text", cell_list
+End Sub
+
+
+Sub List_From_Selected_Cells2()
+
+    Dim Output As Range
+    Dim MyString As String
+    Dim OutputText As DataObject
+
+    Set OutputText = New DataObject
+    Set Output = Application.Selection
+
+    MyString = ""
+
+    For Each cell In Output
+
+        MyString = MyString & "'" & cell.Value & "'"
+        MyString = Replace(MyString, "''", "','")
+    Next cell
+
+    OutputText.SetText MyString
+    OutputText.PutInClipboard
+
+    MsgBox (MyString + " Text has been copied")
+
+End Sub
