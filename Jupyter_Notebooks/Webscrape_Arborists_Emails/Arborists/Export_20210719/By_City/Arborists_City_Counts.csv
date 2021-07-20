@@ -1,0 +1,5143 @@
+AA,Apo,1,1
+AK,Anchorage,1,9
+AK,Eagle River,1,1
+AK,Fairbanks,1,3
+AK,Girdwood,1,1
+AK,Hoonah,1,1
+AK,Juneau,1,1
+AK,Ketchikan,1,1
+AK,North Pole,1,1
+AK,Sitka,1,0
+AK,Sterling,1,1
+AK,Wasilla,1,1
+AL,Alabaster,1,1
+AL,Alpine,1,1
+AL,Anniston,1,2
+AL,ARAB,1,1
+AL,Auburn,1,3
+AL,Bessemer,1,1
+AL,Birmingham,1,6
+AL,Centreville,1,1
+AL,Columbiana,1,1
+AL,Cullman,1,1
+AL,Dadeville,1,2
+AL,Daphne,1,2
+AL,Demopolis,1,0
+AL,Eight Mile,1,1
+AL,Elkmont,1,1
+AL,Enterprise,1,1
+AL,Fairhope,1,2
+AL,Florence,1,2
+AL,Foley,1,1
+AL,Fultondale,1,1
+AL,Gulf Shores,1,1
+AL,Gurley,1,1
+AL,Hoover,1,1
+AL,Hueytown,1,0
+AL,Huntsville,1,9
+AL,Irondale,1,1
+AL,Leeds,1,1
+AL,Mentone,1,1
+AL,Mobile,1,5
+AL,Montgomery,1,4
+AL,Mountain Brook,1,2
+AL,New Market,1,1
+AL,Northport,1,1
+AL,Owens Cross Roads,1,2
+AL,Pelham,1,1
+AL,Pinson,1,1
+AL,Prattville,1,2
+AL,Robertsdale,1,1
+AL,Silverhill,1,3
+AL,Smiths,1,1
+AL,Somerville,1,1
+AL,Spanish Fort,1,2
+AL,Sylacauga,1,2
+AL,Tallassee,1,2
+AL,Theodore,1,2
+AL,Trussville,1,1
+AL,Tuscaloosa,1,5
+AL,Tuscumbia,1,1
+AL,Vestavia Hills,1,1
+AL,Waverly,1,1
+AL,Wetumpka,1,1
+AP,FPO,1,0
+AR,Alexander,1,2
+AR,Arkadelphia,1,1
+AR,Beebe,1,0
+AR,Bella Vista,1,1
+AR,Benton,1,4
+AR,Bentonville,1,1
+AR,BERRYVILLE,1,1
+AR,Conway,1,0
+AR,Dumas,1,1
+AR,El Dorado,1,1
+AR,Elkins,1,1
+AR,Fayetteville,1,5
+AR,Fort Smith,1,3
+AR,Gravette,1,1
+AR,Greenwood,1,0
+AR,Harrison,1,1
+AR,Hindsville,1,1
+AR,Hot Springs,1,1
+AR,Jessieville,1,1
+AR,Jonesboro,1,1
+AR,Little Rock,1,3
+AR,Lonoke,1,1
+AR,Maumelle,1,1
+AR,Mayflower,1,0
+AR,Monticello,1,0
+AR,Mountain Home,1,1
+AR,Mulberry,1,1
+AR,Perryville,1,1
+AR,Prairie Grove,1,1
+AR,Rogers,1,3
+AR,Royal,1,1
+AR,Searcy,1,0
+AR,Siloam Springs,1,2
+AR,Springdale,1,1
+AZ,Amado,1,0
+AZ,Anthem,1,3
+AZ,Apache Junction,1,3
+AZ,Benson,1,1
+AZ,Buckeye,1,2
+AZ,Bullhead City,1,1
+AZ,Camp Verde,1,2
+AZ,Cave Creek,1,2
+AZ,Chandler,1,10
+AZ,Chino Valley,1,1
+AZ,Cottonwood,1,1
+AZ,Dewey,1,3
+AZ,Douglas,1,1
+AZ,El Mirage,1,1
+AZ,Flagstaff,1,10
+AZ,Fountain Hills,1,1
+AZ,Fredonia,1,1
+AZ,Gilbert,1,10
+AZ,Glendale,1,7
+AZ,Globe,1,1
+AZ,Gold Canyon,1,1
+AZ,Goodyear,1,6
+AZ,Kingman,1,1
+AZ,Lake Havasu City,1,1
+AZ,Laveen,1,5
+AZ,Litchfield Park,1,2
+AZ,Mammoth,1,1
+AZ,Maricopa,1,1
+AZ,Mayer,1,1
+AZ,Mesa,1,23
+AZ,Morristown,1,1
+AZ,Oro Valley,1,2
+AZ,Payson,1,2
+AZ,Peoria,1,9
+AZ,Phoenix,1,55
+AZ,Prescott,1,8
+AZ,Queen Creek,1,3
+AZ,Rimrock,1,1
+AZ,Saint David,1,1
+AZ,San Tan Valley,1,2
+AZ,Scottsdale,1,12
+AZ,Sierra Vista,1,1
+AZ,Sun City,1,0
+AZ,Superior,1,1
+AZ,Surprise,1,5
+AZ,Tempe,1,4
+AZ,Tolleson,1,1
+AZ,Tucson,1,41
+AZ,Vail,1,1
+AZ,Yuma,1,3
+CA,Acampo,1,0
+CA,Agoura Hills,1,1
+CA,Alameda,1,2
+CA,Alamo,1,1
+CA,Albany,1,1
+CA,Alhambra,1,1
+CA,Aliso Viejo,1,4
+CA,Alpine,1,2
+CA,Alta Loma,1,1
+CA,Altadena,1,2
+CA,Amador City,1,1
+CA,American Canyon,1,1
+CA,Anaheim,1,17
+CA,Anderson,1,1
+CA,Angels Camp,1,1
+CA,Angwin,1,1
+CA,Antelope,1,2
+CA,Antioch,1,2
+CA,Applegate,1,1
+CA,Aptos,1,2
+CA,Arcadia,1,1
+CA,Arcata,1,2
+CA,Arleta,1,2
+CA,Arnold,1,1
+CA,Aromas,1,2
+CA,Arroyo Grande,1,5
+CA,Artesia,1,2
+CA,Atascadero,1,5
+CA,Auberry,1,0
+CA,Auburn,1,17
+CA,AZUSA,1,4
+CA,Bakersfield,1,15
+CA,Bangor,1,0
+CA,Bayside,1,2
+CA,Bellflower,1,1
+CA,Belmont,1,2
+CA,Benicia,1,2
+CA,Berkeley,1,20
+CA,Bermuda Dunes,1,1
+CA,Big Bear City,1,2
+CA,Bishop,1,2
+CA,Blairsden,1,1
+CA,Blue Lake,1,0
+CA,Bodega,1,2
+CA,Bonsall,1,1
+CA,Boulder Creek,1,2
+CA,Boyes Hot Springs,1,1
+CA,Brentwood,1,1
+CA,Brookdale,1,1
+CA,Brownsville,1,1
+CA,Burbank,1,3
+CA,Burney,1,1
+CA,Calabasas,1,1
+CA,California Hot Springs,1,0
+CA,Calimesa,1,1
+CA,Calistoga,1,2
+CA,Camarillo,1,7
+CA,Cambria,1,2
+CA,Cameron Park,1,4
+CA,Camino,1,2
+CA,Campbell,1,4
+CA,Canoga Park,1,5
+CA,Canyon Country,1,1
+CA,Capitola,1,1
+CA,Carlsbad,1,7
+CA,Carmel,1,4
+CA,Carmel Valley,1,1
+CA,Carmel-By-The-Sea,1,1
+CA,Carmichael,1,4
+CA,Carpinteria,1,2
+CA,Carson,1,1
+CA,Castaic,1,1
+CA,Castro Valley,1,5
+CA,Cathedral City,1,1
+CA,Cedar Ridge,1,1
+CA,Ceres,1,1
+CA,Chatsworth,1,2
+CA,Cherry Valley,1,1
+CA,Chico,1,14
+CA,Chino,1,7
+CA,Chino Hills,1,2
+CA,Chula Vista,1,4
+CA,Citrus Heights,1,5
+CA,Claremont,1,3
+CA,Clayton,1,4
+CA,Cloverdale,1,1
+CA,Clovis,1,5
+CA,Coachella,1,3
+CA,Coarsegold,1,4
+CA,Cohasset,1,1
+CA,Colfax,1,1
+CA,Colton,1,2
+CA,Columbia,1,1
+CA,Concord,1,12
+CA,Cool,1,1
+CA,Copperopolis,1,1
+CA,Corona,1,8
+CA,Corona Del Mar,1,2
+CA,Coronado,1,0
+CA,Corte Madera,1,1
+CA,Costa Mesa,1,5
+CA,Cottonwood,1,2
+CA,Coulterville,1,0
+CA,Covina,1,1
+CA,Creston,1,1
+CA,Culver City,1,3
+CA,Cupertino,1,4
+CA,Cypress,1,2
+CA,Dana Point,1,5
+CA,Danville,1,1
+CA,Davenport,1,1
+CA,Davis,1,6
+CA,Denair,1,2
+CA,Desert Hot Springs,1,1
+CA,Diamond Bar,1,1
+CA,Diamond Springs,1,1
+CA,Discovery Bay,1,1
+CA,Dixon,1,1
+CA,Downey,1,3
+CA,Duarte,1,3
+CA,DUBLIN,1,2
+CA,East Highland,1,1
+CA,East Palo Alto,1,1
+CA,El Cajon,1,6
+CA,El Cerrito,1,4
+CA,El Granada,1,3
+CA,El Sobrante,1,2
+CA,Elk,1,5
+CA,Elk Grove,1,4
+CA,Elverta,1,0
+CA,Encinitas,1,3
+CA,Escalon,1,1
+CA,Escondido,1,13
+CA,Eureka,1,6
+CA,Exeter,1,2
+CA,Fair Oaks,1,1
+CA,Fairfax,1,1
+CA,Fairfield,1,2
+CA,Fallbrook,1,5
+CA,Felton,1,1
+CA,Fillmore,1,1
+CA,Folsom,1,7
+CA,Fontana,1,3
+CA,Forest Knolls,1,0
+CA,Foresthill,1,1
+CA,Forestville,1,1
+CA,Fort Bragg,1,2
+CA,Fortuna,1,1
+CA,Fountain Valley,1,1
+CA,Frazier Park,1,1
+CA,Fremont,1,3
+CA,Fresno,1,10
+CA,Garberville,1,0
+CA,Garden Grove,1,2
+CA,Garden Valley,1,1
+CA,Gardena,1,1
+CA,Gilroy,1,3
+CA,Glen Ellen,1,3
+CA,Glendale,1,5
+CA,Glendora,1,5
+CA,Gold River,1,1
+CA,Goleta,1,4
+CA,Granada Hills,1,2
+CA,Grand Terrace,1,0
+CA,Granite Bay,1,1
+CA,Grass Valley,1,12
+CA,Greenbrae,1,1
+CA,Greenville,1,1
+CA,Gridley,1,2
+CA,Groveland,1,1
+CA,Grover Beach,1,1
+CA,Guasti,1,1
+CA,Guatay,1,1
+CA,Guerneville,1,1
+CA,Hanford,1,3
+CA,Harbor City,1,1
+CA,Hawthorne,1,1
+CA,Hayfork,1,2
+CA,Hayward,1,10
+CA,Healdsburg,1,1
+CA,Hemet,1,2
+CA,Hercules,1,1
+CA,Hesperia,1,2
+CA,Hidden Valley Lake,1,1
+CA,Highland,1,0
+CA,Hollister,1,1
+CA,Holtville,1,1
+CA,Huntington Beach,1,6
+CA,Idyllwild,1,2
+CA,Indio,1,6
+CA,irvine,1,2
+CA,Irwindale,1,1
+CA,Isleton,1,1
+CA,Junction City,1,1
+CA,Kerman,1,1
+CA,Kings Beach,1,2
+CA,La Canada,1,3
+CA,La Canada Flintridge,1,2
+CA,La Crescenta,1,4
+CA,La Habra,1,7
+CA,La Mesa,1,2
+CA,La Mirada,1,1
+CA,La Puente,1,3
+CA,La Quinta,1,6
+CA,La Verne,1,3
+CA,Lafayette,1,1
+CA,Laguna Beach,1,3
+CA,Laguna Hills,1,1
+CA,Laguna Niguel,1,1
+CA,Laguna Woods,1,2
+CA,Lake Arrowhead,1,1
+CA,Lake Balboa,1,1
+CA,Lake Elsinore,1,1
+CA,Lake Forest,1,4
+CA,Lake Isabella,1,1
+CA,Lakeport,1,1
+CA,Lakeside,1,1
+CA,Lakewood,1,1
+CA,Lancaster,1,8
+CA,Larkspur,1,1
+CA,Lawndale,1,2
+CA,Lemon Grove,1,0
+CA,Lincoln,1,1
+CA,Littlerock,1,1
+CA,Live Oak,1,1
+CA,Livermore,1,8
+CA,Lockeford,1,1
+CA,Lodi,1,4
+CA,Lomita,1,1
+CA,Lompoc,1,2
+CA,Long Beach,1,8
+CA,Loomis,1,3
+CA,Los Altos,1,1
+CA,Los Altos Hills,1,1
+CA,Los Angeles,1,31
+CA,Los Banos,1,2
+CA,Los Gatos,1,10
+CA,Los Molinos,1,1
+CA,Los Osos,1,3
+CA,Lotus,1,2
+CA,Lower Lake,1,1
+CA,Lynwood,1,2
+CA,Mad River,1,0
+CA,Madera,1,3
+CA,Magalia,1,1
+CA,Mammoth Lakes,1,3
+CA,Manteca,1,1
+CA,Marina,1,2
+CA,Mariposa,1,3
+CA,Martinez,1,8
+CA,Marysville,1,1
+CA,Mckinleyville,1,1
+CA,Meadow Vista,1,2
+CA,Menifee,1,2
+CA,Menlo Park,1,2
+CA,Mentone,1,1
+CA,Merced,1,2
+CA,Millbrae,1,2
+CA,Milpitas,1,1
+CA,Mira Loma,1,1
+CA,Mission Hills,1,1
+CA,Mission Viejo,1,3
+CA,Modesto,1,12
+CA,Monrovia,1,3
+CA,Monterey,1,4
+CA,Moorpark,1,1
+CA,Moreno Valley,1,2
+CA,Morro Bay,1,2
+CA,Moss Beach,1,2
+CA,Mount Shasta,1,1
+CA,Mountain View,1,6
+CA,Murphys,1,2
+CA,Murrieta,1,3
+CA,Napa,1,4
+CA,Nevada City,1,7
+CA,Newark,1,1
+CA,Newbury Park,1,1
+CA,Newcastle,1,2
+CA,Newhall,1,2
+CA,Newman,1,1
+CA,Newport Beach,1,2
+CA,Nipomo,1,2
+CA,Norco,1,3
+CA,North Fork,1,1
+CA,North Hills,1,1
+CA,North Hollywood,1,2
+CA,North Shore,1,1
+CA,Northridge,1,2
+CA,Norwalk,1,1
+CA,Novato,1,2
+CA,Oak Park,1,1
+CA,Oak View,1,1
+CA,Oakdale,1,1
+CA,Oakhurst,1,6
+CA,Oakland,1,21
+CA,Oakley,1,1
+CA,Occidental,1,1
+CA,Oceanside,1,5
+CA,Ojai,1,5
+CA,Olivehurst,1,1
+CA,Ontario,1,3
+CA,Onyx,1,0
+CA,Orange,1,17
+CA,Orange Cove,1,1
+CA,Orangevale,1,1
+CA,Orinda,1,1
+CA,Orland,1,1
+CA,Oroville,1,10
+CA,Pacheco,1,1
+CA,Pacific Grove,1,4
+CA,Pacific Palisades,1,2
+CA,Pacifica,1,1
+CA,Palm Desert,1,1
+CA,Palm Springs,1,1
+CA,Palmdale,1,2
+CA,Palo Alto,1,4
+CA,Palo Cedro,1,1
+CA,Palos Verdes Peninsula,1,0
+CA,Panorama City,1,2
+CA,Paradise,1,5
+CA,Pasadena,1,14
+CA,Paso Robles,1,1
+CA,Patterson,1,1
+CA,Penn Valley,1,0
+CA,Penryn,1,1
+CA,Perris,1,1
+CA,Petaluma,1,6
+CA,Pine Valley,1,1
+CA,Pinole,1,1
+CA,Pioneer,1,2
+CA,Pismo Beach,1,1
+CA,Pittsburg,1,0
+CA,Placentia,1,3
+CA,Placerville,1,3
+CA,Playa Del Rey,1,1
+CA,Pleasant Hill,1,9
+CA,Pleasanton,1,3
+CA,Plumas Lake,1,2
+CA,Plymouth,1,0
+CA,Point Reyes Station,1,1
+CA,Pollock Pines,1,4
+CA,Pomona,1,3
+CA,Porterville,1,1
+CA,Portola Hills,1,0
+CA,Portola Valley,1,4
+CA,Poway,1,1
+CA,Quincy,1,2
+CA,Rail Road Flat,1,1
+CA,Ramona,1,3
+CA,Rancho Cordova,1,6
+CA,Rancho Cucamonga,1,2
+CA,Rancho Palos Verdes,1,3
+CA,Rancho Santa Fe,1,1
+CA,Rancho Santa Margarita,1,8
+CA,Raymond,1,1
+CA,Redding,1,15
+CA,Redlands,1,5
+CA,Redondo Beach,1,2
+CA,Redway,1,0
+CA,Redwood City,1,7
+CA,Reseda,1,1
+CA,Rialto,1,2
+CA,Richmond,1,3
+CA,Rio Linda,1,1
+CA,Ripon,1,0
+CA,Riverside,1,18
+CA,Rocklin,1,5
+CA,Rohnert Park,1,0
+CA,Rosemead,1,1
+CA,Roseville,1,17
+CA,Rough And Ready,1,1
+CA,Rowland Heights,1,1
+CA,Running Springs,1,1
+CA,Sacramento,1,48
+CA,Saint Helena,1,2
+CA,Salida,1,1
+CA,Salinas,1,7
+CA,Salton City,1,1
+CA,San Anselmo,1,2
+CA,San Bernardino,1,1
+CA,San Bruno,1,0
+CA,San Carlos,1,3
+CA,San Clemente,1,4
+CA,San Diego,1,49
+CA,San Dimas,1,3
+CA,San Fernando,1,2
+CA,San Francisco,1,29
+CA,San Gabriel,1,3
+CA,San Geronimo,1,1
+CA,San Jacinto,1,2
+CA,San Jose,1,1
+CA,San Juan Capistrano,1,2
+CA,San Leandro,1,1
+CA,San Lorenzo,1,1
+CA,San Luis Obispo,1,11
+CA,San Marcos,1,4
+CA,San Marino,1,1
+CA,San Martin,1,1
+CA,San Mateo,1,3
+CA,San Pablo,1,1
+CA,San Pedro,1,3
+CA,San Rafael,1,15
+CA,San Ramon,1,2
+CA,Sanger,1,1
+CA,Santa Ana,1,9
+CA,Santa Barbara,1,21
+CA,Santa Clara,1,8
+CA,Santa Clarita,1,6
+CA,Santa Cruz,1,13
+CA,Santa Fe Springs,1,1
+CA,Santa Margarita,1,1
+CA,Santa Maria,1,2
+CA,Santa Monica,1,9
+CA,Santa Rosa,1,26
+CA,Santee,1,2
+CA,Saratoga,1,1
+CA,Sausalito,1,0
+CA,Scotts Valley,1,3
+CA,Seaside,1,1
+CA,Sebastopol,1,11
+CA,Sherman Oaks,1,1
+CA,Shingle Springs,1,1
+CA,Sierra Madre,1,2
+CA,Simi Valley,1,6
+CA,Solvang,1,1
+CA,Sonoma,1,5
+CA,Sonora,1,8
+CA,Soquel,1,1
+CA,Soulsbyville,1,1
+CA,South Gate,1,1
+CA,South Lake Tahoe,1,2
+CA,South Pasadena,1,0
+CA,South San Francisco,1,3
+CA,Spring Valley,1,4
+CA,Stanford,1,1
+CA,Stanton,1,4
+CA,Stevenson Ranch,1,1
+CA,Stockton,1,5
+CA,Sun Valley,1,1
+CA,Sunland,1,1
+CA,Sunnyvale,1,2
+CA,Sylmar,1,4
+CA,Tahoe City,1,4
+CA,Tahoe Vista,1,3
+CA,Tarzana,1,2
+CA,Tehachapi,1,2
+CA,Temecula,1,8
+CA,Temple City,1,1
+CA,Templeton,1,1
+CA,Terra Bella,1,1
+CA,Thousand Oaks,1,6
+CA,Thousand Palms,1,4
+CA,Torrance,1,3
+CA,Trabuco Canyon,1,0
+CA,Tracy,1,3
+CA,Trinidad,1,1
+CA,Truckee,1,4
+CA,Tujunga,1,0
+CA,Tulare,1,2
+CA,Tuolumne,1,2
+CA,Turlock,1,1
+CA,Tustin,1,5
+CA,Ukiah,1,2
+CA,Union City,1,1
+CA,Upland,1,4
+CA,Upper Lake,1,1
+CA,Vacaville,1,7
+CA,Valencia,1,3
+CA,Vallejo,1,5
+CA,Valley Center,1,2
+CA,Valley Springs,1,2
+CA,Valley Village,1,1
+CA,Van Nuys,1,4
+CA,Ventura,1,13
+CA,Victorville,1,3
+CA,Visalia,1,4
+CA,Vista,1,10
+CA,Walnut Creek,1,6
+CA,Watsonville,1,0
+CA,Weaverville,1,2
+CA,West Covina,1,2
+CA,West Hills,1,1
+CA,West Point,1,2
+CA,West Sacramento,1,2
+CA,Westlake Village,1,2
+CA,Westminster,1,1
+CA,Whitethorn,1,1
+CA,Whittier,1,5
+CA,Wildomar,1,0
+CA,Willits,1,2
+CA,Willow Creek,1,1
+CA,Winchester,1,3
+CA,Windsor,1,3
+CA,Winnetka,1,1
+CA,Winters,1,2
+CA,Woodacre,1,1
+CA,Woodland,1,5
+CA,Woodland Hills,1,3
+CA,Woodside,1,1
+CA,Yorba Linda,1,5
+CA,Yountville,1,1
+CA,Yuba City,1,8
+CA,Yucaipa,1,3
+CA,Yucca Valley,1,1
+CO,81435,1,1
+CO,Allenspark,1,1
+CO,Arvada,1,13
+CO,Aspen,1,1
+CO,Ault,1,1
+CO,Aurora,1,8
+CO,Avon,1,2
+CO,Bailey,1,2
+CO,Basalt,1,2
+CO,Bayfield,1,2
+CO,Bellvue,1,0
+CO,Berthoud,1,4
+CO,Black Hawk,1,2
+CO,Boulder,1,23
+CO,Breckenridge,1,4
+CO,Brighton,1,1
+CO,Broomfield,1,11
+CO,Buena Vista,1,3
+CO,Carbondale,1,7
+CO,Castle Rock,1,6
+CO,Centennial,1,7
+CO,Co Spgs,1,1
+CO,Colorado Springs,1,27
+CO,Conifer,1,4
+CO,Cortez,1,1
+CO,Crested Butte,1,1
+CO,Dacono,1,1
+CO,Del Norte,1,1
+CO,Denver,1,43
+CO,Durango,1,3
+CO,Eagle,1,5
+CO,Edwards,1,1
+CO,Englewood,1,12
+CO,Erie,1,4
+CO,Estes Park,1,1
+CO,Evans,1,1
+CO,Evergreen,1,6
+CO,Federal Heights,1,0
+CO,Florissant,1,2
+CO,Fort Collins,1,34
+CO,Fort Morgan,1,1
+CO,Fountain,1,2
+CO,Frederick,1,1
+CO,Fruita,1,1
+CO,Glen Haven,1,1
+CO,Glenwood Springs,1,1
+CO,Golden,1,6
+CO,Granby,1,1
+CO,Grand Junction,1,7
+CO,Greeley,1,2
+CO,Greenwood Village,1,1
+CO,Gunnison,1,1
+CO,Gypsum,1,1
+CO,Hesperus,1,0
+CO,Highlands Ranch,1,2
+CO,Hot Sulphur Springs,1,1
+CO,Hudson,1,1
+CO,Idaho Springs,1,1
+CO,Kittredge,1,2
+CO,Lafayette,1,6
+CO,Lakewood,1,15
+CO,Larkspur,1,1
+CO,Leadville,1,4
+CO,Littleton,1,11
+CO,Lone Tree,1,1
+CO,Longmont,1,18
+CO,Louisville,1,5
+CO,Loveland,1,9
+CO,Lyons,1,1
+CO,Milliken,1,2
+CO,Montrose,1,2
+CO,Monument,1,1
+CO,Morrison,1,3
+CO,New Castle,1,1
+CO,Northglenn,1,1
+CO,Ouray,1,1
+CO,Pagosa Springs,1,3
+CO,Palisade,1,2
+CO,Parker,1,4
+CO,PENROSE,1,1
+CO,Peyton,1,0
+CO,Pueblo,1,6
+CO,Ridgway,1,2
+CO,Rifle,1,2
+CO,Salida,1,2
+CO,Sedalia,1,0
+CO,Severance,1,2
+CO,Silverthorne,1,2
+CO,Snowmass,1,0
+CO,Steamboat Springs,1,4
+CO,Sterling,1,3
+CO,Telluride,1,3
+CO,Thornton,1,2
+CO,Vail,1,1
+CO,Walden,1,1
+CO,Ward,1,1
+CO,Wellington,1,1
+CO,Westminster,1,6
+CO,Wheat Ridge,1,3
+CO,Windsor,1,2
+CO,Woodland Park,1,1
+CT,Avon,1,1
+CT,Berlin,1,1
+CT,Branford,1,1
+CT,Canton,1,2
+CT,Clinton,1,2
+CT,Danbury,1,2
+CT,East Hartland,1,1
+CT,Eastford,1,0
+CT,Enfield,1,1
+CT,Fairfield,1,2
+CT,Georgetown,1,1
+CT,Granby,1,1
+CT,Greenwich,1,3
+CT,Groton,1,1
+CT,Hamden,1,4
+CT,Higganum,1,0
+CT,Kent,1,1
+CT,Lebanon,1,1
+CT,Middletown,1,1
+CT,Milford,1,1
+CT,Monroe,1,1
+CT,Moodus,1,1
+CT,Mystic,1,1
+CT,New Fairfield,1,2
+CT,New Hartford,1,1
+CT,New Haven,1,2
+CT,New Milford,1,3
+CT,Newtown,1,2
+CT,North Haven,1,1
+CT,Northford,1,1
+CT,Norwalk,1,1
+CT,Norwich,1,1
+CT,Oakdale,1,2
+CT,Old Saybrook,1,2
+CT,Oxford,1,1
+CT,Prospect,1,1
+CT,Ridgefield,1,1
+CT,Salisbury,1,0
+CT,Sandy Hook,1,1
+CT,Sharon,1,0
+CT,Shelton,1,0
+CT,Sherman,1,1
+CT,Simsbury,1,1
+CT,Somers,1,1
+CT,South Kent,1,2
+CT,South Windsor,1,1
+CT,Southbury,1,2
+CT,Stafford Springs,1,0
+CT,Stamford,1,7
+CT,Stonington,1,1
+CT,Tolland,1,1
+CT,Voluntown,1,1
+CT,Washington Depot,1,3
+CT,Waterford,1,0
+CT,West Hartford,1,1
+CT,West Haven,1,3
+CT,Weston,1,2
+CT,Windham,1,1
+CT,Woodstock,1,1
+DC,Washington,1,15
+DE,Bear,1,1
+DE,Bridgeville,1,3
+DE,Claymont,1,2
+DE,Clayton,1,1
+DE,Dover,1,1
+DE,Felton,1,1
+DE,Hockessin,1,1
+DE,Lewes,1,3
+DE,Long Neck,1,1
+DE,Milford,1,2
+DE,Millsboro,1,4
+DE,Montchanin,1,1
+DE,Newark,1,3
+DE,Ocean View,1,2
+DE,Rehoboth Beach,1,2
+DE,Selbyville,1,1
+DE,Townsend,1,1
+DE,Wilmington,1,13
+FL,Alachua,1,1
+FL,Altamonte Springs,1,6
+FL,Amelia Island,1,1
+FL,Apollo Beach,1,1
+FL,Apopka,1,10
+FL,Arcadia,1,2
+FL,Atlantis,1,0
+FL,Ave Maria,1,1
+FL,Avon Park,1,2
+FL,Bagdad,1,0
+FL,Belleair,1,1
+FL,Belleview,1,1
+FL,Big Pine Key,1,2
+FL,Boca Grande,1,0
+FL,Boca Raton,1,12
+FL,Bonita Springs,1,10
+FL,Boynton Beach,1,3
+FL,Bradenton,1,18
+FL,Brandon,1,4
+FL,Bronson,1,1
+FL,Brooksville,1,7
+FL,Bunnell,1,1
+FL,Bushnell,1,1
+FL,Canal Point,1,1
+FL,Candler,1,1
+FL,Cantonment,1,1
+FL,Cape Coral,1,11
+FL,Captiva,1,1
+FL,Casselberry,1,0
+FL,Chiefland,1,0
+FL,Chuluota,1,2
+FL,Clearwater,1,22
+FL,Clermont,1,1
+FL,Cocoa,1,4
+FL,Coconut Creek,1,3
+FL,Cooper City,1,3
+FL,Coral Gables,1,2
+FL,Coral Springs,1,8
+FL,Crestview,1,2
+FL,Crystal River,1,1
+FL,Cudjoe Key,1,1
+FL,Cutler Bay,1,2
+FL,Dade City,1,4
+FL,Davie,1,14
+FL,Daytona Beach,1,2
+FL,De Leon Springs,1,4
+FL,Debary,1,2
+FL,Deerfield Beach,1,2
+FL,Deland,1,12
+FL,Delray Beach,1,5
+FL,Destin,1,1
+FL,Doral,1,2
+FL,Dover,1,1
+FL,Dundee,1,1
+FL,Dunedin,1,5
+FL,Dunnellon,1,1
+FL,Edgewater,1,0
+FL,Englewood,1,1
+FL,Estero,1,2
+FL,Eustis,1,1
+FL,Fellsmere,1,1
+FL,Fernandina Beach,1,6
+FL,Fleming Island,1,1
+FL,Floral City,1,1
+FL,Fort Lauderdale,1,16
+FL,Fort Meyers,1,0
+FL,Fort Myers,1,15
+FL,Fort Myers Beach,1,1
+FL,Fort Pierce,1,6
+FL,Fort Walton Beach,1,2
+FL,Fruitland Park,1,3
+FL,Ft Lauderdale,1,1
+FL,Ft. Pierce,1,1
+FL,Gainesville,1,17
+FL,Gibsonton,1,2
+FL,Grand Island,1,1
+FL,Green Cove Springs,1,1
+FL,Greenacres,1,2
+FL,Groveland,1,1
+FL,Gulf Breeze,1,2
+FL,Gulfport,1,3
+FL,Hallandale,1,1
+FL,Hialeah,1,2
+FL,HIGH SPRINGS,1,1
+FL,Hobe Sound,1,5
+FL,Holiday,1,6
+FL,Holly Hill,1,2
+FL,Hollywood,1,6
+FL,Homestead,1,5
+FL,Hosford,1,1
+FL,Hudson,1,6
+FL,Indialantic,1,1
+FL,Inverness,1,3
+FL,Islamorada,1,1
+FL,Jacksonville,1,34
+FL,Jay,1,1
+FL,Jensen Beach,1,0
+FL,Juno Beach,1,0
+FL,Jupiter,1,12
+FL,Kenneth City,1,1
+FL,Key Largo,1,4
+FL,Key West,1,5
+FL,Kissimmee,1,3
+FL,Lake Buena Vista,1,1
+FL,Lake City,1,1
+FL,Lake Mary,1,2
+FL,Lake Panasoffkee,1,1
+FL,Lake Park,1,2
+FL,Lake Placid,1,1
+FL,Lake Worth,1,7
+FL,Lakeland,1,13
+FL,Land O Lakes,1,4
+FL,Land O'Lakes,1,1
+FL,Lantana,1,2
+FL,Largo,1,8
+FL,Lauderhill,1,1
+FL,Leesburg,1,2
+FL,Lehigh Acres,1,2
+FL,Lighthouse Point,1,1
+FL,Lithia,1,2
+FL,Longwood,1,3
+FL,Loxahatchee,1,3
+FL,Lutz,1,1
+FL,Lynn Haven,1,1
+FL,Madeira Beach,1,2
+FL,Maitland,1,1
+FL,Malabar,1,1
+FL,Marathon,1,1
+FL,Marco Island,1,1
+FL,Margate,1,5
+FL,Mary Esther,1,1
+FL,Mascotte,1,1
+FL,Melbourne,1,4
+FL,Melbourne Beach,1,1
+FL,Melrose,1,1
+FL,Merritt Island,1,3
+FL,Miami,1,67
+FL,Miami Beach,1,1
+FL,Miami Shores,1,2
+FL,Miami Springs,1,2
+FL,Micanopy,1,1
+FL,Milton,1,3
+FL,Mims,1,1
+FL,Minneola,1,1
+FL,Monticello,1,1
+FL,Mount Dora,1,2
+FL,N Fort Myers,1,1
+FL,Naples,1,28
+FL,Navarre,1,2
+FL,New Port Richey,1,7
+FL,New Smyrna Beach,1,2
+FL,Newberry,1,1
+FL,Niceville,1,1
+FL,Nokomis,1,3
+FL,North Miami,1,3
+FL,North Miami Beach,1,1
+FL,North Palm Beach,1,1
+FL,North Port,1,5
+FL,Oakland Park,1,4
+FL,Ocala,1,7
+FL,Ocoee,1,3
+FL,Odessa,1,2
+FL,Okeechobee,1,0
+FL,Oldsmar,1,3
+FL,Orange Park,1,1
+FL,Orlando,1,30
+FL,Ormond Beach,1,4
+FL,Osprey,1,0
+FL,Ozona,1,1
+FL,Palatka,1,1
+FL,Palm Bay,1,5
+FL,Palm Beach Gardens,1,3
+FL,Palm City,1,1
+FL,Palm Coast,1,1
+FL,Palm Harbor,1,8
+FL,Palmetto,1,4
+FL,Palmetto Bay,1,0
+FL,Panama City,1,4
+FL,Panama City Beach,1,2
+FL,Parkland,1,5
+FL,Parrish,1,2
+FL,Pembroke Pines,1,2
+FL,Pensacola,1,7
+FL,Perrine,1,1
+FL,Pierson,1,1
+FL,Pinecrest,1,2
+FL,Pinellas Park,1,4
+FL,Plant City,1,4
+FL,Plantation,1,12
+FL,Pompano Beach,1,12
+FL,Ponte Vedra Beach,1,3
+FL,Port Charlotte,1,9
+FL,Port Orange,1,1
+FL,Port Richey,1,1
+FL,Port Saint Lucie,1,4
+FL,Port St Lucie,1,1
+FL,Princeton,1,1
+FL,Punta Gorda,1,5
+FL,Quincy,1,1
+FL,Ridge Manor Estates,1,1
+FL,Riverview,1,1
+FL,Rockledge,1,1
+FL,Royal Palm Beach,1,0
+FL,Ruskin,1,2
+FL,Safety Harbor,1,3
+FL,Saint Augustine,1,10
+FL,Saint Cloud,1,2
+FL,Saint James City,1,1
+FL,Saint Johns,1,1
+FL,Saint Petersburg,1,26
+FL,San Antonio,1,3
+FL,Sanford,1,3
+FL,Santa Rosa Beach,1,2
+FL,Sarasota,1,29
+FL,Satellite Beach,1,2
+FL,Sebastian,1,3
+FL,Sebring,1,2
+FL,Seffner,1,1
+FL,Seminole,1,7
+FL,Sneads,1,1
+FL,Sopchoppy,1,0
+FL,Sorrento,1,1
+FL,South Daytona,1,1
+FL,South Miami,1,4
+FL,Southwest Ranches,1,5
+FL,Spring Hill,1,2
+FL,St Augustine,1,1
+FL,St Pete Beach,1,2
+FL,Stuart,1,9
+FL,Summerfield,1,1
+FL,Summerland Key,1,1
+FL,Sun City Center,1,1
+FL,Sunny Isles Beach,1,1
+FL,Sunrise,1,5
+FL,Tallahassee,1,37
+FL,Tamarac,1,1
+FL,Tampa,1,36
+FL,Tarpon Springs,1,4
+FL,Tavernier,1,4
+FL,Temple Terrace,1,1
+FL,Tequesta,1,1
+FL,The Villages,1,1
+FL,Thonotosassa,1,3
+FL,Tierra Verde,1,1
+FL,Titusville,1,4
+FL,Treasure Island,1,1
+FL,Trinity,1,1
+FL,Umatilla,1,1
+FL,Valparaiso,1,1
+FL,Valrico,1,2
+FL,Venice,1,6
+FL,Vero Beach,1,13
+FL,Wakulla Springs,1,1
+FL,Weirsdale,1,1
+FL,Wekiva Springs,1,1
+FL,Wellborn,1,1
+FL,Wellington,1,1
+FL,Wesley Chapel,1,3
+FL,West Palm Bch,1,1
+FL,West Palm Beach,1,15
+FL,Weston,1,1
+FL,Wildwood,1,0
+FL,Williston,1,1
+FL,Windermere,1,1
+FL,Winter Garden,1,2
+FL,Winter Haven,1,2
+FL,Winter Park,1,4
+FL,Winter Springs,1,3
+FL,Yulee,1,2
+GA,Acworth,1,2
+GA,Albany,1,2
+GA,Alpharetta,1,6
+GA,Alto,1,1
+GA,Americus,1,1
+GA,Andersonville,1,1
+GA,Athens,1,8
+GA,Atlanta,1,32
+GA,Auburn,1,1
+GA,Augusta,1,2
+GA,Avondale Estates,1,1
+GA,Barnesville,1,1
+GA,Bethlehem,1,2
+GA,Bishop,1,2
+GA,Blackshear,1,1
+GA,Bloomingdale,1,1
+GA,Bogart,1,1
+GA,Braselton,1,0
+GA,Bremen,1,2
+GA,Brinson,1,1
+GA,Buford,1,5
+GA,canon,1,2
+GA,Canton,1,4
+GA,Carrollton,1,1
+GA,Cave Spring,1,2
+GA,Chickamauga,1,1
+GA,Clarkesville,1,0
+GA,Cleveland,1,1
+GA,Colbert,1,2
+GA,Columbus,1,3
+GA,Commerce,1,1
+GA,Cornelia,1,2
+GA,Covington,1,5
+GA,Cumming,1,7
+GA,Dacula,1,1
+GA,Dahlonega,1,3
+GA,Dallas,1,2
+GA,Dalton,1,1
+GA,Danielsville,1,1
+GA,Darien,1,1
+GA,Dawsonville,1,1
+GA,Dearing,1,1
+GA,Decatur,1,13
+GA,Doraville,1,0
+GA,Douglasville,1,4
+GA,Dublin,1,0
+GA,Dudley,1,0
+GA,East Point,1,0
+GA,Eatonton,1,0
+GA,Elberton,1,1
+GA,Ellaville,1,1
+GA,Evans,1,1
+GA,Fairburn,1,1
+GA,Fayetteville,1,1
+GA,Folkston,1,1
+GA,Forsyth,1,1
+GA,Fort Oglethorpe,1,1
+GA,Fort Valley,1,1
+GA,Gainesville,1,7
+GA,Garden City,1,1
+GA,Gray,1,2
+GA,Grayson,1,1
+GA,Greensboro,1,1
+GA,Griffin,1,3
+GA,Haddock,1,1
+GA,Hahira,1,1
+GA,Hartwell,1,1
+GA,Helena,1,1
+GA,High Shoals,1,0
+GA,Hinesville,1,3
+GA,Holly Springs,1,1
+GA,Hoschton,1,1
+GA,Hull,1,1
+GA,Jefferson,1,2
+GA,Johns Creek,1,2
+GA,Jonesboro,1,2
+GA,Kennesaw,1,2
+GA,Lagrange,1,3
+GA,Lavonia,1,1
+GA,Lawrenceville,1,6
+GA,Leesburg,1,1
+GA,Lilburn,1,5
+GA,Loganville,1,7
+GA,Mableton,1,2
+GA,Macon,1,1
+GA,Marietta,1,19
+GA,Martinez,1,2
+GA,Mcdonough,1,1
+GA,Metter,1,1
+GA,Milledgeville,1,1
+GA,Monroe,1,5
+GA,Moreland,1,1
+GA,Moultrie,1,1
+GA,Mount Airy,1,1
+GA,Newborn,1,2
+GA,Newnan,1,1
+GA,Norcross,1,2
+GA,Oakwood,1,1
+GA,Palmetto,1,2
+GA,Peachtree City,1,1
+GA,Pine Mountain,1,2
+GA,Portal,1,2
+GA,Powder Springs,1,1
+GA,Reynolds,1,1
+GA,Richmond Hill,1,1
+GA,Rincon,1,1
+GA,Ringgold,1,1
+GA,Rockmart,1,1
+GA,Rome,1,5
+GA,Roswell,1,5
+GA,Royston,1,1
+GA,Saint Simons Island,1,2
+GA,Sandersville,1,1
+GA,Savannah,1,17
+GA,Scottdale,1,1
+GA,Senoia,1,1
+GA,Sharpsburg,1,1
+GA,Silver Creek,1,2
+GA,Smyrna,1,4
+GA,Snellville,1,2
+GA,Social Circle,1,1
+GA,Statesboro,1,1
+GA,Stockbridge,1,2
+GA,Stone Mountain,1,3
+GA,Suwanee,1,2
+GA,Thomaston,1,1
+GA,Thomasville,1,1
+GA,Tifton,1,0
+GA,Trion,1,1
+GA,Tucker,1,4
+GA,Tybee Island,1,1
+GA,Valdosta,1,2
+GA,Vidalia,1,1
+GA,Villa Rica,1,2
+GA,Washington,1,1
+GA,Watkinsville,1,2
+GA,Waycross,1,1
+GA,Waynesville,1,1
+GA,White,1,2
+GA,Whitesburg,1,1
+GA,Williamson,1,1
+GA,Winder,1,3
+GA,Winston,1,1
+GA,Winterville,1,1
+GA,Woodbine,1,0
+GA,Woodstock,1,2
+GU,Mangilao,1,0
+GU,Tamuning,1,1
+GU,Yigo,1,1
+GU,Yona,1,1
+HI,Ewa Beach,1,1
+HI,Haiku,1,5
+HI,Haleiwa,1,2
+HI,Hawaii National Park,1,1
+HI,Hawi,1,1
+HI,Hilo,1,3
+HI,Honokaa,1,0
+HI,Honolulu,1,20
+HI,Kaapa,1,1
+HI,Kailua,1,12
+HI,Kailua Kona,1,6
+HI,Kamuela,1,1
+HI,Kaneohe,1,2
+HI,Kapaa,1,3
+HI,Kapolei,1,1
+HI,Keaau,1,1
+HI,KEALAKEKUA,1,2
+HI,Kealia,1,1
+HI,Kihei,1,2
+HI,Kilauea,1,5
+HI,Koloa,1,1
+HI,Kula,1,6
+HI,Kurtistown,1,1
+HI,Lahaina,1,4
+HI,Lihue,1,2
+HI,Makawao,1,4
+HI,Mililani,1,3
+HI,Mountain View,1,0
+HI,Ninole,1,1
+HI,Pahoa,1,1
+HI,Paia,1,2
+HI,Pearl City,1,4
+HI,Princeville,1,0
+HI,Pukalani,1,2
+HI,Volcano,1,1
+HI,Wahiawa,1,1
+HI,Waialua,1,1
+HI,Waianae,1,4
+HI,Wailuku,1,1
+HI,Waimanalo,1,2
+HI,Waipahu,1,3
+IA,Adair,1,1
+IA,Adel,1,1
+IA,Ames,1,7
+IA,Ankeny,1,5
+IA,Bettendorf,1,2
+IA,Boone,1,1
+IA,Burlington,1,4
+IA,Cedar falls,1,1
+IA,Cedar Rapids,1,4
+IA,Clear Lake,1,1
+IA,Clermont,1,1
+IA,Clive,1,1
+IA,Colfax,1,2
+IA,Collins,1,1
+IA,Coralville,1,1
+IA,Council Bluffs,1,2
+IA,Davenport,1,7
+IA,De Soto,1,1
+IA,Decorah,1,4
+IA,Des Moines,1,6
+IA,Dubuque,1,3
+IA,Eldridge,1,3
+IA,Elgin,1,1
+IA,Estherville,1,1
+IA,Fairfield,1,2
+IA,Fort Dodge,1,1
+IA,Garner,1,1
+IA,Glenwood,1,1
+IA,Grimes,1,1
+IA,Humboldt,1,0
+IA,Huxley,1,1
+IA,Indianola,1,1
+IA,Iowa City,1,4
+IA,Johnston,1,1
+IA,Lansing,1,1
+IA,Le Claire,1,1
+IA,Le Mars,1,1
+IA,Lime Springs,1,1
+IA,Long Grove,1,1
+IA,Lynnville,1,1
+IA,Marion,1,3
+IA,Marshalltown,1,1
+IA,Mason City,1,1
+IA,Mc Gregor,1,1
+IA,Milford,1,1
+IA,Muscatine,1,1
+IA,Nevada,1,1
+IA,New Albin,1,1
+IA,New London,1,1
+IA,New Virginia,1,1
+IA,North Liberty,1,2
+IA,Norwalk,1,5
+IA,Ogden,1,1
+IA,Ossian,1,1
+IA,Panora,1,1
+IA,Pella,1,0
+IA,Perry,1,1
+IA,Persia,1,1
+IA,Polk City,1,1
+IA,Red Oak,1,1
+IA,Rhodes,1,1
+IA,Shenandoah,1,1
+IA,Solon,1,2
+IA,Spirit Lake,1,0
+IA,Stuart,1,2
+IA,Sully,1,1
+IA,Swisher,1,1
+IA,Tama,1,1
+IA,Urbandale,1,2
+IA,Van Meter,1,1
+IA,Vinton,1,1
+IA,W Des Moines,1,1
+IA,Washington,1,1
+IA,Waterloo,1,1
+IA,Waterville,1,1
+IA,Waukee,1,2
+IA,Wayland,1,0
+IA,Webster City,1,1
+IA,West Branch,1,2
+IA,West Des Moines,1,9
+IA,West Point,1,1
+IA,Wilton,1,0
+IA,Windsor Heights,1,1
+ID,Athol,1,1
+ID,Bellevue,1,2
+ID,Boise,1,43
+ID,Buhl,1,1
+ID,Burley,1,0
+ID,Caldwell,1,1
+ID,Chubbuck,1,1
+ID,Clifton,1,0
+ID,Coeur D Alene,1,8
+ID,Coeur D' Alene,1,2
+ID,Deary,1,1
+ID,Driggs,1,1
+ID,Eagle,1,4
+ID,Grangeville,1,1
+ID,Hailey,1,8
+ID,Hayden,1,4
+ID,Homedale,1,1
+ID,Horseshoe Bend,1,1
+ID,Idaho Falls,1,13
+ID,Iona,1,0
+ID,Irwin,1,1
+ID,Jerome,1,2
+ID,Ketchum,1,2
+ID,Kooskia,1,1
+ID,Kuna,1,5
+ID,Lewiston,1,1
+ID,Meridian,1,10
+ID,Moscow,1,3
+ID,Mountain Home,1,1
+ID,Nampa,1,7
+ID,Naples,1,3
+ID,Payette,1,2
+ID,Plummer,1,1
+ID,Pocatello,1,1
+ID,Post Falls,1,2
+ID,Rathdrum,1,0
+ID,Rexburg,1,1
+ID,Rigby,1,2
+ID,Rupert,1,1
+ID,Sagle,1,1
+ID,Saint Anthony,1,2
+ID,Sandpoint,1,3
+ID,Star,1,1
+ID,Sun Valley,1,1
+ID,Twin Falls,1,6
+ID,Victor,1,1
+IL,Abbott Park,1,1
+IL,Abingdon,1,1
+IL,Algonquin,1,3
+IL,Alton,1,1
+IL,Antioch,1,3
+IL,Arlington Heights,1,8
+IL,Ashmore,1,1
+IL,Aurora,1,6
+IL,Barrington,1,3
+IL,Barrington Hills,1,1
+IL,Bartlett,1,2
+IL,Batavia,1,4
+IL,Beach Park,1,1
+IL,Beardstown,1,1
+IL,Belleville,1,6
+IL,Benton,1,1
+IL,Bethany,1,1
+IL,Bloomingdale,1,1
+IL,Bloomington,1,2
+IL,Bolingbrook,1,4
+IL,Bourbonnais,1,1
+IL,Brookfield,1,0
+IL,Buffalo Hart,1,1
+IL,Burr Ridge,1,2
+IL,Bushnell,1,1
+IL,Carbondale,1,0
+IL,Carlock,1,1
+IL,Carmi,1,1
+IL,Carol Stream,1,1
+IL,Carthage,1,0
+IL,Cary,1,1
+IL,Caseyville,1,2
+IL,Champaign,1,6
+IL,Charleston,1,0
+IL,Chatham,1,1
+IL,Chicago,1,28
+IL,Cicero,1,1
+IL,Clinton,1,1
+IL,Colchester,1,1
+IL,Collinsville,1,2
+IL,Cordova,1,1
+IL,Crestwood,1,1
+IL,Crystal Lake,1,4
+IL,Danville,1,2
+IL,Darien,1,1
+IL,Davis Jct,1,1
+IL,Decatur,1,1
+IL,Dekalb,1,6
+IL,Des Plaines,1,2
+IL,Dixon,1,1
+IL,Downers Grove,1,5
+IL,East Dundee,1,2
+IL,East Moline,1,1
+IL,Edwardsville,1,1
+IL,Effingham,1,1
+IL,Elburn,1,1
+IL,Elgin,1,5
+IL,Elizabeth,1,1
+IL,Elk Grove Village,1,3
+IL,Elmhurst,1,2
+IL,Evanston,1,4
+IL,Evergreen Park,1,1
+IL,Fisher,1,1
+IL,Fox Lake,1,1
+IL,Fox River Grove,1,1
+IL,Frankfort,1,3
+IL,Galesburg,1,1
+IL,Galva,1,1
+IL,Geneseo,1,1
+IL,Geneva,1,3
+IL,Glen Ellyn,1,4
+IL,Glencoe,1,1
+IL,Glendale Heights,1,0
+IL,Glenview,1,3
+IL,Godfrey,1,2
+IL,Golconda,1,0
+IL,Granite City,1,1
+IL,Grayslake,1,3
+IL,Groveland,1,1
+IL,Gurnee,1,2
+IL,Hainesville,1,1
+IL,Hampshire,1,1
+IL,Hanover Park,1,2
+IL,Harvard,1,1
+IL,Havana,1,0
+IL,Hawthorn Wds,1,1
+IL,Hawthorn Woods,1,6
+IL,Hickory Hills,1,1
+IL,Highland Park,1,2
+IL,Hillsboro,1,1
+IL,Homer Glen,1,1
+IL,Homewood,1,0
+IL,Huntley,1,0
+IL,Industry,1,1
+IL,Ingleside,1,2
+IL,Island Lake,1,2
+IL,Itasca,1,0
+IL,Jacksonville,1,2
+IL,Johnsburg,1,2
+IL,Joliet,1,4
+IL,Kankakee,1,1
+IL,La Grange,1,2
+IL,La Grange Park,1,1
+IL,Lacon,1,0
+IL,Lake Barrington,1,1
+IL,Lake Bluff,1,6
+IL,Lake Forest,1,1
+IL,Lake In The Hills,1,1
+IL,Lake Villa,1,2
+IL,Lake Zurich,1,2
+IL,Lemont,1,1
+IL,Lerna,1,1
+IL,Libertyville,1,2
+IL,Lincolnshire,1,2
+IL,Lindenhurst,1,1
+IL,Lisle,1,4
+IL,Lockport,1,5
+IL,Lombard,1,9
+IL,Long Grove,1,2
+IL,LOVES PARK,1,0
+IL,Macomb,1,1
+IL,Mahomet,1,1
+IL,Manhattan,1,1
+IL,Manito,1,1
+IL,Manlius,1,1
+IL,Maple Park,1,0
+IL,Marion,1,1
+IL,Markham,1,0
+IL,Maryville,1,1
+IL,Mc Lean,1,0
+IL,Mchenry,1,3
+IL,Melrose Park,1,1
+IL,Millstadt,1,2
+IL,Minooka,1,1
+IL,Mokena,1,2
+IL,Moline,1,3
+IL,Monee,1,2
+IL,Monmouth,1,1
+IL,Montgomery,1,1
+IL,Mount Prospect,1,2
+IL,Mount Vernon,1,1
+IL,Mundelein,1,3
+IL,Naperville,1,10
+IL,Nauvoo,1,2
+IL,New Lenox,1,1
+IL,Niles,1,1
+IL,Nokomis,1,0
+IL,Normal,1,1
+IL,Northbrook,1,6
+IL,O Fallon,1,1
+IL,Oak Brook,1,2
+IL,Oak Forest,1,0
+IL,Oak Lawn,1,2
+IL,Oak Park,1,4
+IL,Oakbrook Terrace,1,1
+IL,Ogden,1,0
+IL,Oglesby,1,1
+IL,Opdyke,1,0
+IL,Oregon,1,1
+IL,Orland Park,1,2
+IL,Ottawa,1,2
+IL,Palatine,1,3
+IL,Park Ridge,1,1
+IL,Pekin,1,1
+IL,Peoria,1,4
+IL,Peotone,1,2
+IL,Petersburg,1,1
+IL,Pingree Grove,1,1
+IL,Plainfield,1,3
+IL,Plano,1,1
+IL,Port Byron,1,1
+IL,Prairie City,1,1
+IL,Princeton,1,5
+IL,Prospect Heights,1,1
+IL,Quincy,1,2
+IL,Rantoul,1,1
+IL,Red Bud,1,1
+IL,Richmond,1,1
+IL,River Forest,1,2
+IL,Riverside,1,1
+IL,Robinson,1,1
+IL,Rochester,1,1
+IL,Rockford,1,11
+IL,Rockton,1,1
+IL,Rolling Meadows,1,3
+IL,Roselle,1,2
+IL,Round Lake,1,2
+IL,Round Lk Park,1,0
+IL,Rushville,1,2
+IL,Saint Charles,1,7
+IL,Sandwich,1,2
+IL,Schaumburg,1,1
+IL,Secor,1,1
+IL,Sheffield,1,1
+IL,Shelbyville,1,1
+IL,Sheridan,1,1
+IL,Shiloh,1,1
+IL,Skokie,1,1
+IL,South Roxana,1,1
+IL,Springfield,1,5
+IL,St Charles,1,2
+IL,Staunton,1,1
+IL,SUGAR GROVE,1,1
+IL,Tampico,1,1
+IL,Teutopolis,1,1
+IL,Thomasboro,1,1
+IL,Tiskilwa,1,1
+IL,Tremont,1,1
+IL,Trenton,1,1
+IL,Urbana,1,4
+IL,Vernon Hills,1,1
+IL,Villa Park,1,1
+IL,Volo,1,2
+IL,Wadsworth,1,1
+IL,Waltonville,1,1
+IL,WARRENVILLE,1,4
+IL,Wauconda,1,2
+IL,Waukegan,1,3
+IL,West Chicago,1,11
+IL,Westmont,1,1
+IL,Westville,1,1
+IL,Wheaton,1,7
+IL,Wheeling,1,6
+IL,White Heath,1,0
+IL,Wilmette,1,4
+IL,Winfield,1,2
+IL,Winnetka,1,1
+IL,Wonder Lake,1,1
+IL,Woodridge,1,2
+IL,Woodstock,1,1
+IL,Yorkville,1,2
+IL,Zion,1,1
+IN,Anderson,1,1
+IN,Angola,1,1
+IN,Attica,1,1
+IN,Avon,1,1
+IN,Batesville,1,1
+IN,Bedford,1,2
+IN,Bloomfield,1,2
+IN,Bloomington,1,10
+IN,Boonville,1,1
+IN,Brownsburg,1,7
+IN,Carmel,1,7
+IN,Chalmers,1,1
+IN,Charlestown,1,0
+IN,Chesterton,1,1
+IN,Cicero,1,1
+IN,Clarksville,1,1
+IN,Cloverdale,1,2
+IN,Coatesville,1,1
+IN,Columbia City,1,1
+IN,Columbus,1,3
+IN,Crawfordsville,1,1
+IN,Crown Point,1,1
+IN,Danville,1,1
+IN,Demotte,1,2
+IN,Dyer,1,1
+IN,Eaton,1,1
+IN,Elkhart,1,1
+IN,Evanston,1,1
+IN,Evansville,1,4
+IN,Fishers,1,7
+IN,Floyds Knobs,1,1
+IN,Fort Wayne,1,12
+IN,Franklin,1,2
+IN,French Lick,1,1
+IN,Goshen,1,2
+IN,Granger,1,2
+IN,Greenfield,1,1
+IN,Greenville,1,1
+IN,Greenwood,1,5
+IN,Hobart,1,1
+IN,Huntingburg,1,1
+IN,Huntington,1,1
+IN,Indianapolis,1,39
+IN,Jasper,1,1
+IN,Jeffersonville,1,1
+IN,Kingsford Heights,1,1
+IN,Knox,1,1
+IN,Kokomo,1,1
+IN,Kouts,1,1
+IN,La Porte,1,3
+IN,Lafayette,1,10
+IN,Laurel,1,1
+IN,Lawrenceburg,1,2
+IN,Lebanon,1,1
+IN,Lexington,1,1
+IN,Liberty,1,1
+IN,Lyons,1,0
+IN,Madison,1,3
+IN,Martinsville,1,6
+IN,Merrillville,1,1
+IN,Middlebury,1,1
+IN,Mishawaka,1,3
+IN,Monroe,1,1
+IN,Mooresville,1,1
+IN,Morgantown,1,1
+IN,Mount Vernon,1,1
+IN,Muncie,1,5
+IN,Nashville,1,4
+IN,New Carlisle,1,1
+IN,New Haven,1,1
+IN,Newburgh,1,0
+IN,Noblesville,1,5
+IN,North Liberty,1,1
+IN,Paoli,1,2
+IN,Pershing,1,1
+IN,Plainfield,1,0
+IN,Plymouth,1,0
+IN,Porter,1,1
+IN,Remington,1,1
+IN,Richmond,1,1
+IN,Rochester,1,1
+IN,Romney,1,0
+IN,Russiaville,1,0
+IN,Saint John,1,1
+IN,Sellersburg,1,1
+IN,Seymour,1,1
+IN,Sharpsville,1,0
+IN,Shoals,1,1
+IN,South Bend,1,0
+IN,Speedway,1,1
+IN,Terre Haute,1,1
+IN,Thorntown,1,1
+IN,Valparaiso,1,4
+IN,W Lafayette,1,1
+IN,West Harrison,1,1
+IN,West Lafayette,1,6
+IN,Westfield,1,3
+IN,Westpoint,1,1
+IN,Winamac,1,1
+IN,Wolcottville,1,1
+IN,Yoder,1,1
+IN,Zionsville,1,2
+KS,Andover,1,2
+KS,Axtell,1,1
+KS,Baldwin City,1,1
+KS,Bel Aire,1,1
+KS,Bonner Springs,1,1
+KS,Burden,1,1
+KS,Edgerton,1,1
+KS,Emporia,1,1
+KS,Fairway,1,1
+KS,Gem,1,1
+KS,Girard,1,1
+KS,Goddard,1,2
+KS,Great Bend,1,1
+KS,Hays,1,2
+KS,Haysville,1,1
+KS,Hiawatha,1,1
+KS,Hutchinson,1,1
+KS,Kansas City,1,1
+KS,Kinsley,1,0
+KS,Lake Quivira,1,1
+KS,Lansing,1,1
+KS,Lawrence,1,5
+KS,Leawood,1,1
+KS,Lenexa,1,2
+KS,Linn Valley,1,1
+KS,Linwood,1,0
+KS,Maize,1,2
+KS,Manhattan,1,8
+KS,Mc Louth,1,1
+KS,Merriam,1,1
+KS,Mulvane,1,1
+KS,Neosho Rapids,1,0
+KS,Newton,1,1
+KS,Olathe,1,4
+KS,Overland Park,1,12
+KS,Pittsburg,1,1
+KS,Pomona,1,1
+KS,Prairie Village,1,2
+KS,Pratt,1,0
+KS,Roeland Park,1,1
+KS,Shawnee,1,5
+KS,Shawnee Mission,1,2
+KS,Tonganoxie,1,0
+KS,Topeka,1,5
+KS,Wellington,1,0
+KS,Westwood,1,1
+KS,Wichita,1,7
+KY,Bellevue,1,0
+KY,Berea,1,0
+KY,Bowling Green,1,3
+KY,Brandenburg,1,1
+KY,Bulan,1,1
+KY,Burlington,1,2
+KY,Caneyville,1,1
+KY,Clermont,1,0
+KY,Covington,1,5
+KY,Crescent Springs,1,1
+KY,Crestwood,1,0
+KY,Edgewood,1,1
+KY,Ekron,1,1
+KY,Elizabethtown,1,1
+KY,Erlanger,1,1
+KY,Fairdale,1,3
+KY,Finchville,1,0
+KY,Florence,1,2
+KY,Fort Mitchell,1,1
+KY,Fort Thomas,1,2
+KY,Frankfort,1,6
+KY,Franklin,1,2
+KY,Georgetown,1,3
+KY,Glasgow,1,1
+KY,Graham,1,1
+KY,Henderson,1,1
+KY,Highland Heights,1,2
+KY,Hopkinsville,1,1
+KY,Jeffersontown,1,2
+KY,Lagrange,1,1
+KY,Lancaster,1,1
+KY,Lexington,1,19
+KY,Louisvile,1,1
+KY,Louisville,1,26
+KY,Madisonville,1,1
+KY,Midway,1,0
+KY,Newport,1,2
+KY,Nicholasville,1,1
+KY,Paducah,1,4
+KY,Park Hills,1,1
+KY,Pewee Valley,1,1
+KY,Scottsville,1,1
+KY,Shepherdsville,1,1
+KY,Somerset,1,1
+KY,Stanton,1,1
+KY,Taylorsville,1,2
+KY,Tutor Key,1,1
+KY,Union,1,1
+KY,Versailles,1,4
+KY,Walton,1,1
+KY,Wilder,1,0
+KY,Woodburn,1,1
+LA,Baton Rouge,1,7
+LA,Calhoun,1,0
+LA,Covington,1,2
+LA,Greenwell Springs,1,1
+LA,Gretna,1,0
+LA,Haughton,1,1
+LA,Kenner,1,3
+LA,Lake Charles,1,1
+LA,Madisonville,1,0
+LA,Mandeville,1,0
+LA,Metairie,1,1
+LA,Monroe,1,1
+LA,Natchitoches,1,1
+LA,New Orleans,1,6
+LA,Plaquemine,1,1
+LA,Ponchatoula,1,0
+LA,Prairieville,1,2
+LA,Raceland,1,1
+LA,Scott,1,1
+LA,Shreveport,1,3
+LA,Slidell,1,1
+MA,Acton,1,2
+MA,Amherst,1,1
+MA,Andover,1,1
+MA,Arlington,1,2
+MA,Ashby,1,0
+MA,Ashfield,1,1
+MA,Ashley Falls,1,0
+MA,Assonet,1,1
+MA,Auburn,1,1
+MA,Avon,1,1
+MA,Belchertown,1,2
+MA,Bellingham,1,1
+MA,Belmont,1,1
+MA,Berlin,1,1
+MA,Beverly,1,2
+MA,Beverly Farms,1,1
+MA,Boston,1,4
+MA,Braintree,1,1
+MA,Brookfield,1,0
+MA,Carver,1,1
+MA,Centerville,1,1
+MA,Charlton,1,1
+MA,Chelmsford,1,0
+MA,Chesterfield,1,1
+MA,Clinton,1,1
+MA,Colrain,1,1
+MA,Concord,1,0
+MA,Conway,1,1
+MA,Danvers,1,1
+MA,Dennis Port,1,1
+MA,Dighton,1,1
+MA,Dracut,1,0
+MA,East Falmouth,1,4
+MA,East Longmeadow,1,1
+MA,East Wareham,1,1
+MA,Falmouth,1,2
+MA,Feeding Hills,1,1
+MA,Fitchburg,1,2
+MA,Florence,1,1
+MA,Foxboro,1,5
+MA,Framingham,1,1
+MA,Gardner,1,1
+MA,Gloucester,1,2
+MA,Great Barrington,1,2
+MA,Greenfield,1,2
+MA,Groveland,1,0
+MA,Hanover,1,1
+MA,Hanson,1,1
+MA,Hingham,1,1
+MA,Holbrook,1,1
+MA,Holden,1,0
+MA,Holliston,1,1
+MA,Hopedale,1,0
+MA,Hopkinton,1,0
+MA,Hubbardston,1,3
+MA,Huntington,1,1
+MA,Hyde Park,1,1
+MA,Ipswich,1,2
+MA,Lakeville,1,1
+MA,Leominster,1,1
+MA,Leverett,1,0
+MA,Lincoln,1,1
+MA,Lowell,1,0
+MA,Lunenburg,1,1
+MA,Manchester-By-The-Sea,1,1
+MA,Mansfield,1,1
+MA,Marblehead,1,2
+MA,Marion,1,1
+MA,Marshfield,1,2
+MA,Marstons Mills,1,1
+MA,Mashpee,1,2
+MA,Maynard,1,1
+MA,Medford,1,3
+MA,Middleton,1,1
+MA,Mill River,1,0
+MA,Millis,1,0
+MA,N Billerica,1,1
+MA,Nantucket,1,3
+MA,Natick,1,2
+MA,Needham,1,4
+MA,New Bedford,1,4
+MA,North Andover,1,1
+MA,North Attleboro,1,1
+MA,North Chelmsford,1,1
+MA,Northampton,1,2
+MA,Northborough,1,1
+MA,Oak Bluffs,1,0
+MA,Pelham,1,1
+MA,Pembroke,1,0
+MA,Pittsfield,1,1
+MA,Plymouth,1,1
+MA,Richmond,1,1
+MA,Rochester,1,2
+MA,Rockland,1,2
+MA,Rowley,1,1
+MA,Roxbury,1,1
+MA,Rutland,1,2
+MA,Salem,1,1
+MA,Salisbury,1,1
+MA,Sandisfield,1,2
+MA,Sandwich,1,1
+MA,Seekonk,1,1
+MA,Sheffield,1,6
+MA,Sherborn,1,0
+MA,Somerset,1,1
+MA,Somerville,1,2
+MA,South Chatham,1,1
+MA,South Dennis,1,1
+MA,South Hadley,1,1
+MA,South Yarmouth,1,2
+MA,Southborough,1,2
+MA,Spencer,1,1
+MA,Sterling,1,2
+MA,Stoughton,1,1
+MA,Stow,1,1
+MA,Sturbridge,1,2
+MA,Sunderland,1,2
+MA,Sutton,1,1
+MA,Swampscott,1,1
+MA,Vineyard Haven,1,1
+MA,Wareham,1,1
+MA,Warren,1,0
+MA,Watertown,1,1
+MA,Wayland,1,1
+MA,Wellesley,1,1
+MA,Wellfleet,1,1
+MA,West Barnstable,1,0
+MA,West Boylston,1,1
+MA,West Roxbury,1,1
+MA,West Tisbury,1,1
+MA,Westford,1,1
+MA,Weston,1,2
+MA,Westport,1,2
+MA,Westwood,1,0
+MA,Weymouth,1,2
+MA,Winchester,1,1
+MA,Worcester,1,2
+MA,Wrentham,1,1
+MD,Abingdon,1,1
+MD,Adamstown,1,2
+MD,Adelphi,1,2
+MD,Annapolis,1,5
+MD,Annapolis Junction,1,2
+MD,Ashton,1,2
+MD,Baltimore,1,18
+MD,Bel Air,1,3
+MD,Belcamp,1,1
+MD,Beltsville,1,5
+MD,Bethesda,1,3
+MD,Brookeville,1,1
+MD,Brooklandville,1,1
+MD,Brunswick,1,1
+MD,Catonsville,1,1
+MD,Cecilton,1,1
+MD,Centreville,1,2
+MD,Chestertown,1,1
+MD,Cheverly,1,1
+MD,Chevy Chase,1,1
+MD,Clarksburg,1,2
+MD,Clinton,1,1
+MD,Cockeysville,1,2
+MD,Cockeysville Hunt Valley,1,1
+MD,College Park,1,1
+MD,Columbia,1,3
+MD,Crofton,1,1
+MD,Crownsville,1,2
+MD,Cumberland,1,3
+MD,Damascus,1,4
+MD,Darnestown,1,1
+MD,Davidsonville,1,1
+MD,Dayton,1,1
+MD,Denton,1,1
+MD,Derwood,1,2
+MD,Easton,1,1
+MD,Edgewater,1,1
+MD,Eldersburg,1,1
+MD,Elkridge,1,1
+MD,Elkton,1,1
+MD,Ellicott City,1,2
+MD,Finksburg,1,1
+MD,Flintstone,1,1
+MD,Frederick,1,8
+MD,Gaithersburg,1,10
+MD,Gambrills,1,2
+MD,Germantown,1,3
+MD,Glen Burnie,1,1
+MD,Glenn Dale,1,1
+MD,Glenwood,1,1
+MD,Grantsville,1,1
+MD,Great Mills,1,1
+MD,Hagerstown,1,4
+MD,Hampstead,1,1
+MD,Havre De Grace,1,1
+MD,Highlandtown,1,0
+MD,Hollywood,1,1
+MD,Hyattsville,1,3
+MD,Ijamsville,1,1
+MD,Jessup,1,3
+MD,Kensington,1,3
+MD,Kingsville,1,1
+MD,La Plata,1,1
+MD,Largo,1,1
+MD,Laurel,1,3
+MD,Laytonsville,1,1
+MD,Lexington Park,1,0
+MD,Lothian,1,2
+MD,Manchester,1,1
+MD,Mechanicsville,1,1
+MD,Middletown,1,1
+MD,Millersville,1,3
+MD,Montgomery Village,1,1
+MD,Mount Airy,1,7
+MD,Mount Rainier,1,1
+MD,Mt. Airy,1,1
+MD,Myersville,1,2
+MD,Neavitt,1,1
+MD,New Market,1,1
+MD,New Windsor,1,1
+MD,Odenton,1,4
+MD,Olney,1,2
+MD,Owings,1,4
+MD,Owings Mills,1,3
+MD,Pasadena,1,2
+MD,Phoenix,1,1
+MD,Pikesville,1,1
+MD,Pocomoke City,1,3
+MD,Poolesville,1,1
+MD,Port Republic,1,1
+MD,Port Tobacco,1,1
+MD,Potomac,1,1
+MD,Preston,1,1
+MD,Prince Frederick,1,2
+MD,Princess Anne,1,1
+MD,Queen Anne,1,1
+MD,Randallstown,1,1
+MD,Reisterstown,1,1
+MD,Rockville,1,9
+MD,Saint Michaels,1,1
+MD,Salisbury,1,2
+MD,Severn,1,1
+MD,Severna Park,1,1
+MD,Silver Spring,1,9
+MD,Snow Hill,1,1
+MD,Sparks,1,2
+MD,Spencerville,1,1
+MD,Still Pond,1,1
+MD,Sudlersville,1,1
+MD,Sykesville,1,1
+MD,Takoma Park,1,2
+MD,Thurmont,1,2
+MD,Tilghman,1,1
+MD,Timonium,1,1
+MD,Towson,1,1
+MD,Upper Marlboro,1,4
+MD,Upperco,1,2
+MD,Waldorf,1,1
+MD,Walkersville,1,1
+MD,West Friendship,1,1
+MD,Westminster,1,3
+MD,Westover,1,0
+MD,White Marsh,1,1
+MD,Windsor Mill,1,1
+MD,Woodbine,1,4
+MD,Woodstock,1,1
+MD,Worton,1,1
+ME,Belfast,1,1
+ME,Boothbay Harbor,1,1
+ME,Bowdoin,1,1
+ME,Brunswick,1,2
+ME,Buxton,1,1
+ME,Camden,1,0
+ME,Cape Elizabeth,1,1
+ME,Eliot,1,1
+ME,Ellsworth,1,1
+ME,Fairfield,1,1
+ME,Freeport,1,1
+ME,Garland,1,1
+ME,Harpswell,1,0
+ME,Kenduskeag,1,0
+ME,Kennebunk,1,0
+ME,Kingfield,1,0
+ME,Lovell,1,1
+ME,Milford,1,1
+ME,Montville,1,0
+ME,Mount Desert,1,0
+ME,North Berwick,1,2
+ME,Orrington,1,1
+ME,Portland,1,3
+ME,Scarborough,1,1
+ME,Sedgwick,1,0
+ME,Shapleigh,1,1
+ME,South Berwick,1,1
+ME,South China,1,0
+ME,South Portland,1,2
+ME,Tenants Harbor,1,0
+ME,Trenton,1,1
+ME,Wells,1,1
+ME,Windham,1,1
+ME,York,1,2
+MI,Adrian,1,2
+MI,Allen Park,1,2
+MI,Allendale,1,1
+MI,Alto,1,1
+MI,Ann Arbor,1,10
+MI,Attica,1,6
+MI,Bancroft,1,1
+MI,Bannister,1,3
+MI,Battle Creek,1,1
+MI,Bay City,1,0
+MI,Belding,1,0
+MI,Belmont,1,1
+MI,Berrien Springs,1,0
+MI,Big Bay,1,1
+MI,Bloomfield Hills,1,2
+MI,boyne city,1,2
+MI,Breckenridge,1,0
+MI,Brighton,1,2
+MI,Britton,1,1
+MI,Burtchville,1,1
+MI,Burton,1,0
+MI,Byron,1,2
+MI,Cadillac,1,0
+MI,Canton,1,1
+MI,Caseville,1,0
+MI,Cass City,1,1
+MI,Cassopolis,1,1
+MI,Cedar,1,2
+MI,Cedar Springs,1,1
+MI,Charlevoix,1,2
+MI,Charlotte,1,1
+MI,Chesterfield,1,2
+MI,Clarkston,1,2
+MI,Clawson,1,1
+MI,Clayton,1,0
+MI,Clinton Township,1,1
+MI,Clinton Twp,1,1
+MI,Columbiaville,1,0
+MI,Commerce Township,1,3
+MI,Comstock Park,1,0
+MI,Coopersville,1,1
+MI,Copemish,1,1
+MI,Dearborn,1,2
+MI,Delton,1,1
+MI,Detroit,1,3
+MI,Dewitt,1,1
+MI,Dexter,1,2
+MI,Dimondale,1,1
+MI,Dorr,1,1
+MI,Dowagiac,1,1
+MI,Dryden,1,1
+MI,East Lansing,1,2
+MI,Elwell,1,1
+MI,Essexville,1,1
+MI,Farmington Hills,1,1
+MI,Fenton,1,1
+MI,Ferndale,1,1
+MI,Flint,1,1
+MI,Fremont,1,0
+MI,Garden City,1,0
+MI,Gobles,1,2
+MI,Grand Blanc,1,1
+MI,Grand Haven,1,1
+MI,Grand Rapids,1,15
+MI,Grandville,1,3
+MI,Grant,1,1
+MI,Grass Lake,1,1
+MI,Greenbush,1,1
+MI,Grosse Pointe,1,3
+MI,Grosse Pointe Farms,1,1
+MI,Grosse Pointe Park,1,1
+MI,Harbor Springs,1,2
+MI,Harper Woods,1,1
+MI,Hastings,1,1
+MI,Hemlock,1,2
+MI,Hessel,1,1
+MI,Holland,1,3
+MI,Holly,1,2
+MI,Holt,1,0
+MI,Houghton Lake,1,1
+MI,Howard City,1,1
+MI,Howell,1,5
+MI,Interlochen,1,1
+MI,Iron River,1,0
+MI,Ithaca,1,1
+MI,Jackson,1,4
+MI,Kalamazoo,1,7
+MI,Kewadin,1,1
+MI,Kingsley,1,1
+MI,Kingston,1,2
+MI,Lake Ann,1,1
+MI,Lake Leelanau,1,1
+MI,Lake Orion,1,1
+MI,Lambertville,1,1
+MI,LANSING,1,8
+MI,Lapeer,1,1
+MI,Leslie,1,2
+MI,Lewiston,1,0
+MI,Livonia,1,3
+MI,Macomb,1,6
+MI,Madison Heights,1,1
+MI,Manistee,1,1
+MI,MAPLE CITY,1,2
+MI,Marne,1,1
+MI,Marquette,1,2
+MI,Marshall,1,1
+MI,Mason,1,2
+MI,Metamora,1,1
+MI,Midland,1,7
+MI,Milford,1,0
+MI,Mount Clemens,1,0
+MI,Mount Pleasant,1,0
+MI,New Buffalo,1,1
+MI,Newaygo,1,1
+MI,Niles,1,0
+MI,Northville,1,2
+MI,Northville Township,1,1
+MI,Novi,1,2
+MI,Nunica,1,2
+MI,Oakland Township,1,1
+MI,Onsted,1,1
+MI,Orion,1,0
+MI,Oscoda,1,3
+MI,Owosso,1,1
+MI,Oxford,1,1
+MI,Perrinton,1,1
+MI,Perry,1,1
+MI,Petoskey,1,2
+MI,Plymouth,1,1
+MI,Pontiac,1,1
+MI,Port Huron,1,1
+MI,Portage,1,1
+MI,Richland,1,1
+MI,Richmond,1,1
+MI,Riley,1,1
+MI,Rochester Hills,1,4
+MI,Rockford,1,5
+MI,Romeo,1,0
+MI,Romulus,1,1
+MI,Rosebush,1,1
+MI,Roseville,1,1
+MI,Royal Oak,1,3
+MI,Saginaw,1,2
+MI,Saint Charles,1,1
+MI,Saint Clair,1,6
+MI,Saint Clair Shores,1,5
+MI,Saint Johns,1,1
+MI,Sandusky,1,1
+MI,Shelby Township,1,4
+MI,Shelbyville,1,1
+MI,Sherwood,1,1
+MI,South Haven,1,2
+MI,South Lyon,1,1
+MI,Southfield,1,1
+MI,Spring Lake,1,1
+MI,Sterling Heights,1,2
+MI,Temperance,1,1
+MI,Three Oaks,1,1
+MI,Three Rivers,1,1
+MI,Traverse City,1,9
+MI,Troy,1,4
+MI,Walled Lake,1,1
+MI,Warren,1,7
+MI,Waterford,1,10
+MI,Wayland,1,1
+MI,Wellston,1,1
+MI,West Bloomfield,1,0
+MI,West Olive,1,0
+MI,Westland,1,2
+MI,White Cloud,1,2
+MI,White Lake,1,4
+MI,Whitehall,1,1
+MI,Whitmore Lake,1,1
+MI,Wixom,1,1
+MI,Wyandotte,1,1
+MI,Ypsilanti,1,3
+MI,Zeeland,1,1
+MN,Afton,1,3
+MN,Amboy,1,1
+MN,Andover,1,3
+MN,Annandale,1,1
+MN,Apple Valley,1,2
+MN,Austin,1,1
+MN,Barnum,1,1
+MN,Baxter,1,1
+MN,Becker,1,0
+MN,Bemidji,1,2
+MN,Big Lake,1,1
+MN,Blaine,1,1
+MN,Bloomington,1,2
+MN,Brainerd,1,3
+MN,Brooklyn Center,1,1
+MN,Brooklyn Park,1,6
+MN,Buffalo,1,2
+MN,Burnsville,1,1
+MN,Carlos,1,1
+MN,Carver,1,1
+MN,Centerville,1,0
+MN,Chanhassen,1,1
+MN,Cloquet,1,1
+MN,Cohasset,1,1
+MN,Corcoran,1,0
+MN,Cottage Grove,1,1
+MN,Crookston,1,1
+MN,Crystal,1,1
+MN,Dassel,1,1
+MN,Delano,1,1
+MN,Detroit Lakes,1,1
+MN,Donnelly,1,0
+MN,Duluth,1,7
+MN,Eagan,1,2
+MN,East Bethel,1,2
+MN,Eden Prairie,1,4
+MN,Edina,1,2
+MN,Elizabeth,1,0
+MN,Elk River,1,2
+MN,Esko,1,1
+MN,Excelsior,1,4
+MN,Fairmont,1,1
+MN,Farmington,1,2
+MN,Farwell,1,1
+MN,Fergus Falls,1,1
+MN,Finlayson,1,1
+MN,Foley,1,1
+MN,Forest Lake,1,3
+MN,Foreston,1,1
+MN,Fort Ripley,1,1
+MN,Fridley,1,1
+MN,Glencoe,1,1
+MN,Glenwood,1,1
+MN,Golden Valley,1,1
+MN,Grand Rapids,1,1
+MN,Granite Falls,1,1
+MN,Ham Lake,1,1
+MN,Hampton,1,1
+MN,Harris,1,1
+MN,Hastings,1,1
+MN,Hibbing,1,1
+MN,Hopkins,1,6
+MN,Hugo,1,1
+MN,Hutchinson,1,1
+MN,Independence,1,1
+MN,Inver Grove Heights,1,1
+MN,Isanti,1,1
+MN,Jordan,1,4
+MN,Kabetogama,1,1
+MN,Lake City,1,1
+MN,Lake Elmo,1,1
+MN,Lakeville,1,1
+MN,Lewiston,1,1
+MN,Lino Lakes,1,1
+MN,Little Canada,1,2
+MN,Little Falls,1,3
+MN,Mankato,1,1
+MN,Maple Grove,1,4
+MN,Marine On Saint Croix,1,0
+MN,Marshall,1,0
+MN,Milaca,1,2
+MN,Minneapolis,1,30
+MN,Minneota,1,1
+MN,Minnetonka,1,8
+MN,Montrose,1,2
+MN,Moorhead,1,3
+MN,Morris,1,1
+MN,Motley,1,0
+MN,Mound,1,1
+MN,Mountain iron,1,1
+MN,New Brighton,1,3
+MN,New Hope,1,1
+MN,New Prague,1,1
+MN,North Branch,1,2
+MN,North Saint Paul,1,2
+MN,Northfield,1,2
+MN,Orono,1,1
+MN,Ottertail,1,1
+MN,Park Rapids,1,3
+MN,Paynesville,1,1
+MN,Pierz,1,5
+MN,Pillager,1,1
+MN,Pine City,1,1
+MN,Pine Island,1,1
+MN,Plymouth,1,5
+MN,Princeton,1,1
+MN,Prior Lake,1,2
+MN,Ramsey,1,1
+MN,Red Wing,1,1
+MN,Rice,1,1
+MN,Robbinsdale,1,0
+MN,Rochester,1,11
+MN,Rogers,1,1
+MN,Rosemount,1,1
+MN,Roseville,1,1
+MN,Royalton,1,1
+MN,Saint Cloud,1,4
+MN,Saint Francis,1,2
+MN,Saint Louis Park,1,4
+MN,Saint Paul,1,23
+MN,Sartell,1,0
+MN,Sauk Rapids,1,1
+MN,Savage,1,2
+MN,Shafer,1,1
+MN,Shakopee,1,1
+MN,Silver Bay,1,1
+MN,South Haven,1,1
+MN,South Saint Paul,1,1
+MN,South St Paul,1,2
+MN,Spicer,1,1
+MN,Spring Grove,1,1
+MN,Springfield,1,0
+MN,Stacy,1,0
+MN,Stanchfield,1,1
+MN,Stewartville,1,1
+MN,Stillwater,1,4
+MN,Sunfish Lake,1,1
+MN,Twin Valley,1,0
+MN,Vadnais Heights,1,1
+MN,Victoria,1,1
+MN,Wabasha,1,1
+MN,Waconia,1,1
+MN,Wayzata,1,4
+MN,Webster,1,1
+MN,Wells,1,0
+MN,Winona,1,2
+MN,Woodbury,1,3
+MO,Adrian,1,1
+MO,Arnold,1,2
+MO,Ashland,1,2
+MO,Aurora,1,2
+MO,Ballwin,1,7
+MO,Barnhart,1,1
+MO,Boonville,1,1
+MO,Bourbon,1,1
+MO,Branson,1,2
+MO,Brighton,1,1
+MO,Buckner,1,1
+MO,Cameron,1,2
+MO,Cape Girardeau,1,1
+MO,Carterville,1,0
+MO,Carthage,1,0
+MO,Cassville,1,1
+MO,Cedar Hill,1,1
+MO,Centralia,1,1
+MO,Chesterfield,1,2
+MO,Columbia,1,15
+MO,Cottleville,1,1
+MO,Crane,1,2
+MO,Creighton,1,0
+MO,Creve Coeur,1,1
+MO,De Soto,1,0
+MO,Defiance,1,0
+MO,Ellisville,1,1
+MO,Elsberry,1,0
+MO,Fair Grove,1,1
+MO,Fair Play,1,2
+MO,Farmington,1,1
+MO,Fayette,1,2
+MO,Fenton,1,6
+MO,Festus,1,1
+MO,Florissant,1,0
+MO,Foristell,1,2
+MO,Fredericktown,1,2
+MO,Fulton,1,1
+MO,Galena,1,1
+MO,Grandview,1,0
+MO,Half Way,1,0
+MO,Hannibal,1,1
+MO,Hawk Point,1,0
+MO,Hazelwood,1,2
+MO,Helena,1,1
+MO,Hermann,1,0
+MO,High Ridge,1,1
+MO,Hillsboro,1,1
+MO,Hollister,1,1
+MO,Holts Summit,1,1
+MO,House Springs,1,1
+MO,Imperial,1,2
+MO,Independence,1,3
+MO,Jackson,1,1
+MO,Jefferson City,1,3
+MO,Joplin,1,1
+MO,Kansas City,1,18
+MO,Kimberling City,1,1
+MO,Kirksville,1,1
+MO,Kirkwood,1,2
+MO,Labadie,1,1
+MO,Ladue,1,1
+MO,Lake Saint Louis,1,0
+MO,Lamar,1,1
+MO,Lampe,1,1
+MO,Lebanon,1,2
+MO,Lees Summit,1,2
+MO,Liberty,1,2
+MO,Macks Creek,1,1
+MO,Maplewood,1,0
+MO,MARIONVILLE,1,1
+MO,Marquand,1,0
+MO,Marshall,1,1
+MO,Marshfield,1,2
+MO,Maryland Heights,1,1
+MO,Memphis,1,0
+MO,Mexico,1,1
+MO,Moberly,1,1
+MO,Monett,1,0
+MO,Montgomery City,1,0
+MO,Mount Vernon,1,1
+MO,Neosho,1,2
+MO,New London,1,1
+MO,Nixa,1,3
+MO,Norwood,1,0
+MO,O Fallon,1,3
+MO,Odessa,1,1
+MO,Old Monroe,1,1
+MO,Owensville,1,1
+MO,Ozark,1,3
+MO,Pacific,1,1
+MO,Parkville,1,1
+MO,Pevely,1,1
+MO,Piedmont,1,1
+MO,Poplar Bluff,1,0
+MO,Raymore,1,3
+MO,Reeds Spring,1,2
+MO,Rogersville,1,1
+MO,Rolla,1,1
+MO,Rushville,1,1
+MO,Saint Ann,1,1
+MO,Saint Charles,1,5
+MO,Saint Joseph,1,0
+MO,Saint Louis,1,40
+MO,Saint Peters,1,6
+MO,Sainte Genevieve,1,1
+MO,Sedalia,1,1
+MO,Seneca,1,1
+MO,Springfield,1,33
+MO,St Louis,1,1
+MO,St. Louis,1,1
+MO,Sunset Hills,1,1
+MO,Troy,1,1
+MO,Union,1,1
+MO,University City,1,2
+MO,Valley Park,1,2
+MO,Verona,1,1
+MO,Versailles,1,2
+MO,Warrenton,1,2
+MO,Weatherby lake,1,1
+MO,Webster Groves,1,1
+MO,Wentzville,1,7
+MO,Willard,1,2
+MS,Bay St Louis,1,1
+MS,Biloxi,1,1
+MS,Brandon,1,2
+MS,Braxton,1,1
+MS,Caledonia,1,1
+MS,Calhoun City,1,1
+MS,Carriere,1,0
+MS,Carthage,1,1
+MS,Clinton,1,1
+MS,Columbia,1,1
+MS,Diamondhead,1,2
+MS,Gautier,1,1
+MS,Gloster,1,1
+MS,Hattiesburg,1,2
+MS,Jackson,1,0
+MS,Kiln,1,2
+MS,Lamar,1,2
+MS,Laurel,1,2
+MS,Liberty,1,1
+MS,Long Beach,1,3
+MS,Madison,1,4
+MS,Meridian,1,1
+MS,Mississippi State,1,1
+MS,Moss Point,1,1
+MS,Ocean Springs,1,3
+MS,Olive Branch,1,2
+MS,Ovett,1,1
+MS,Oxford,1,2
+MS,Pascagoula,1,1
+MS,Pass Christian,1,0
+MS,Pontotoc,1,1
+MS,Poplarville,1,1
+MS,Port Gibson,1,1
+MS,Quitman,1,0
+MS,Saucier,1,1
+MS,Starkville,1,2
+MS,Stonewall,1,1
+MS,Summit,1,1
+MS,Tupelo,1,3
+MS,University,1,1
+MS,Verona,1,1
+MS,Wiggins,1,0
+MT,Anaconda,1,1
+MT,Belgrade,1,4
+MT,Big Sky,1,0
+MT,Big Timber,1,1
+MT,Bigfork,1,3
+MT,Billings,1,13
+MT,Black Eagle,1,0
+MT,Bozeman,1,11
+MT,Butte,1,1
+MT,Columbia Falls,1,3
+MT,Columbus,1,1
+MT,Corvallis,1,2
+MT,Florence,1,2
+MT,Forsyth,1,1
+MT,Frenchtown,1,1
+MT,Great Falls,1,8
+MT,Hamilton,1,1
+MT,Helena,1,9
+MT,Kalispell,1,8
+MT,Laurel,1,1
+MT,Lewistown,1,1
+MT,Livingston,1,3
+MT,Lolo,1,1
+MT,Milltown,1,1
+MT,Missoula,1,10
+MT,Rexford,1,1
+MT,Sidney,1,1
+MT,Silver Star,1,1
+MT,Superior,1,0
+MT,Three Forks,1,1
+MT,Townsend,1,1
+MT,Whitefish,1,3
+NC,Aberdeen,1,2
+NC,Alamance,1,1
+NC,Alexander,1,1
+NC,Angier,1,0
+NC,Apex,1,1
+NC,Arden,1,1
+NC,Asheboro,1,2
+NC,Asheville,1,27
+NC,Ayden,1,1
+NC,Bailey,1,1
+NC,Barnardsville,1,0
+NC,Beaufort,1,0
+NC,Belmont,1,2
+NC,black mountain,1,4
+NC,Boone,1,3
+NC,Brevard,1,1
+NC,Burlington,1,4
+NC,Burnsville,1,1
+NC,Candler,1,4
+NC,Carrboro,1,3
+NC,Carthage,1,0
+NC,Cary,1,4
+NC,Cashiers,1,1
+NC,Chapel Hill,1,11
+NC,Charlotte,1,44
+NC,Clayton,1,2
+NC,Clemmons,1,4
+NC,Concord,1,5
+NC,Connellys Springs,1,1
+NC,Cove City,1,1
+NC,Davidson,1,1
+NC,Denver,1,1
+NC,Durham,1,4
+NC,East Bend,1,1
+NC,Edenton,1,0
+NC,Elizabeth City,1,1
+NC,Elizabethtown,1,1
+NC,Elkin,1,1
+NC,Ellenboro,1,1
+NC,Fairview,1,2
+NC,Fayetteville,1,2
+NC,Fearrington Village,1,1
+NC,Four Oaks,1,1
+NC,Franklinton,1,1
+NC,Fuquay Varina,1,1
+NC,Garner,1,0
+NC,Gastonia,1,4
+NC,Goldsboro,1,1
+NC,Greensboro,1,7
+NC,Greenville,1,1
+NC,Grimesland,1,1
+NC,Hampstead,1,2
+NC,Harrisburg,1,1
+NC,Hayesville,1,1
+NC,Henderson,1,6
+NC,Hendersonville,1,5
+NC,Hertford,1,1
+NC,Hickory,1,1
+NC,Hillsborough,1,2
+NC,Holly springs,1,1
+NC,Huntersville,1,3
+NC,Jacksonville,1,2
+NC,Jarvisburg,1,1
+NC,Jefferson,1,1
+NC,Kannapolis,1,1
+NC,Kelly,1,1
+NC,Kill Devil Hills,1,1
+NC,King,1,2
+NC,Kings Mountain,1,1
+NC,Kinston,1,2
+NC,Kitty Hawk,1,1
+NC,Lake Toxaway,1,1
+NC,Laurinburg,1,0
+NC,Lenoir,1,2
+NC,Lexington,1,1
+NC,Liberty,1,1
+NC,Lillington,1,1
+NC,Linville,1,0
+NC,Locust,1,2
+NC,Madison,1,1
+NC,Maggie Valley,1,0
+NC,Maiden,1,1
+NC,Mars Hill,1,1
+NC,Matthews,1,2
+NC,Mebane,1,1
+NC,Mills River,1,1
+NC,Mocksville,1,0
+NC,Moncure,1,1
+NC,Mooresboro,1,1
+NC,Mooresville,1,3
+NC,Morehead City,1,1
+NC,Morganton,1,1
+NC,Mount Airy,1,1
+NC,New Bern,1,1
+NC,Newland,1,2
+NC,Newton,1,2
+NC,Oak Island,1,0
+NC,Oakboro,1,0
+NC,Ocean Isle Beach,1,1
+NC,Old Fort,1,2
+NC,Penrose,1,1
+NC,Pfafftown,1,1
+NC,Pikeville,1,1
+NC,Pinehurst,1,1
+NC,Pineville,1,2
+NC,Pisgah Forest,1,4
+NC,Pittsboro,1,4
+NC,Raeford,1,1
+NC,Raleigh,1,43
+NC,Reidsville,1,1
+NC,Robbinsville,1,2
+NC,Rockingham,1,1
+NC,Rougemont,1,2
+NC,Rural Hall,1,1
+NC,Rutherfordton,1,1
+NC,Saint Pauls,1,1
+NC,Salisbury,1,2
+NC,Saluda,1,1
+NC,Sanford,1,2
+NC,Shelby,1,5
+NC,Sherrills Ford,1,1
+NC,Smithfield,1,1
+NC,Sophia,1,1
+NC,Southern Pines,1,1
+NC,Staley,1,1
+NC,Stanley,1,1
+NC,State Road,1,1
+NC,Stedman,1,1
+NC,Stella,1,1
+NC,Stoneville,1,1
+NC,Stony Point,1,1
+NC,Summerfield,1,2
+NC,Sunset Beach,1,1
+NC,Sylva,1,1
+NC,Taylorsville,1,3
+NC,Thomasville,1,0
+NC,Todd,1,2
+NC,Trinity,1,1
+NC,Tryon,1,1
+NC,Valdese,1,1
+NC,Vanceboro,1,1
+NC,Wadesboro,1,1
+NC,Wake Forest,1,5
+NC,Walkertown,1,0
+NC,Waxhaw,1,1
+NC,Waynesville,1,3
+NC,Weaverville,1,1
+NC,Weddington,1,1
+NC,West Jefferson,1,1
+NC,Whiteville,1,0
+NC,Whittier,1,1
+NC,Wilmington,1,11
+NC,Wilson,1,1
+NC,Winston Salem,1,3
+NC,Winterville,1,1
+NC,Youngsville,1,2
+NC,Zebulon,1,1
+NC,Zionville,1,1
+ND,Bismarck,1,5
+ND,Bottineau,1,1
+ND,Cando,1,1
+ND,Cummings,1,1
+ND,Dickinson,1,1
+ND,Fargo,1,9
+ND,Grand Forks,1,0
+ND,Granville,1,1
+ND,Mandan,1,2
+ND,Minot,1,2
+ND,West Fargo,1,2
+ND,Williston,1,1
+NE,Bayard,1,1
+NE,Beatrice,1,2
+NE,Blair,1,1
+NE,Chadron,1,2
+NE,Elkhorn,1,1
+NE,Fremont,1,1
+NE,Gering,1,1
+NE,Gothenburg,1,1
+NE,Grand Island,1,1
+NE,La Vista,1,0
+NE,Lincoln,1,7
+NE,Martell,1,0
+NE,Mc Cook,1,1
+NE,Minden,1,1
+NE,Mitchell,1,1
+NE,Omaha,1,15
+NE,Papillion,1,1
+NE,Plattsmouth,1,1
+NE,Purdum,1,1
+NE,Scottsbluff,1,1
+NE,Springfield,1,1
+NE,Wahoo,1,1
+NE,Waverly,1,1
+NH,Amherst,1,1
+NH,Bedford,1,2
+NH,Belmont,1,1
+NH,Bennington,1,1
+NH,Bow,1,1
+NH,Bristol,1,1
+NH,Campton,1,0
+NH,Candia,1,1
+NH,Center harbor,1,1
+NH,Claremont,1,1
+NH,Concord,1,2
+NH,Cornish,1,1
+NH,Danville,1,1
+NH,Deerfield,1,1
+NH,Derry,1,1
+NH,Dover,1,2
+NH,East Hampstead,1,1
+NH,Enfield,1,5
+NH,Gilford,1,1
+NH,Glen,1,1
+NH,Hanover,1,0
+NH,Harrisville,1,1
+NH,Henniker,1,1
+NH,Hooksett,1,1
+NH,Hudson,1,1
+NH,Lancaster,1,1
+NH,Lebanon,1,1
+NH,Marlborough,1,1
+NH,Marlow,1,0
+NH,Meredith,1,1
+NH,Merrimack,1,3
+NH,Milford,1,1
+NH,Moultonborough,1,1
+NH,Nashua,1,2
+NH,New Boston,1,1
+NH,Newbury,1,1
+NH,Newmarket,1,0
+NH,Newton,1,1
+NH,Peterborough,1,1
+NH,Piermont,1,1
+NH,Portsmouth,1,1
+NH,Raymond,1,1
+NH,Rochester,1,2
+NH,Rumney,1,1
+NH,Sanbornton,1,1
+NH,Sanbornville,1,1
+NH,Silver Lake,1,1
+NH,Stratham,1,1
+NH,Tamworth,1,1
+NJ,Barnegat,1,1
+NJ,Barrington,1,0
+NJ,Basking Ridge,1,3
+NJ,Bayville,1,2
+NJ,Beachwood,1,1
+NJ,Belford,1,1
+NJ,Blairstown,1,2
+NJ,Brick,1,4
+NJ,Bridgeton,1,3
+NJ,Bridgewater,1,0
+NJ,Browns Mills,1,1
+NJ,Burlington Township,1,1
+NJ,Caldwell,1,2
+NJ,Cape May,1,1
+NJ,Cherry Hill,1,1
+NJ,Chester,1,1
+NJ,Clark,1,1
+NJ,Clifton,1,2
+NJ,Closter,1,1
+NJ,Collingswood,1,1
+NJ,Colonia,1,1
+NJ,Denville,1,2
+NJ,Dumont,1,2
+NJ,East Brunswick,1,2
+NJ,East Hanover,1,0
+NJ,Eastampton,1,1
+NJ,Eatontown,1,1
+NJ,Egg Harbor Township,1,1
+NJ,Fair Lawn,1,2
+NJ,Far Hills,1,1
+NJ,Flemington,1,1
+NJ,Florham Park,1,1
+NJ,Fort Lee,1,1
+NJ,Franklin,1,1
+NJ,Freehold,1,1
+NJ,Frenchtown,1,2
+NJ,Galloway,1,1
+NJ,Gillette,1,0
+NJ,Hackensack,1,1
+NJ,Hackettstown,1,3
+NJ,Hamilton,1,3
+NJ,Hancocks Bridge,1,1
+NJ,Harrington Park,1,1
+NJ,Highland Lakes,1,1
+NJ,Highland Park,1,2
+NJ,Highlands,1,1
+NJ,Hightstown,1,1
+NJ,Hillsborough,1,4
+NJ,Hoboken,1,1
+NJ,Hopewell,1,0
+NJ,Jackson,1,2
+NJ,Jersey City,1,3
+NJ,Kinnelon,1,1
+NJ,Lake Hiawatha,1,1
+NJ,Lakewood,1,1
+NJ,Lambertville,1,2
+NJ,Landing,1,1
+NJ,Liberty Corner,1,2
+NJ,Madison,1,1
+NJ,Mahwah,1,1
+NJ,Manahawkin,1,1
+NJ,Manalapan,1,1
+NJ,Manchester,1,1
+NJ,Marlboro,1,0
+NJ,Marlton,1,1
+NJ,Matawan,1,1
+NJ,Mays Landing,1,1
+NJ,Medford,1,4
+NJ,Medford Lakes,1,1
+NJ,Middlesex,1,1
+NJ,Middletown,1,0
+NJ,Midland Park,1,1
+NJ,Milford,1,2
+NJ,Montclair,1,1
+NJ,Montvale,1,1
+NJ,Montville,1,2
+NJ,Moorestown,1,2
+NJ,Morris Plains,1,1
+NJ,Morristown,1,2
+NJ,Mount Freedom,1,1
+NJ,Mountainside,1,1
+NJ,New Brunswick,1,1
+NJ,New Providence,1,2
+NJ,Newark,1,0
+NJ,North Bergen,1,1
+NJ,North Haledon,1,1
+NJ,North Plainfield,1,0
+NJ,Nutley,1,1
+NJ,Oakland,1,4
+NJ,Old Bridge,1,1
+NJ,Old Tappan,1,1
+NJ,Orange,1,1
+NJ,Pennington,1,3
+NJ,Phillipsburg,1,1
+NJ,Pine Beach,1,1
+NJ,Pine Brook,1,1
+NJ,Piscataway,1,1
+NJ,Pitman,1,0
+NJ,Point Pleasant,1,1
+NJ,Princeton,1,4
+NJ,Princeton Junction,1,1
+NJ,Ramsey,1,1
+NJ,Randolph,1,2
+NJ,Red Bank,1,1
+NJ,Ridgefield,1,1
+NJ,Ridgewood,1,0
+NJ,Robbinsville,1,2
+NJ,Roebling,1,1
+NJ,Runnemede,1,1
+NJ,Rutherford,1,1
+NJ,Sea Girt,1,1
+NJ,Sewell,1,1
+NJ,Shamong,1,1
+NJ,Somerset,1,1
+NJ,South Hackensack,1,0
+NJ,South Orange,1,1
+NJ,South Plainfield,1,1
+NJ,South River,1,0
+NJ,Sparta,1,0
+NJ,Stockton,1,2
+NJ,Stratford,1,1
+NJ,Summit,1,1
+NJ,Sussex,1,1
+NJ,Tenafly,1,1
+NJ,Toms River,1,2
+NJ,Totowa,1,0
+NJ,Towaco,1,2
+NJ,Trenton,1,1
+NJ,Tuckerton,1,1
+NJ,Union,1,2
+NJ,Verona,1,1
+NJ,Vineland,1,1
+NJ,Waldwick,1,2
+NJ,Warren,1,0
+NJ,West Caldwell,1,0
+NJ,West Creek,1,1
+NJ,West Milford,1,0
+NJ,Westfield,1,1
+NJ,Whitehouse Station,1,1
+NJ,Whiting,1,1
+NJ,Williamstown,1,1
+NJ,Wilmington,1,0
+NJ,Woodbury,1,2
+NJ,Woodland Park,1,1
+NJ,Wyckoff,1,2
+NM,Albuquerque,1,18
+NM,Arroyo Seco,1,2
+NM,Chimayo,1,1
+NM,Corrales,1,1
+NM,El Prado,1,1
+NM,Espanola,1,2
+NM,Farmington,1,2
+NM,Las Cruces,1,2
+NM,Las Vegas,1,1
+NM,Los Alamos,1,2
+NM,Los Lunas,1,1
+NM,Ramah,1,0
+NM,Roswell,1,0
+NM,Ruidoso,1,1
+NM,Santa Fe,1,10
+NM,Sante Fe,1,1
+NM,Taos,1,6
+NV,Carson City,1,8
+NV,Crescent Valley,1,0
+NV,Dayton,1,1
+NV,Fallon,1,2
+NV,Gardnerville,1,3
+NV,Henderson,1,8
+NV,Indian Springs,1,2
+NV,Las Vegas,1,42
+NV,Laughlin,1,1
+NV,Minden,1,1
+NV,N Las Vegas,1,1
+NV,North Las Vegas,1,5
+NV,Reno,1,41
+NV,Silver City,1,0
+NV,Sparks,1,9
+NV,Spring Creek,1,1
+NV,Sun Valley,1,1
+NV,Verdi,1,1
+NV,Washoe Valley,1,2
+NV,Wellington,1,1
+NV,Yerington,1,1
+NY,Accord,1,2
+NY,Adams Center,1,1
+NY,Albany,1,3
+NY,Albertson,1,1
+NY,Altmar,1,0
+NY,Amenia,1,1
+NY,Amherst,1,1
+NY,Andes,1,1
+NY,Angola,1,0
+NY,Arkville,1,1
+NY,Ashville,1,2
+NY,Astoria,1,1
+NY,Attica,1,1
+NY,Auburn,1,2
+NY,Avon,1,1
+NY,Babylon,1,0
+NY,Bainbridge,1,1
+NY,Baiting Hollow,1,1
+NY,Baldwin,1,1
+NY,Barker,1,1
+NY,Batavia,1,1
+NY,Bay Shore,1,2
+NY,Beacon,1,1
+NY,Bearsville,1,1
+NY,Bedford Hills,1,6
+NY,Bellmore,1,1
+NY,Bergen,1,1
+NY,Berlin,1,1
+NY,Bethpage,1,1
+NY,Binghamton,1,2
+NY,Black River,1,0
+NY,Blauvelt,1,1
+NY,Bloomfield,1,2
+NY,Bluff Point,1,1
+NY,Bohemia,1,2
+NY,Bolton Landing,1,1
+NY,Boston,1,1
+NY,Brewster,1,0
+NY,Bridgehampton,1,1
+NY,Brockport,1,3
+NY,Bronx,1,3
+NY,Brookhaven,1,1
+NY,Brooklyn,1,26
+NY,Brooktondale,1,1
+NY,Buffalo,1,4
+NY,Burnt Hills,1,1
+NY,Byron,1,1
+NY,Caledonia,1,1
+NY,Canandaigua,1,2
+NY,Canastota,1,1
+NY,Carmel,1,4
+NY,Catskill,1,1
+NY,Cazenovia,1,1
+NY,Center Moriches,1,3
+NY,Centereach,1,1
+NY,Centerport,1,4
+NY,Central Islip,1,0
+NY,Central Square,1,2
+NY,Charlton,1,1
+NY,Chatham,1,1
+NY,Cheektowaga,1,1
+NY,Chester,1,1
+NY,Chittenango,1,2
+NY,Clarence Center,1,0
+NY,Clifton Park,1,1
+NY,Clinton,1,2
+NY,Clintondale,1,0
+NY,Cold Spring,1,2
+NY,Collins,1,0
+NY,Colton,1,1
+NY,Commack,1,1
+NY,Copake,1,0
+NY,Copiague,1,1
+NY,Coram,1,1
+NY,Cornwall,1,1
+NY,Corona,1,2
+NY,Cortland,1,2
+NY,Cortlandt Manor,1,1
+NY,Croton On Hudson,1,1
+NY,Deansboro,1,0
+NY,Delanson,1,1
+NY,Dix Hills,1,1
+NY,Dobbs Ferry,1,1
+NY,Dover Plains,1,0
+NY,Dryden,1,1
+NY,Duanesburg,1,1
+NY,Dunkirk,1,1
+NY,East Aurora,1,3
+NY,East Elmhurst,1,1
+NY,East Hampton,1,6
+NY,East Islip,1,1
+NY,East Meadow,1,1
+NY,East Nassau,1,1
+NY,East Northport,1,2
+NY,East Norwich,1,1
+NY,East Otto,1,0
+NY,East Patchogue,1,1
+NY,East Syracuse,1,3
+NY,Elbridge,1,1
+NY,Ellenville,1,1
+NY,Elmsford,1,3
+NY,Fabius,1,0
+NY,Fairport,1,4
+NY,Farmingdale,1,1
+NY,Ferndale,1,1
+NY,Flushing,1,2
+NY,Fonda,1,1
+NY,Fort Ann,1,1
+NY,Fort Covington,1,2
+NY,Freeport,1,1
+NY,Fresh Meadows,1,1
+NY,Frewsburg,1,1
+NY,Galway,1,1
+NY,Gansevoort,1,1
+NY,Garden City,1,1
+NY,Garrison,1,2
+NY,Geneva,1,1
+NY,Getzville,1,2
+NY,Glen Cove,1,4
+NY,Glen Head,1,1
+NY,Glenwood Landing,1,1
+NY,Goshen,1,0
+NY,Grand Island,1,1
+NY,Greenwood Lake,1,1
+NY,Hamburg,1,1
+NY,Hampton Bays,1,3
+NY,Harriman,1,1
+NY,Harrisville,1,1
+NY,Hartsdale,1,1
+NY,Hastings On Hudson,1,1
+NY,Hauppauge,1,1
+NY,Hawthorne,1,1
+NY,Hemlock,1,0
+NY,Hempstead,1,1
+NY,Henrietta,1,1
+NY,Hicksville,1,2
+NY,Highland,1,0
+NY,Holland,1,2
+NY,Holley,1,1
+NY,Hopewell Jct,1,1
+NY,Hopewell Junction,1,1
+NY,Howard Beach,1,1
+NY,Hudson,1,1
+NY,Hunt,1,9
+NY,Huntington,1,8
+NY,Huntington Station,1,1
+NY,Ilion,1,1
+NY,Irvington,1,2
+NY,Ithaca,1,5
+NY,Jackson Heights,1,1
+NY,Jamesport,1,3
+NY,Jamestown,1,3
+NY,Jamesville,1,2
+NY,Java Center,1,1
+NY,Katonah,1,0
+NY,Kew Gardens,1,2
+NY,Kew Gardens Hills,1,1
+NY,Kings Park,1,2
+NY,Kingston,1,5
+NY,Lackawanna,1,2
+NY,Lake Luzerne,1,0
+NY,Lancaster,1,4
+NY,Lansing,1,1
+NY,Larchmont,1,1
+NY,Latham,1,1
+NY,Levittown,1,0
+NY,Lima,1,1
+NY,Lindenhurst,1,2
+NY,Lisle,1,0
+NY,Liverpool,1,2
+NY,Livingston Manor,1,1
+NY,Locke,1,1
+NY,Lockport,1,1
+NY,Long Beach,1,2
+NY,Lyons Falls,1,1
+NY,Mahopac,1,1
+NY,Mamaroneck,1,3
+NY,Manchester,1,1
+NY,Massapequa,1,1
+NY,Mattituck,1,2
+NY,Medford,1,1
+NY,Melville,1,1
+NY,Middle Island,1,1
+NY,Middle Village,1,0
+NY,Middletown,1,1
+NY,Millbrook,1,0
+NY,Miller Place,1,3
+NY,Millerton,1,2
+NY,Minoa,1,1
+NY,Montauk,1,2
+NY,Montrose,1,1
+NY,Mount Kisco,1,2
+NY,Mount Sinai,1,1
+NY,Naples,1,1
+NY,Narrowsburg,1,1
+NY,Nesconset,1,1
+NY,New City,1,1
+NY,New Hartford,1,1
+NY,New Paltz,1,1
+NY,New Rochelle,1,5
+NY,New Windsor,1,1
+NY,New York,1,17
+NY,New York City,1,2
+NY,Newark,1,2
+NY,Newark Valley,1,1
+NY,Newburgh,1,4
+NY,Newfane,1,0
+NY,North Salem,1,1
+NY,North Syracuse,1,0
+NY,North Tonawanda,1,1
+NY,Northport,1,2
+NY,Norwich,1,2
+NY,Norwood,1,1
+NY,Nunda,1,1
+NY,Nyack,1,1
+NY,Oakland Gardens,1,1
+NY,Oceanside,1,2
+NY,Ogdensburg,1,1
+NY,Oneida,1,0
+NY,Orchard Park,1,0
+NY,Ossining,1,2
+NY,Oswego,1,1
+NY,Owego,1,1
+NY,Owls Head,1,1
+NY,Oyster Bay,1,4
+NY,Palisades,1,1
+NY,Palmyra,1,1
+NY,Patchogue,1,4
+NY,Patterson,1,0
+NY,Paul Smiths,1,1
+NY,Pearl River,1,2
+NY,Pelham,1,1
+NY,Penfield,1,1
+NY,Peru,1,1
+NY,Petersburg,1,2
+NY,Pine Plains,1,1
+NY,Pittsford,1,1
+NY,Pleasant Valley,1,1
+NY,Port Jefferson,1,2
+NY,Port Washington,1,5
+NY,Poughkeepsie,1,5
+NY,Poughquag,1,2
+NY,Putnam Valley,1,2
+NY,Queens,1,4
+NY,Queens Village,1,1
+NY,Queensbury,1,1
+NY,Quogue,1,1
+NY,Ray Brook,1,0
+NY,Rhinebeck,1,1
+NY,Richford,1,1
+NY,Ridgewood,1,2
+NY,Riverhead,1,1
+NY,Rochester,1,8
+NY,Rocky Point,1,1
+NY,Rodman,1,0
+NY,Rome,1,1
+NY,Roslyn,1,0
+NY,Rushville,1,1
+NY,Rye,1,3
+NY,S Ozone Park,1,0
+NY,Sag Harbor,1,1
+NY,Sagaponack,1,0
+NY,Saint James,1,1
+NY,Saint Regis Falls,1,0
+NY,Salt Point,1,1
+NY,Saranac Lake,1,1
+NY,Saratoga Springs,1,3
+NY,Saugerties,1,0
+NY,Sayville,1,1
+NY,Scarsdale,1,4
+NY,Schenectady,1,3
+NY,Scotia,1,0
+NY,Selden,1,1
+NY,Shelter Island,1,2
+NY,Shelter Island Heights,1,0
+NY,Shortsville,1,1
+NY,Sinclairville,1,1
+NY,Skaneateles,1,0
+NY,Sleepy Hollow,1,1
+NY,Smithtown,1,4
+NY,Somers,1,1
+NY,South Jamesport,1,1
+NY,South Salem,1,1
+NY,Southampton,1,8
+NY,Spencer,1,1
+NY,Speonk,1,2
+NY,Spring Valley,1,3
+NY,Springville,1,1
+NY,Stanfordville,1,1
+NY,Staten Island,1,11
+NY,Stone Ridge,1,0
+NY,Stony Brook,1,2
+NY,STONY POINT,1,1
+NY,Stuyvesant Falls,1,2
+NY,Suffern,1,1
+NY,Sunnyside,1,1
+NY,Syracuse,1,4
+NY,Taberg,1,0
+NY,Tarrytown,1,1
+NY,Tonawanda,1,3
+NY,Treadwell,1,1
+NY,Troy,1,4
+NY,Trumansburg,1,2
+NY,Tuxedo Park,1,0
+NY,Upper Jay,1,1
+NY,Valley Cottage,1,2
+NY,Valley Falls,1,1
+NY,Valley Stream,1,1
+NY,Van Etten,1,1
+NY,Vestal,1,2
+NY,Victor,1,1
+NY,Voorheesville,1,0
+NY,Wading River,1,5
+NY,Wallkill,1,1
+NY,Walworth,1,1
+NY,Wappingers Falls,1,0
+NY,Warwick,1,6
+NY,Water Mill,1,3
+NY,Watertown,1,2
+NY,Wayland,1,0
+NY,Webster,1,1
+NY,West Hurley,1,2
+NY,West Islip,1,1
+NY,West Monroe,1,0
+NY,Westbury,1,2
+NY,Westfield,1,0
+NY,Westport,1,1
+NY,White Plains,1,5
+NY,Whitney Point,1,1
+NY,Wilmington,1,1
+NY,Wingdale,1,1
+NY,Woodbury,1,1
+NY,Wurtsboro,1,0
+NY,Yaphank,1,1
+NY,Yonkers,1,4
+NY,Yorktown Heights,1,1
+OH,New Franklin,1,3
+OH,Aberdeen,1,0
+OH,Akron,1,18
+OH,Alexandria,1,1
+OH,Alger,1,1
+OH,Alliance,1,2
+OH,Amelia,1,2
+OH,Amherst,1,1
+OH,Archbold,1,1
+OH,Ashland,1,1
+OH,Ashville,1,2
+OH,Athens,1,2
+OH,Avon,1,2
+OH,Baltimore,1,1
+OH,Batavia,1,2
+OH,Bay Village,1,2
+OH,Beavercreek,1,2
+OH,Bedford,1,1
+OH,Bellaire,1,2
+OH,Bellevue,1,1
+OH,Belmont,1,1
+OH,Beloit,1,1
+OH,Belpre,1,1
+OH,Blacklick,1,1
+OH,Boardman,1,1
+OH,Bowling Green,1,1
+OH,Brecksville,1,0
+OH,Brooklyn,1,2
+OH,Brooklyn Heights,1,1
+OH,Brookville,1,1
+OH,Brunswick,1,0
+OH,Bryan,1,1
+OH,Bucyrus,1,2
+OH,Burton,1,1
+OH,Camden,1,1
+OH,Campbell,1,0
+OH,Canton,1,2
+OH,Cardington,1,1
+OH,Centerburg,1,1
+OH,Centerville,1,2
+OH,Chagrin Falls,1,2
+OH,Chardon,1,3
+OH,Chillicothe,1,2
+OH,Cincinnati,1,40
+OH,Cleveland,1,15
+OH,Cleves,1,0
+OH,Clyde,1,1
+OH,Coldwater,1,1
+OH,Columbia Station,1,3
+OH,Columbus,1,35
+OH,Concord,1,1
+OH,Copley,1,1
+OH,Cortland,1,2
+OH,Covington,1,1
+OH,Custar,1,1
+OH,Cuyahoga Falls,1,3
+OH,Dayton,1,15
+OH,Defiance,1,1
+OH,Delaware,1,4
+OH,Delta,1,1
+OH,Doylestown,1,1
+OH,Dublin,1,6
+OH,East Claridon,1,1
+OH,East Liverpool,1,1
+OH,Eastlake,1,1
+OH,Euclid,1,1
+OH,Fairfield,1,0
+OH,Farmersville,1,1
+OH,Findlay,1,2
+OH,Franklin,1,1
+OH,Fremont,1,1
+OH,Gahanna,1,2
+OH,GALENA,1,0
+OH,Galion,1,0
+OH,Gallipolis,1,1
+OH,Galloway,1,1
+OH,Garfield Heights,1,1
+OH,Genoa,1,1
+OH,Georgetown,1,2
+OH,Germantown,1,2
+OH,Glenford,1,0
+OH,Glouster,1,1
+OH,Grand Rapids,1,1
+OH,Granville,1,1
+OH,Gratis,1,1
+OH,Greenville,1,3
+OH,Grove City,1,0
+OH,Guysville,1,0
+OH,Hamersville,1,2
+OH,Hamilton,1,4
+OH,Highland Hills,1,1
+OH,Hilliard,1,3
+OH,Hillsboro,1,4
+OH,Holland,1,2
+OH,Hudson,1,2
+OH,Huntsburg,1,1
+OH,Huron,1,2
+OH,Independence,1,1
+OH,Jackson,1,1
+OH,Jenera,1,0
+OH,Johnstown,1,0
+OH,Kent,1,15
+OH,Kettering,1,3
+OH,Kingsville,1,1
+OH,Kirtland,1,3
+OH,Lake Milton,1,1
+OH,Lakewood,1,2
+OH,Lancaster,1,3
+OH,Lebanon,1,3
+OH,Lewis Center,1,1
+OH,Lima,1,2
+OH,Lisbon,1,0
+OH,Lorain,1,2
+OH,Loveland,1,1
+OH,Luckey,1,1
+OH,Macedonia,1,0
+OH,Mansfield,1,4
+OH,Mantua,1,1
+OH,Marengo,1,1
+OH,Marietta,1,1
+OH,Marion,1,1
+OH,Marysville,1,2
+OH,Mason,1,1
+OH,Massillon,1,3
+OH,Maumee,1,1
+OH,Mayfield Village,1,2
+OH,Medina,1,4
+OH,Mentor,1,1
+OH,Miamisburg,1,1
+OH,Middlefield,1,2
+OH,Middletown,1,1
+OH,Milan,1,1
+OH,Milford,1,1
+OH,Millersburg,1,1
+OH,Mogadore,1,1
+OH,Monclova,1,1
+OH,Monroe,1,2
+OH,Morrow,1,1
+OH,Mount Gilead,1,1
+OH,Mount Perry,1,0
+OH,Mowrystown,1,0
+OH,Mt. Vernon,1,1
+OH,Munroe Falls,1,1
+OH,Napoleon,1,1
+OH,New Bremen,1,2
+OH,New Carlisle,1,1
+OH,New Concord,1,1
+OH,New Knoxville,1,1
+OH,New Philadelphia,1,2
+OH,Newark,1,3
+OH,Newbury,1,2
+OH,Newton Falls,1,1
+OH,North Canton,1,1
+OH,North Royalton,1,3
+OH,Northfield,1,1
+OH,Norton,1,4
+OH,Norwalk,1,2
+OH,Norwood,1,1
+OH,Novelty,1,3
+OH,Oakwood,1,1
+OH,Oberlin,1,1
+OH,Olmsted Falls,1,0
+OH,Oregonia,1,0
+OH,Orient,1,1
+OH,Orrville,1,1
+OH,Ostrander,1,1
+OH,Ottawa,1,2
+OH,Oxford,1,2
+OH,Painesville,1,3
+OH,Parma,1,2
+OH,Pataskala,1,3
+OH,Paulding,1,1
+OH,Pickerington,1,0
+OH,Poland,1,2
+OH,Portage,1,0
+OH,Portsmouth,1,1
+OH,Powell,1,0
+OH,Ravenna,1,2
+OH,Reynoldsburg,1,1
+OH,Rittman,1,1
+OH,Rock Creek,1,1
+OH,Rocky River,1,1
+OH,Russell,1,1
+OH,Saint Paris,1,1
+OH,Salem,1,2
+OH,Salineville,1,0
+OH,Seven Hills,1,1
+OH,Seville,1,1
+OH,Shaker Heights,1,1
+OH,Sidney,1,2
+OH,Solon,1,1
+OH,South Amherst,1,1
+OH,South Vienna,1,2
+OH,Spring Valley,1,2
+OH,Springboro,1,1
+OH,Springfield,1,6
+OH,Stoutsville,1,1
+OH,Stow,1,2
+OH,Streetsboro,1,3
+OH,Strongsville,1,1
+OH,Sunbury,1,2
+OH,Swanton,1,1
+OH,Sylvania,1,1
+OH,Tallmadge,1,1
+OH,Terrace Park,1,1
+OH,Thornville,1,1
+OH,Tiffin,1,1
+OH,Tipp City,1,2
+OH,Toledo,1,4
+OH,Troy,1,4
+OH,Twinsburg,1,1
+OH,Union City,1,1
+OH,Uniontown,1,2
+OH,Upper Arlington,1,0
+OH,Utica,1,0
+OH,Valley City,1,2
+OH,Vandalia,1,0
+OH,Vienna,1,2
+OH,Wadsworth,1,1
+OH,Walton Hills,1,1
+OH,Warren,1,1
+OH,Washington Court House,1,1
+OH,Waterville,1,1
+OH,Wauseon,1,1
+OH,Waynesville,1,2
+OH,Wellington,1,2
+OH,WEST CHESTER,1,3
+OH,Westerville,1,8
+OH,Westlake,1,2
+OH,Wickliffe,1,0
+OH,Willoughby,1,0
+OH,Wilmington,1,0
+OH,Windsor,1,0
+OH,Wooster,1,3
+OH,Worthington,1,2
+OH,Wyoming,1,1
+OH,Xenia,1,3
+OH,Yellow Spgs,1,0
+OH,Yellow Springs,1,1
+OH,Youngstown,1,4
+OH,Zanesville,1,5
+OK,Ada,1,2
+OK,Arcadia,1,1
+OK,Bartlesville,1,1
+OK,Bluejacket,1,1
+OK,Broken Arrow,1,3
+OK,Broken Bow,1,1
+OK,Checotah,1,0
+OK,Choctaw,1,1
+OK,Claremore,1,2
+OK,Edmond,1,2
+OK,Enid,1,2
+OK,Guthrie,1,3
+OK,Miami,1,1
+OK,Midwest City,1,1
+OK,Moore,1,1
+OK,Morris,1,1
+OK,Muskogee,1,1
+OK,Mustang,1,2
+OK,Nicoma Park,1,0
+OK,Norman,1,7
+OK,OKLAHOMA CITY,1,17
+OK,Okmulgee,1,1
+OK,Owasso,1,2
+OK,Purcell,1,1
+OK,Sand Springs,1,1
+OK,Stillwater,1,3
+OK,Tecumseh,1,0
+OK,Tulsa,1,11
+OK,Vinita,1,1
+OK,Wagoner,1,0
+OR,Adams,1,1
+OR,Aloha,1,1
+OR,Amity,1,1
+OR,Ashland,1,0
+OR,Astoria,1,4
+OR,Aurora,1,1
+OR,Baker City,1,1
+OR,Bandon,1,2
+OR,Beaverton,1,12
+OR,Bend,1,21
+OR,Brookings,1,1
+OR,Brownsville,1,1
+OR,Canby,1,3
+OR,Cannon Beach,1,1
+OR,Central Point,1,6
+OR,Clackamas,1,5
+OR,Colton,1,1
+OR,Coquille,1,1
+OR,Corvallis,1,11
+OR,Cottage Grove,1,3
+OR,Dallas,1,1
+OR,Damascus,1,1
+OR,Dexter,1,1
+OR,Eagle Point,1,1
+OR,Elgin,1,1
+OR,Enterprise,1,0
+OR,Estacada,1,2
+OR,Eugene,1,10
+OR,Florence,1,0
+OR,Forest Grove,1,5
+OR,Garibaldi,1,1
+OR,Gaston,1,1
+OR,Gervais,1,1
+OR,Gladstone,1,1
+OR,Gold Hill,1,1
+OR,Grants Pass,1,12
+OR,Gresham,1,2
+OR,Harper,1,1
+OR,Hillsboro,1,8
+OR,Hood River,1,6
+OR,Independence,1,0
+OR,Jasper,1,0
+OR,Keizer,1,1
+OR,Klamath Falls,1,3
+OR,La Grande,1,4
+OR,Lake Oswego,1,9
+OR,Lebanon,1,4
+OR,Manzanita,1,1
+OR,McMinnville,1,2
+OR,Medford,1,4
+OR,Milton Freewater,1,1
+OR,Milwaukie,1,7
+OR,Molalla,1,2
+OR,Mulino,1,2
+OR,Newberg,1,2
+OR,North Bend,1,2
+OR,Oregon City,1,2
+OR,Pendleton,1,2
+OR,Philomath,1,7
+OR,Port Orford,1,1
+OR,Portland,1,76
+OR,Portland Oregon,1,2
+OR,Redmond,1,3
+OR,Reedsport,1,1
+OR,Roseburg,1,3
+OR,Saint Helens,1,0
+OR,Salem,1,8
+OR,Sandy,1,1
+OR,Scappoose,1,1
+OR,Silverton,1,1
+OR,Springfield,1,6
+OR,Sumpter,1,1
+OR,Sunriver,1,2
+OR,Sutherlin,1,3
+OR,Talent,1,3
+OR,The Dalles,1,1
+OR,Tigard,1,4
+OR,Tillamook,1,1
+OR,Toledo,1,1
+OR,Tualatin,1,6
+OR,Waldport,1,2
+OR,White City,1,1
+OR,Williams,1,1
+OR,WILSONVILLE,1,3
+OR,Winchester,1,0
+OR,Yachats,1,1
+OR,Yoncalla,1,1
+PA,Adamstown,1,1
+PA,Albrightsville,1,1
+PA,Allentown,1,5
+PA,Allison Park,1,1
+PA,Ambler,1,2
+PA,Annville,1,2
+PA,Ardmore,1,3
+PA,Ashland,1,1
+PA,Aspers,1,1
+PA,Aston,1,3
+PA,Bakerstown,1,0
+PA,Bala Cynwyd,1,2
+PA,Bangor,1,2
+PA,Bath,1,1
+PA,Beach Lake,1,2
+PA,Beaver,1,2
+PA,Belle Vernon,1,1
+PA,Bellefonte,1,1
+PA,Bentleyville,1,1
+PA,Bethlehem,1,3
+PA,Birdsboro,1,2
+PA,Black Lick,1,1
+PA,Blairsville,1,1
+PA,Blakely,1,1
+PA,Bloomsburg,1,4
+PA,Blue Bell,1,1
+PA,Boiling Springs,1,1
+PA,Boothwyn,1,0
+PA,Bristol,1,0
+PA,Brookville,1,0
+PA,Broomall,1,1
+PA,Bryn Mawr,1,6
+PA,Burgettstown,1,0
+PA,Butler,1,1
+PA,Camp Hill,1,2
+PA,Canadensis,1,1
+PA,Carlisle,1,3
+PA,Catasauqua,1,2
+PA,Center Valley,1,2
+PA,Central City,1,1
+PA,Centre Hall,1,1
+PA,Chalfont,1,2
+PA,Chambersburg,1,9
+PA,Chester Springs,1,1
+PA,Clarendon,1,1
+PA,CLARKS SUMMIT,1,1
+PA,Clearfield,1,2
+PA,Clifton Heights,1,0
+PA,Clinton,1,1
+PA,Coatesville,1,1
+PA,Cochranville,1,1
+PA,Cogan Station,1,1
+PA,Collegeville,1,2
+PA,Columbia,1,2
+PA,Conestoga,1,2
+PA,Conneaut Lake,1,1
+PA,Conshohocken,1,3
+PA,COOPERSBURG,1,1
+PA,Coplay,1,1
+PA,Coraopolis,1,1
+PA,Croydon,1,1
+PA,Curwensville,1,0
+PA,Dallas,1,1
+PA,Dalton,1,1
+PA,Dauphin,1,1
+PA,Delmont,1,0
+PA,Derry,1,1
+PA,Devon,1,2
+PA,Douglassville,1,2
+PA,Downingtown,1,2
+PA,Doylestown,1,7
+PA,Dresher,1,0
+PA,Drexel Hill,1,1
+PA,Drums,1,2
+PA,Du Bois,1,0
+PA,Dublin,1,1
+PA,East Berlin,1,1
+PA,East Stroudsburg,1,2
+PA,Easton,1,2
+PA,Ebensburg,1,1
+PA,Eighty Four,1,1
+PA,Elizabethtown,1,2
+PA,Elkins Park,1,1
+PA,Elverson,1,1
+PA,Emmaus,1,7
+PA,Enola,1,1
+PA,Ephrata,1,2
+PA,Erdenheim,1,1
+PA,Erie,1,7
+PA,Export,1,0
+PA,Exton,1,1
+PA,Fairfield,1,0
+PA,Fairview,1,1
+PA,Falls,1,1
+PA,Farmington,1,1
+PA,Feasterville Trevose,1,2
+PA,Felton,1,1
+PA,Fleetwood,1,3
+PA,Folcroft,1,0
+PA,Frackville,1,1
+PA,Frederick,1,1
+PA,Fredonia,1,1
+PA,Gettysburg,1,2
+PA,Gibsonia,1,6
+PA,Glenmoore,1,1
+PA,Glenside,1,5
+PA,Grantville,1,0
+PA,Greenfield Township,1,1
+PA,Greensburg,1,1
+PA,Grove City,1,1
+PA,Hanover,1,1
+PA,Hanover Township,1,0
+PA,Harleysville,1,2
+PA,Harmony,1,0
+PA,Harrisburg,1,5
+PA,Hatboro,1,1
+PA,Havertown,1,1
+PA,Hawk Run,1,0
+PA,Hellertown,1,1
+PA,Honesdale,1,2
+PA,Hop Bottom,1,1
+PA,Hopewell,1,0
+PA,Hopwood,1,1
+PA,Horsham,1,2
+PA,Hulmeville,1,1
+PA,Hunlock Creek,1,0
+PA,Huntingdon Valley,1,9
+PA,Imperial,1,2
+PA,Indiana,1,2
+PA,Industry,1,1
+PA,Irwin,1,2
+PA,Jeannette,1,2
+PA,Jefferson Hills,1,1
+PA,Jersey Shore,1,1
+PA,Johnstown,1,4
+PA,Kempton,1,2
+PA,Kennett Square,1,4
+PA,King Of Prussia,1,15
+PA,Kingston,1,1
+PA,Kutztown,1,1
+PA,Lafayette Hill,1,2
+PA,Lake Ariel,1,1
+PA,Lampeter,1,1
+PA,Lancaster,1,13
+PA,Lansdale,1,1
+PA,Lansdowne,1,1
+PA,Larksville,1,0
+PA,Latrobe,1,1
+PA,Laughlintown,1,1
+PA,Lawrence,1,2
+PA,Lawrenceville,1,1
+PA,Lebanon,1,3
+PA,Leesport,1,1
+PA,Lehighton,1,1
+PA,Lenni,1,1
+PA,Leola,1,1
+PA,Levittown,1,1
+PA,Lewisburg,1,1
+PA,Lewistown,1,1
+PA,Ligonier,1,1
+PA,Lititz,1,2
+PA,Lock Haven,1,1
+PA,Lords Valley,1,1
+PA,Lower Burrell,1,1
+PA,Lucinda,1,1
+PA,Malvern,1,2
+PA,Manheim,1,2
+PA,Mc Donald,1,1
+PA,Mc Keesport,1,1
+PA,Mc Murray,1,1
+PA,Meadville,1,4
+PA,Mendenhall,1,1
+PA,Meshoppen,1,2
+PA,Middleburg,1,1
+PA,Middletown,1,1
+PA,Midland,1,1
+PA,Milford,1,1
+PA,Mill Hall,1,1
+PA,Mill Run,1,1
+PA,Millville,1,0
+PA,MOHNTON,1,2
+PA,Monroeville,1,2
+PA,Montoursville,1,1
+PA,Moon Twp,1,0
+PA,Morrisdale,1,1
+PA,Morrisville,1,1
+PA,Moscow,1,1
+PA,Muncy,1,3
+PA,Muncy Valley,1,1
+PA,Murrysville,1,0
+PA,Narvon,1,1
+PA,New Castle,1,3
+PA,New Milford,1,2
+PA,New Paris,1,1
+PA,Newport,1,0
+PA,Newtown,1,1
+PA,Newtown Square,1,0
+PA,Newville,1,2
+PA,Norristown,1,2
+PA,North Wales,1,1
+PA,Northampton,1,1
+PA,Nuangola,1,1
+PA,Oakdale,1,1
+PA,Oil City,1,1
+PA,Oley,1,0
+PA,Orangeville,1,1
+PA,Orefield,1,1
+PA,Orwigsburg,1,1
+PA,Oxford,1,1
+PA,Palm,1,4
+PA,Palmerton,1,1
+PA,Palmyra,1,2
+PA,Paoli,1,3
+PA,Patton,1,0
+PA,Pennsburg,1,1
+PA,Perkasie,1,1
+PA,Perkiomenville,1,3
+PA,Phila,1,15
+PA,Philadelphia,1,13
+PA,Philipsburg,1,0
+PA,Phoenixville,1,1
+PA,Pittsburgh,1,17
+PA,Plymouth Meeting,1,1
+PA,Pocono Pines,1,1
+PA,Port Matilda,1,1
+PA,Pottstown,1,2
+PA,Quakertown,1,2
+PA,Quarryville,1,1
+PA,Reading,1,3
+PA,Ridley Park,1,2
+PA,Riegelsville,1,1
+PA,Roaring Brook Twp,1,1
+PA,Robesonia,1,0
+PA,Rochester,1,1
+PA,Rockwood,1,1
+PA,Rowland,1,1
+PA,Royersford,1,2
+PA,Saint Marys,1,1
+PA,Sarver,1,0
+PA,Saylorsburg,1,0
+PA,Schnecksville,1,1
+PA,Schwenksville,1,3
+PA,Scott Township,1,0
+PA,Scranton,1,1
+PA,Sellersville,1,0
+PA,Sewickley,1,1
+PA,Shartlesville,1,1
+PA,Shelocta,1,0
+PA,Shrewsbury,1,1
+PA,Simpson,1,1
+PA,Slatington,1,1
+PA,Somerset,1,2
+PA,South Fork,1,1
+PA,Southampton,1,1
+PA,Spring City,1,2
+PA,Spring Mills,1,1
+PA,Springfield,1,2
+PA,Spruce Creek,1,1
+PA,State College,1,4
+PA,Stockertown,1,1
+PA,Stroudsburg,1,2
+PA,Summit Hill,1,1
+PA,Swarthmore,1,1
+PA,Telford,1,1
+PA,Thomasville,1,3
+PA,Townville,1,9
+PA,Trooper,1,1
+PA,Tunkhannock,1,1
+PA,Turbotville,1,1
+PA,Tyrone,1,1
+PA,Union City,1,1
+PA,University Park,1,1
+PA,Upper Saint Clair,1,1
+PA,Utica,1,1
+PA,Warminster,1,2
+PA,Warrington,1,1
+PA,Washington,1,2
+PA,Washington Boro,1,1
+PA,Wayne,1,3
+PA,Waynesboro,1,1
+PA,Weedville,1,1
+PA,Wellsboro,1,1
+PA,Wernersville,1,1
+PA,West Chester,1,5
+PA,West Pittston,1,1
+PA,West Sunbury,1,1
+PA,West Wyoming,1,1
+PA,Wexford,1,2
+PA,White,1,1
+PA,Williamsport,1,2
+PA,Willow Grove,1,2
+PA,Willow Street,1,2
+PA,Windber,1,0
+PA,Woodward,1,1
+PA,Worcester,1,1
+PA,Wyndmoor,1,1
+PA,Wyoming,1,1
+PA,York,1,7
+PA,Zelienople,1,1
+PA,Zionsville,1,1
+PR,Aguadilla,1,2
+PR,Aguas Buenas,1,1
+PR,Cabo Rojo,1,1
+PR,Caguas,1,2
+PR,Carolina,1,1
+PR,Cidra,1,1
+PR,Guayama,1,1
+PR,Guaynabo,1,1
+PR,Hato Rey,1,0
+PR,Juncos,1,2
+PR,Mayaguez,1,1
+PR,Quebradillas,1,1
+PR,Rio Piedras,1,1
+PR,San Juan,1,8
+PR,Utuado,1,1
+RI,Ashaway,1,0
+RI,Barrington,1,1
+RI,Bristol,1,1
+RI,Charlestown,1,1
+RI,Chepachet,1,1
+RI,Coventry,1,2
+RI,Cumberland,1,2
+RI,Greene,1,1
+RI,Harrisville,1,0
+RI,Lincoln,1,0
+RI,Narragansett,1,1
+RI,North Kingstown,1,1
+RI,Pascoag,1,1
+RI,Portsmouth,1,2
+RI,Providence,1,1
+RI,Wakefield,1,2
+RI,Warren,1,0
+RI,Warwick,1,2
+RI,Westerly,1,1
+SC,Aiken,1,3
+SC,Anderson,1,5
+SC,Andrews,1,1
+SC,Bamberg,1,1
+SC,Beaufort,1,9
+SC,Belton,1,1
+SC,Bluffton,1,3
+SC,Camden,1,1
+SC,Chapin,1,2
+SC,Charleston,1,9
+SC,Chester,1,1
+SC,Clemson,1,1
+SC,Clover,1,4
+SC,Columbia,1,7
+SC,Conway,1,3
+SC,Cross,1,0
+SC,Easley,1,3
+SC,Estill,1,1
+SC,Florence,1,3
+SC,Fountain Inn,1,1
+SC,Gaffney,1,1
+SC,Georgetown,1,1
+SC,Goose Creek,1,1
+SC,Greenville,1,6
+SC,Greenwood,1,1
+SC,Greer,1,2
+SC,Hartsville,1,1
+SC,Hilton Head Island,1,3
+SC,Hopkins,1,1
+SC,Irmo,1,1
+SC,Johns Island,1,6
+SC,Ladys Island,1,2
+SC,Lancaster,1,2
+SC,Lexington,1,3
+SC,Longs,1,1
+SC,Manning,1,1
+SC,Marion,1,1
+SC,Moore,1,0
+SC,Mount Pleasant,1,2
+SC,Mt Pleasant,1,2
+SC,Murrells Inlet,1,1
+SC,Myrtle Beach,1,6
+SC,N Charleston,1,2
+SC,Nichols,1,1
+SC,North Augusta,1,3
+SC,North Charleston,1,3
+SC,North Myrtle Beach,1,1
+SC,Pawleys Island,1,3
+SC,Pendleton,1,1
+SC,Piedmont,1,0
+SC,Pomaria,1,2
+SC,Ravenel,1,1
+SC,Rock Hill,1,2
+SC,Seabrook Island,1,0
+SC,Seneca,1,1
+SC,Simpsonville,1,2
+SC,Spartanburg,1,1
+SC,Springfield,1,1
+SC,Sullivans Island,1,1
+SC,Summerton,1,2
+SC,Summerville,1,5
+SC,Sumter,1,1
+SC,Taylors,1,2
+SC,Tega Cay,1,2
+SC,Travelers Rest,1,1
+SC,Varnville,1,0
+SC,Walterboro,1,1
+SC,West Columbia,1,2
+SC,Westminster,1,2
+SC,York,1,2
+SD,Aberdeen,1,1
+SD,Brookings,1,3
+SD,Central City,1,1
+SD,Clark,1,1
+SD,Colman,1,1
+SD,Conde,1,0
+SD,Hot Springs,1,1
+SD,Letcher,1,1
+SD,Madison,1,0
+SD,Pierre,1,1
+SD,Rapid City,1,7
+SD,Sioux Falls,1,6
+SD,Spearfish,1,3
+SD,Sturgis,1,1
+SD,White,1,0
+TN,Algood,1,1
+TN,Arlington,1,1
+TN,Ashland City,1,1
+TN,Athens,1,2
+TN,Bartlett,1,3
+TN,Bon Aqua,1,0
+TN,Brentwood,1,1
+TN,Butler,1,1
+TN,Chattanooga,1,10
+TN,Clarksville,1,2
+TN,Collierville,1,1
+TN,Columbia,1,2
+TN,Cookeville,1,1
+TN,Cordova,1,1
+TN,Crossville,1,1
+TN,Cumberland Furnace,1,1
+TN,Dandridge,1,1
+TN,Decatur,1,1
+TN,Dickson,1,1
+TN,Drummonds,1,1
+TN,Duck River,1,0
+TN,Dunlap,1,2
+TN,Eads,1,1
+TN,Elizabethton,1,1
+TN,Fairview,1,3
+TN,Fayetteville,1,0
+TN,Franklin,1,6
+TN,Friendsville,1,0
+TN,Gatlinburg,1,1
+TN,Germantown,1,2
+TN,Goodlettsville,1,1
+TN,Greenback,1,1
+TN,Harriman,1,1
+TN,Harrison,1,0
+TN,Hendersonville,1,1
+TN,Hermitage,1,1
+TN,Hixson,1,1
+TN,Hohenwald,1,2
+TN,Jackson,1,0
+TN,Johnson City,1,4
+TN,Jonesborough,1,0
+TN,Kingsport,1,2
+TN,Kingston Springs,1,0
+TN,Knoxville,1,19
+TN,La Vergne,1,1
+TN,Lakeland,1,1
+TN,Lebanon,1,1
+TN,Loudon,1,1
+TN,Louisville,1,2
+TN,Luttrell,1,1
+TN,Madisonville,1,2
+TN,Maryville,1,2
+TN,Mascot,1,1
+TN,Mc Minnville,1,1
+TN,Medina,1,1
+TN,Memphis,1,10
+TN,Millington,1,1
+TN,Morristown,1,1
+TN,Mount Pleasant,1,1
+TN,Mt. Juliet,1,1
+TN,Murfreesboro,1,7
+TN,Nashville,1,24
+TN,Oak Ridge,1,0
+TN,Oliver Springs,1,0
+TN,Ooltewah,1,1
+TN,Pegram,1,1
+TN,Philadelphia,1,1
+TN,Piney Flats,1,2
+TN,Rockvale,1,1
+TN,Russellville,1,1
+TN,Santa Fe,1,1
+TN,Sevierville,1,2
+TN,Sharps Chapel,1,1
+TN,Signal Mountain,1,2
+TN,Soddy Daisy,1,1
+TN,South Pittsburg,1,2
+TN,Sparta,1,1
+TN,Spring Hill,1,1
+TN,Talbott,1,1
+TN,Tellico Plains,1,1
+TN,Thompsons Station,1,2
+TN,Turtletown,1,1
+TN,Vonore,1,0
+TN,Watauga,1,1
+TN,White Bluff,1,1
+TN,White House,1,1
+TN,Whitwell,1,1
+TN,Winchester,1,1
+TX,Abilene,1,5
+TX,Alba,1,1
+TX,Aledo,1,2
+TX,Allen,1,12
+TX,Alpine,1,2
+TX,Alvarado,1,1
+TX,Alvin,1,1
+TX,Amarillo,1,9
+TX,Anna,1,1
+TX,Argyle,1,3
+TX,Arlington,1,11
+TX,Arp,1,1
+TX,Atascosa,1,0
+TX,Athens,1,1
+TX,Aubrey,1,3
+TX,Austin,1,88
+TX,Avery,1,1
+TX,Azle,1,2
+TX,Bacliff,1,0
+TX,Bastrop,1,3
+TX,Baytown,1,1
+TX,Beaumont,1,2
+TX,Bedford,1,1
+TX,Bellville,1,2
+TX,Belton,1,4
+TX,Bertram,1,1
+TX,Boerne,1,3
+TX,Bonham,1,1
+TX,Brenham,1,3
+TX,Bryan,1,2
+TX,Buda,1,4
+TX,Bulverde,1,1
+TX,Burleson,1,2
+TX,Burnet,1,1
+TX,Canyon,1,2
+TX,Canyon Lake,1,1
+TX,Carrollton,1,1
+TX,Carthage,1,1
+TX,Castroville,1,1
+TX,Cedar Hill,1,2
+TX,Cedar Park,1,2
+TX,Cleveland,1,2
+TX,Clifton,1,1
+TX,Coleman,1,1
+TX,College Station,1,5
+TX,Colleyville,1,1
+TX,Conroe,1,5
+TX,Coolidge,1,1
+TX,Corpus Christi,1,5
+TX,Crockett,1,1
+TX,Cypress,1,5
+TX,Dale,1,1
+TX,Dallas,1,40
+TX,DEL RIO,1,1
+TX,Denison,1,1
+TX,Denton,1,5
+TX,Detroit,1,0
+TX,Dickinson,1,1
+TX,Driftwood,1,1
+TX,Dripping Springs,1,1
+TX,Edinburg,1,1
+TX,El Campo,1,1
+TX,El Paso,1,2
+TX,Euless,1,1
+TX,Fairview,1,2
+TX,Falls City,1,1
+TX,Farmers Branch,1,1
+TX,Farmersville,1,0
+TX,Florence,1,2
+TX,Floresville,1,1
+TX,Flower Mound,1,3
+TX,Forney,1,2
+TX,Fort Worth,1,17
+TX,Fredericksburg,1,3
+TX,Fredonia,1,1
+TX,Friendswood,1,1
+TX,Frisco,1,1
+TX,Galveston,1,2
+TX,Garland,1,5
+TX,Georgetown,1,6
+TX,Giddings,1,0
+TX,Grand Prairie,1,2
+TX,Greenville,1,0
+TX,Groesbeck,1,1
+TX,Gun Barrel City,1,1
+TX,Harlingen,1,1
+TX,Haslet,1,1
+TX,Helotes,1,2
+TX,Hempstead,1,1
+TX,Henderson,1,1
+TX,Hewitt,1,2
+TX,Hockley,1,1
+TX,Horseshoe Bay,1,2
+TX,Houston,1,44
+TX,Humble,1,4
+TX,Hunt,1,2
+TX,Huntsville,1,1
+TX,Hutto,1,1
+TX,Ingram,1,2
+TX,Iowa Park,1,1
+TX,Irving,1,2
+TX,Jacksonville,1,1
+TX,Jarrell,1,1
+TX,Johnson City,1,3
+TX,Jonesboro,1,1
+TX,Jonestown,1,1
+TX,Joshua,1,1
+TX,Katy,1,4
+TX,Keller,1,2
+TX,Kennedale,1,1
+TX,Kerrville,1,4
+TX,Killeen,1,1
+TX,Kingsland,1,1
+TX,Kingsville,1,1
+TX,Kingwood,1,1
+TX,Kyle,1,4
+TX,LA FERIA,1,1
+TX,La Grange,1,1
+TX,La Porte,1,3
+TX,lake dallas,1,2
+TX,Lakeside,1,1
+TX,Lancaster,1,1
+TX,Leander,1,4
+TX,Lewisville,1,4
+TX,Liberty Hill,1,2
+TX,Little Elm,1,0
+TX,Lockhart,1,3
+TX,Longview,1,1
+TX,Lorena,1,1
+TX,Lott,1,0
+TX,Lubbock,1,3
+TX,Lufkin,1,2
+TX,Mabank,1,1
+TX,Magnolia,1,1
+TX,Mansfield,1,2
+TX,Marshall,1,1
+TX,Maxwell,1,0
+TX,Mc Dade,1,0
+TX,Mc Kinney,1,1
+TX,Mcallen,1,1
+TX,Mckinney,1,4
+TX,Mercedes,1,1
+TX,Mesquite,1,1
+TX,Midland,1,7
+TX,Millican,1,1
+TX,Muenster,1,1
+TX,Murphy,1,1
+TX,Nacogdoches,1,2
+TX,New Braunfels,1,7
+TX,North Richland Hills,1,4
+TX,Odessa,1,0
+TX,Ore City,1,1
+TX,Palestine,1,1
+TX,Paris,1,2
+TX,Pearland,1,3
+TX,Pflugerville,1,3
+TX,Pilot Point,1,1
+TX,Pipe Creek,1,1
+TX,Pittsburg,1,1
+TX,Plano,1,7
+TX,Porter,1,1
+TX,Portland,1,1
+TX,Prosper,1,1
+TX,Quitman,1,1
+TX,Rhome,1,1
+TX,Richardson,1,8
+TX,Richland Hills,1,1
+TX,Rockwall,1,2
+TX,Rosser,1,1
+TX,Round Rock,1,12
+TX,Rowlett,1,2
+TX,Royse City,1,1
+TX,Saginaw,1,1
+TX,Salado,1,1
+TX,San Angelo,1,5
+TX,San Antonio,1,46
+TX,San Benito,1,1
+TX,San Marcos,1,9
+TX,Sanger,1,1
+TX,Santa Fe,1,1
+TX,Schertz,1,1
+TX,Seabrook,1,1
+TX,Shelbyville,1,1
+TX,Somerset,1,0
+TX,Southlake,1,5
+TX,Spearman,1,0
+TX,Spicewood,1,0
+TX,Splendora,1,1
+TX,Spring,1,1
+TX,Stephenville,1,3
+TX,Sterling City,1,1
+TX,Sugar Land,1,1
+TX,Sunnyvale,1,1
+TX,Temple,1,3
+TX,Terrell,1,1
+TX,The Colony,1,1
+TX,The Woodlands,1,0
+TX,Thorndale,1,0
+TX,Tomball,1,1
+TX,Tyler,1,6
+TX,Universal City,1,1
+TX,Valley Mills,1,1
+TX,Victoria,1,2
+TX,Village Mills,1,1
+TX,Waco,1,4
+TX,Waskom,1,1
+TX,Watauga,1,1
+TX,Waxahachie,1,2
+TX,White Oak,1,1
+TX,Whitewright,1,1
+TX,Wichita Falls,1,1
+TX,Willis,1,1
+TX,Wimberley,1,0
+TX,Wolfforth,1,2
+TX,Woodville,1,0
+TX,Woodway,1,1
+TX,Wylie,1,6
+UT,Alpine,1,1
+UT,Alta,1,0
+UT,American Fork,1,1
+UT,Bluffdale,1,2
+UT,Bountiful,1,0
+UT,Brigham City,1,1
+UT,Clearfield,1,1
+UT,Clinton,1,2
+UT,Copperton,1,1
+UT,Dammeron Valley,1,2
+UT,Delta,1,1
+UT,Draper,1,3
+UT,Eagle Mountain,1,2
+UT,Eden,1,1
+UT,Elk Ridge,1,1
+UT,Farmington,1,3
+UT,Fruit Heights,1,0
+UT,Heber,1,3
+UT,Heber City,1,2
+UT,Herriman,1,1
+UT,Holladay,1,1
+UT,Hurricane,1,2
+UT,Hyde Park,1,1
+UT,Hyrum,1,1
+UT,Kamas,1,2
+UT,Kanab,1,1
+UT,Kanarraville,1,0
+UT,Kaysville,1,2
+UT,Kearns,1,1
+UT,La Verkin,1,1
+UT,Lake Point,1,0
+UT,Layton,1,4
+UT,Lehi,1,4
+UT,Logan,1,5
+UT,Magna,1,1
+UT,Midvale,1,4
+UT,Millcreek,1,1
+UT,Morgan,1,1
+UT,Mountain Green,1,1
+UT,Murray,1,3
+UT,Nephi,1,1
+UT,North Logan,1,2
+UT,North Ogden,1,2
+UT,Ogden,1,6
+UT,Orem,1,4
+UT,Paragonah,1,1
+UT,Park City,1,7
+UT,Parowan,1,1
+UT,Pleasant Grove,1,5
+UT,Pleasant View,1,0
+UT,Price,1,1
+UT,Providence,1,2
+UT,Provo,1,4
+UT,River Heights,1,1
+UT,Riverton,1,2
+UT,Roy,1,2
+UT,Saint George,1,5
+UT,Salt Lake City,1,1
+UT,Sandy,1,1
+UT,Santa Clara,1,1
+UT,Santaquin,1,2
+UT,Saratoga Springs,1,1
+UT,South Salt Lake,1,1
+UT,Spanish Fork,1,1
+UT,Springville,1,1
+UT,St George,1,1
+UT,Syracuse,1,2
+UT,Taylorsville,1,4
+UT,Virgin,1,1
+UT,W Bountiful,1,2
+UT,Washington,1,2
+UT,West Bountiful,1,2
+UT,West Haven,1,1
+UT,West Jordan,1,6
+UT,Woods Cross,1,1
+VA,Afton,1,1
+VA,Aldie,1,2
+VA,Alexandria,1,4
+VA,Amelia,1,1
+VA,Amissville,1,3
+VA,Annandale,1,2
+VA,Appomattox,1,1
+VA,Arlington,1,3
+VA,Ashburn,1,2
+VA,Ashland,1,3
+VA,Barboursville,1,1
+VA,Bealeton,1,1
+VA,Bedford,1,1
+VA,Belle Haven,1,0
+VA,Bentonville,1,1
+VA,Berryville,1,1
+VA,Big Stone Gap,1,1
+VA,Blacksburg,1,4
+VA,Blackstone,1,1
+VA,Bluemont,1,1
+VA,Boones Mill,1,0
+VA,Boyce,1,2
+VA,Brandy Station,1,1
+VA,Bridgewater,1,1
+VA,Brightwood,1,1
+VA,Bristol,1,1
+VA,Bristow,1,5
+VA,Broad Run,1,0
+VA,Burke,1,1
+VA,Callaway,1,1
+VA,Centreville,1,4
+VA,Chantilly,1,5
+VA,Charles City,1,0
+VA,Charlottesville,1,12
+VA,Chase City,1,1
+VA,Chatham,1,1
+VA,Chesapeake,1,12
+VA,Chester,1,5
+VA,Chesterfield,1,3
+VA,Christiansburg,1,8
+VA,Clear Brook,1,2
+VA,Colonial Bch,1,1
+VA,Crimora,1,1
+VA,Crozet,1,3
+VA,Culpeper,1,6
+VA,Danville,1,1
+VA,Dinwiddie,1,1
+VA,Dulles,1,2
+VA,Dumfries,1,1
+VA,Earlysville,1,2
+VA,Faber,1,2
+VA,Fairfax,1,14
+VA,Falls Church,1,6
+VA,Fishersville,1,3
+VA,Floyd,1,1
+VA,Forest,1,1
+VA,Fort Valley,1,1
+VA,Franklin,1,2
+VA,Fredericksbrg,1,1
+VA,Fredericksburg,1,7
+VA,Freeman,1,1
+VA,Fries,1,1
+VA,Front Royal,1,6
+VA,Fulks Run,1,1
+VA,Gainesville,1,6
+VA,Galax,1,1
+VA,Glade Spring,1,1
+VA,Glen Allen,1,0
+VA,Gloucester,1,3
+VA,Goochland,1,1
+VA,Great Falls,1,1
+VA,Gretna,1,1
+VA,Halifax,1,1
+VA,Hamilton,1,2
+VA,Hampton,1,3
+VA,Harrisonburg,1,5
+VA,Haymarket,1,2
+VA,Henrico,1,0
+VA,Henry,1,1
+VA,Herndon,1,1
+VA,Highland Springs,1,1
+VA,Hopewell,1,1
+VA,Jetersville,1,1
+VA,Jonesville,1,1
+VA,Kilmarnock,1,1
+VA,La Crosse,1,1
+VA,Lebanon,1,1
+VA,Leesburg,1,9
+VA,Lexington,1,3
+VA,Linden,1,1
+VA,Linville,1,1
+VA,Locust Dale,1,1
+VA,Locust Grove,1,2
+VA,Louisa,1,2
+VA,Lovingston,1,1
+VA,Lynchburg,1,6
+VA,Manassas,1,12
+VA,Marshall,1,2
+VA,Mathews,1,1
+VA,Mclean,1,3
+VA,Mechanicsville,1,2
+VA,Merrifield,1,1
+VA,Middleburg,1,1
+VA,Midlothian,1,7
+VA,Moneta,1,1
+VA,Montpelier,1,1
+VA,Mouth of Wilson,1,1
+VA,Mt Crawford,1,0
+VA,Natural Bridge Station,1,1
+VA,Newport News,1,2
+VA,Nokesville,1,2
+VA,Norfolk,1,9
+VA,North Chesterfield,1,1
+VA,Oakton,1,1
+VA,Onancock,1,1
+VA,Orange,1,0
+VA,Petersburg,1,2
+VA,Portsmouth,1,1
+VA,Powhatan,1,2
+VA,Prince William,1,1
+VA,Providence Forge,1,2
+VA,Purcellville,1,0
+VA,Radford,1,1
+VA,Remington,1,1
+VA,Reston,1,2
+VA,Richmond,1,34
+VA,Roanoke,1,11
+VA,Rockbridge Baths,1,1
+VA,Rockville,1,1
+VA,Roseland,1,2
+VA,Round Hill,1,1
+VA,Ruckersville,1,2
+VA,Ruther Glen,1,2
+VA,Sandston,1,0
+VA,Schuyler,1,1
+VA,Scottsville,1,2
+VA,Shipman,1,1
+VA,Somerset,1,1
+VA,Spotsylvania,1,2
+VA,Springfield,1,8
+VA,Stafford,1,2
+VA,Star Tannery,1,1
+VA,Staunton,1,6
+VA,Stephens City,1,0
+VA,Sterling,1,12
+VA,Stuarts Draft,1,1
+VA,Sudley Springs,1,1
+VA,Suffolk,1,2
+VA,Sumerduck,1,0
+VA,Tazewell,1,1
+VA,Thaxton,1,0
+VA,The Plains,1,1
+VA,Toano,1,1
+VA,Troy,1,1
+VA,Tysons Corner,1,2
+VA,Vienna,1,2
+VA,Vinton,1,0
+VA,Virginia Beach,1,16
+VA,Warrenton,1,6
+VA,Waynesboro,1,2
+VA,Williamsburg,1,7
+VA,Winchester,1,4
+VA,Woodbridge,1,2
+VA,Woodstock,1,2
+VA,Wytheville,1,3
+VA,Yorktown,1,3
+VI,Christiansted,1,0
+VI,Frederiksted,1,0
+VI,Kingshill,1,1
+VI,St Croix,1,1
+VT,Barnard,1,1
+VT,Barton,1,1
+VT,Bennington,1,1
+VT,Bethel,1,1
+VT,Brattleboro,1,1
+VT,Burlington,1,3
+VT,Chelsea,1,1
+VT,Colchester,1,2
+VT,Derby,1,1
+VT,East Arlington,1,0
+VT,Essex,1,2
+VT,Middlebury,1,1
+VT,Milton,1,2
+VT,Montpelier,1,3
+VT,New Haven,1,1
+VT,Orwell,1,1
+VT,Plainfield,1,1
+VT,Rutland,1,2
+VT,Saint Johnsbury,1,2
+VT,Sandgate,1,1
+VT,Shelburne,1,4
+VT,South Burlington,1,2
+VT,South Londonderry,1,1
+VT,South Newfane,1,1
+VT,South Pomfret,1,1
+VT,South Royalton,1,1
+VT,Springfield,1,1
+VT,Stamford,1,1
+VT,Stowe,1,1
+VT,Wallingford,1,1
+VT,Warren,1,1
+VT,Waterbury,1,3
+VT,Waterbury Center,1,1
+VT,Whitingham,1,1
+VT,Williamstown,1,0
+VT,Williston,1,1
+VT,Wilmington,1,1
+VT,Woodstock,1,4
+VT,Worcester,1,1
+WA,Aberdeen,1,1
+WA,Anacortes,1,1
+WA,Arlington,1,3
+WA,Auburn,1,4
+WA,Bainbridge Island,1,1
+WA,Battle Ground,1,4
+WA,Bellevue,1,8
+WA,Bellingham,1,9
+WA,Black Diamond,1,1
+WA,Bonney Lake,1,2
+WA,Bothell,1,4
+WA,Bow,1,0
+WA,Brier,1,1
+WA,Burien,1,0
+WA,Camano Island,1,3
+WA,Camas,1,1
+WA,Carnation,1,1
+WA,Centralia,1,1
+WA,Chattaroy,1,1
+WA,Chehalis,1,1
+WA,Cheney,1,2
+WA,Chewelah,1,1
+WA,Clayton,1,2
+WA,Cle Elum,1,1
+WA,Colville,1,1
+WA,Covington,1,1
+WA,Darrington,1,1
+WA,Dayton,1,0
+WA,Deming,1,1
+WA,Duvall,1,1
+WA,East Olympia,1,1
+WA,East Wenatchee,1,3
+WA,Eastsound,1,5
+WA,Eatonville,1,2
+WA,Edmonds,1,6
+WA,Ellensburg,1,2
+WA,Enumclaw,1,3
+WA,Everett,1,12
+WA,Everson,1,3
+WA,Fall City,1,2
+WA,Federal Way,1,3
+WA,Fife,1,1
+WA,Fox Island,1,2
+WA,Freeland,1,1
+WA,Friday Harbor,1,1
+WA,Gig Harbor,1,4
+WA,Gold Bar,1,2
+WA,Granite Falls,1,1
+WA,Index,1,1
+WA,Issaquah,1,3
+WA,Kenmore,1,3
+WA,Kennewick,1,3
+WA,Kent,1,4
+WA,Kettle Falls,1,1
+WA,Keyport,1,1
+WA,Kingston,1,2
+WA,Kirkland,1,11
+WA,La Conner,1,0
+WA,Lacey,1,1
+WA,Lake Forest Park,1,2
+WA,Lakebay,1,1
+WA,Lakewood,1,1
+WA,Langley,1,3
+WA,Liberty Lake,1,1
+WA,Longview,1,2
+WA,Lopez Island,1,2
+WA,Lynnwood,1,5
+WA,Malaga,1,0
+WA,Maple Valley,1,1
+WA,Marysville,1,2
+WA,Medical Lake,1,1
+WA,Mercer Island,1,1
+WA,Mill Creek,1,1
+WA,Milton,1,1
+WA,Mount Vernon,1,4
+WA,Mountlake Terrace,1,3
+WA,Normandy Park,1,1
+WA,North Bend,1,6
+WA,Oak Harbor,1,4
+WA,Olalla,1,2
+WA,Olympia,1,19
+WA,Orting,1,1
+WA,Pasco,1,4
+WA,Pateros,1,1
+WA,Port Angeles,1,4
+WA,Port Orchard,1,1
+WA,Port Townsend,1,2
+WA,Poulsbo,1,3
+WA,Pullman,1,1
+WA,Puyallup,1,6
+WA,Reardan,1,1
+WA,Redmond,1,6
+WA,Renton,1,5
+WA,Richland,1,4
+WA,Ridgefield,1,3
+WA,Rochester,1,1
+WA,Rock Island,1,1
+WA,Rockport,1,1
+WA,Sammamish,1,1
+WA,Seatac,1,1
+WA,Seattle,1,63
+WA,Sedro Woolley,1,1
+WA,SEQUIM,1,2
+WA,Shoreline,1,4
+WA,Silver Creek,1,1
+WA,Silverdale,1,2
+WA,Snohomish,1,11
+WA,Snoqualmie,1,0
+WA,Soap Lake,1,0
+WA,Spokane,1,29
+WA,Spokane Valley,1,5
+WA,Stanwood,1,1
+WA,Tacoma,1,11
+WA,Tahuya,1,1
+WA,Tenino,1,1
+WA,Tieton,1,1
+WA,Tumwater,1,2
+WA,Union Gap,1,1
+WA,Vancouver,1,16
+WA,Vashon,1,1
+WA,Walla Walla,1,1
+WA,Washougal,1,2
+WA,Wenatchee,1,2
+WA,White Salmon,1,1
+WA,Winlock,1,1
+WA,Winthrop,1,1
+WA,Woodinville,1,7
+WA,Woodland,1,0
+WA,Yakima,1,4
+WA,Yelm,1,1
+WI,Appleton,1,8
+WI,Arbor Vitae,1,1
+WI,Baldwin,1,1
+WI,Balsam Lake,1,1
+WI,Baraboo,1,3
+WI,Beaver Dam,1,1
+WI,Belleville,1,1
+WI,Birchwood,1,1
+WI,Blue Mounds,1,1
+WI,Brillion,1,1
+WI,Bristol,1,1
+WI,Burlington,1,2
+WI,Butler,1,2
+WI,Cedarburg,1,5
+WI,Centuria,1,1
+WI,Chippewa Falls,1,0
+WI,Coleman,1,1
+WI,Conover,1,1
+WI,Cottage Grove,1,1
+WI,Cuba City,1,1
+WI,De Pere,1,5
+WI,Deerfield,1,2
+WI,Delafield,1,0
+WI,Delavan,1,1
+WI,Dousman,1,1
+WI,Dresser,1,2
+WI,Drummond,1,1
+WI,Eagle River,1,1
+WI,East Troy,1,1
+WI,Eau Claire,1,3
+WI,Edgerton,1,0
+WI,Eleva,1,1
+WI,Elkhorn,1,2
+WI,Evansville,1,2
+WI,Fall Creek,1,1
+WI,Fall River,1,2
+WI,Fitchburg,1,3
+WI,Fond Du Lac,1,3
+WI,Fox Point,1,1
+WI,Genoa City,1,2
+WI,Glenbeulah,1,0
+WI,Grafton,1,1
+WI,Green Bay,1,3
+WI,Green Lake,1,2
+WI,Greendale,1,2
+WI,Greenfield,1,2
+WI,Hales Corners,1,1
+WI,Hartford,1,2
+WI,Hartland,1,0
+WI,Hayward,1,2
+WI,Holmen,1,3
+WI,Hortonville,1,1
+WI,Hudson,1,0
+WI,Jackson,1,1
+WI,Janesville,1,4
+WI,Kansasville,1,1
+WI,Kenosha,1,2
+WI,Kohler,1,1
+WI,La Crosse,1,2
+WI,Lake Geneva,1,1
+WI,LAKE MILLS,1,1
+WI,Lannon,1,0
+WI,Lodi,1,1
+WI,Luck,1,0
+WI,Madison,1,18
+WI,Manitowoc,1,1
+WI,Marinette,1,1
+WI,Marshfield,1,1
+WI,Mauston,1,1
+WI,Mazomanie,1,3
+WI,Mc Farland,1,1
+WI,Menomonee Falls,1,2
+WI,Mequon,1,3
+WI,Merton,1,3
+WI,Middleton,1,3
+WI,Milwaukee,1,18
+WI,Monona,1,1
+WI,Monroe,1,1
+WI,Montello,1,1
+WI,Monticello,1,1
+WI,Mosinee,1,1
+WI,Mt. Pleasant,1,1
+WI,Mukwonago,1,4
+WI,Muskego,1,0
+WI,Necedah,1,1
+WI,Neenah,1,2
+WI,Nekoosa,1,0
+WI,New Berlin,1,8
+WI,New Glarus,1,1
+WI,Oak Creek,1,1
+WI,Oconomowoc,1,4
+WI,Onalaska,1,1
+WI,Oostburg,1,1
+WI,Osceola,1,1
+WI,Oshkosh,1,4
+WI,Osseo,1,1
+WI,Pardeeville,1,1
+WI,Park Falls,1,1
+WI,Plover,1,1
+WI,Plymouth,1,1
+WI,Port Washington,1,1
+WI,Prairie Du Sac,1,1
+WI,Pulaski,1,0
+WI,Racine,1,1
+WI,Random Lake,1,1
+WI,Rio,1,2
+WI,River Falls,1,1
+WI,Roberts,1,3
+WI,Rosholt,1,1
+WI,Salem,1,1
+WI,Schofield,1,0
+WI,Seymour,1,1
+WI,Sheboygan Falls,1,1
+WI,Shorewood,1,2
+WI,St Croix Fls,1,1
+WI,Stevens Point,1,4
+WI,Stone Lake,1,1
+WI,Stoughton,1,4
+WI,Sturgeon Bay,1,3
+WI,Sturtevant,1,2
+WI,Suamico,1,1
+WI,Sullivan,1,1
+WI,Sun Prairie,1,0
+WI,Superior,1,1
+WI,Sussex,1,1
+WI,Tomahawk,1,3
+WI,Twin Lakes,1,1
+WI,Verona,1,1
+WI,Waterford,1,1
+WI,Watertown,1,1
+WI,Waukesha,1,8
+WI,Waupaca,1,1
+WI,Wausau,1,2
+WI,Wauwatosa,1,3
+WI,West Allis,1,1
+WI,West Bend,1,2
+WI,Williams Bay,1,0
+WI,Wisconsin Rapids,1,1
+WI,Wonewoc,1,0
+WI,Woodville,1,1
+WV,Augusta,1,1
+WV,Ballard,1,1
+WV,Beaver,1,1
+WV,Beckley,1,1
+WV,Berkeley Springs,1,2
+WV,Branchland,1,1
+WV,Charles Town,1,1
+WV,Charleston,1,7
+WV,Crab Orchard,1,1
+WV,Dunmore,1,1
+WV,Elkins,1,0
+WV,Fairmont,1,1
+WV,Fort Ashby,1,1
+WV,Fraziers Bottom,1,1
+WV,Glen,1,1
+WV,Great Cacapon,1,1
+WV,Hillsboro,1,0
+WV,Horner,1,1
+WV,Huntington,1,1
+WV,Kearneysville,1,1
+WV,Lewisburg,1,1
+WV,Lost Creek,1,0
+WV,Martinsburg,1,2
+WV,Milton,1,1
+WV,Moorefield,1,1
+WV,Morgantown,1,9
+WV,Parkersburg,1,1
+WV,Parsons,1,1
+WV,Princeton,1,1
+WV,Shepherdstown,1,1
+WV,Wayne,1,1
+WV,Weston,1,1
+WV,Wolfcreek,1,1
+WY,Buffalo,1,4
+WY,Casper,1,17
+WY,Cheyenne,1,13
+WY,Cody,1,2
+WY,Douglas,1,1
+WY,Evanston,1,1
+WY,Gillette,1,5
+WY,Jackson,1,4
+WY,Jeffrey City,1,1
+WY,Lander,1,3
+WY,Laramie,1,5
+WY,Newcastle,1,1
+WY,Powell,1,1
+WY,Riverton,1,3
+WY,Rock Springs,1,2
+WY,Rolling Hills,1,1
+WY,Sheridan,1,6
+WY,Thermopolis,1,1
+WY,Wilson,1,2
